@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1028908750,
+      "trackId": 1028908750,
+      "artistName": "Hidden Brain, Shankar Vedantam",
+      "collectionName": "Hidden Brain",
+      "trackName": "Hidden Brain",
+      "collectionCensoredName": "Hidden Brain",
+      "trackCensoredName": "Hidden Brain",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750?uo=4",
+      "feedUrl": "https://feeds.simplecast.com/kwWc0lhf",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-07-13T19:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 698,
+      "trackTimeMillis": 5641,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Social Sciences",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1301",
+        "1405"
+      ],
+      "genres": [
+        "Social Sciences",
+        "Podcasts",
+        "Science",
+        "Arts",
+        "Performing Arts"
+      ]
+    }
+  ]
+}

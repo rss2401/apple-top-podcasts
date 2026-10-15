@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1346054199,
+      "trackId": 1346054199,
+      "artistName": "The Radcast Network",
+      "collectionName": "Right About Now - Legendary Business Advice",
+      "trackName": "Right About Now - Legendary Business Advice",
+      "collectionCensoredName": "Right About Now - Legendary Business Advice",
+      "trackCensoredName": "Right About Now - Legendary Business Advice",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/right-about-now-legendary-business-advice/id1346054199?uo=4",
+      "feedUrl": "https://rss2.flightcast.com/yt18ke2sq76ra9pinp3xbled.xml",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/right-about-now-legendary-business-advice/id1346054199?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/1a/3d/dd1a3d55-10f1-1729-7507-4ff3d8c7afcb/mza_3489488855576015144.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/1a/3d/dd1a3d55-10f1-1729-7507-4ff3d8c7afcb/mza_3489488855576015144.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/1a/3d/dd1a3d55-10f1-1729-7507-4ff3d8c7afcb/mza_3489488855576015144.jpg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-06-30T09:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 647,
+      "trackTimeMillis": 1631,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Marketing",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/1a/3d/dd1a3d55-10f1-1729-7507-4ff3d8c7afcb/mza_3489488855576015144.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1492",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "genres": [
+        "Marketing",
+        "Podcasts",
+        "Business",
+        "Entrepreneurship"
+      ]
+    }
+  ]
+}
