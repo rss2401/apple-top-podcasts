@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 47,
+      "artistName": "TBS RADIO",
+      "id": "1000796786007",
+      "name": "＃２９　5年連続決勝でも無風！？や団に今年こそ風は吹くのか！！",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a9/e8/91/a9e89178-6230-56c2-f1f5-487ad6f7e179/mza_14930628814314042648.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%EF%BC%92%EF%BC%99-5%E5%B9%B4%E9%80%A3%E7%B6%9A%E6%B1%BA%E5%8B%9D%E3%81%A7%E3%82%82%E7%84%A1%E9%A2%A8-%E3%82%84%E5%9B%A3%E3%81%AB%E4%BB%8A%E5%B9%B4%E3%81%93%E3%81%9D%E9%A2%A8%E3%81%AF%E5%90%B9%E3%81%8F%E3%81%AE%E3%81%8B/id1560299989?i=1000796786007"
+    }
+  ]
+}

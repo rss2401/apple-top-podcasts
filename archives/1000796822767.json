@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 16,
+      "artistName": "Smosh",
+      "id": "1000796822767",
+      "name": "Digging Up Reddit's Past | Reading Reddit Stories",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/2b/cd/db2bcdeb-bb2a-ff30-5150-82f857917229/mza_5280263966999517626.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/digging-up-reddits-past-reading-reddit-stories/id1697425543?i=1000796822767"
+    }
+  ]
+}

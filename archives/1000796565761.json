@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 11,
+      "artistName": "ニッポン放送",
+      "id": "1000796565761",
+      "name": "2026年 10月16日（金）コメンテーター：宮家邦彦",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/39/0d/ef/390deffa-7bee-4569-5724-183fcfce8ab2/mza_5728218722812153443.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "ニュース",
+          "url": "https://itunes.apple.com/jp/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2026%E5%B9%B4-10%E6%9C%8816%E6%97%A5-%E9%87%91-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%BF%E3%83%BC-%E5%AE%AE%E5%AE%B6%E9%82%A6%E5%BD%A6/id1366187377?i=1000796565761"
+    }
+  ]
+}

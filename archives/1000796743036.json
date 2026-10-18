@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 67,
+      "artistName": "André Dussollier, Isabelle Choquet",
+      "id": "1000796743036",
+      "name": "L'INTÉGRALE - La 2CV, la voiture la plus moquée devenue légende",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/47/45/da4745ce-e1cc-2105-1c57-fa9c11fea29b/mza_4149138220189899362.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-la-2cv-la-voiture-la-plus-moqu%C3%A9e-devenue-l%C3%A9gende/id1834670628?i=1000796743036"
+    }
+  ]
+}

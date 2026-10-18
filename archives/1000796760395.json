@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "BBC World Service",
+      "id": "1000796760395",
+      "name": "Trump fires press secretary Katie Zacharia",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/43/98/484398c5-3712-fc94-0be0-c6ffaa969ae5/mza_17607240375420280273.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/trump-fires-press-secretary-katie-zacharia/id135067274?i=1000796760395"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "元証券マン　しんさん",
+      "id": "1000796777084",
+      "name": "106万円の壁よりも注意？そびえ立つ●●万円の壁？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/37/78/eb377824-6a35-1c00-85ba-f55f73a8ce8f/mza_16563277299036622063.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "投資"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/106%E4%B8%87%E5%86%86%E3%81%AE%E5%A3%81%E3%82%88%E3%82%8A%E3%82%82%E6%B3%A8%E6%84%8F-%E3%81%9D%E3%81%B3%E3%81%88%E7%AB%8B%E3%81%A4-%E4%B8%87%E5%86%86%E3%81%AE%E5%A3%81/id1775130625?i=1000796777084"
+    }
+  ]
+}

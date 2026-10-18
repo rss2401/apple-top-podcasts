@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "TBS RADIO",
+      "id": "1000796541434",
+      "name": "放課後PODCAST #391 映画『バイオハザード』は『バイオハザード』なのか『バイオハザード』じゃないのか",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/a6/7b/dfa67bee-ebad-83e6-25a6-e0248398e5f4/mza_14678389558391108721.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "趣味"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E6%94%BE%E8%AA%B2%E5%BE%8Cpodcast-391-%E6%98%A0%E7%94%BB-%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89-%E3%81%AF-%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89-%E3%81%AA%E3%81%AE%E3%81%8B-%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89-%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B/id1505337177?i=1000796541434"
+    }
+  ]
+}

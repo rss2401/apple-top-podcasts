@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "Jerome Colombain",
+      "id": "1000796684263",
+      "name": "Roadster-fusée de Tesla : coup de com' ou percée technologique ? (📆 L'HEBDO 17/10/26)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e3/09/c9/e309c9a2-7eb4-4756-65e8-253c46ce9f53/mza_11262125621185785734.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualités technologiques"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/roadster-fus%C3%A9e-de-tesla-coup-de-com-ou/id1572124982?i=1000796684263"
+    }
+  ]
+}

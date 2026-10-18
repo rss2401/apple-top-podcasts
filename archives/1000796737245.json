@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "ワンボタンの声制作委員会",
+      "id": "1000796737245",
+      "name": "2890回MacBookタッチスクリーン搭載機は本当にでるのか",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/a8/04/50/a8045087-5906-cc5d-8ec9-80e709a7a6c0/mza_1154459062569165595.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "技術ニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2890%E5%9B%9Emacbook%E3%82%BF%E3%83%83%E3%83%81%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E6%90%AD%E8%BC%89%E6%A9%9F%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%A7%E3%82%8B%E3%81%AE%E3%81%8B/id346500040?i=1000796737245"
+    }
+  ]
+}

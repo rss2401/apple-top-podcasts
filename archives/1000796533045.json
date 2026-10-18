@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "NPR",
+      "id": "1000796533045",
+      "name": "You Can See Everything",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/31/6d/3a316de4-bc62-ac84-1734-b4810e84588f/mza_5535017991290485742.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Film Reviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/you-can-see-everything/id278974813?i=1000796533045"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 50,
+      "artistName": "ラジオ関西",
+      "id": "1000795959118",
+      "name": "#183　アンタモットマエ！",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/00/e6/63/00e663a9-1614-75ab-1479-1ef02e56ef0f/mza_9317626080922489784.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/183-%E3%82%A2%E3%83%B3%E3%82%BF%E3%83%A2%E3%83%83%E3%83%88%E3%83%9E%E3%82%A8/id1681528378?i=1000795959118"
+    }
+  ]
+}

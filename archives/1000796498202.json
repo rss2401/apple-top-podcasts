@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "RTL",
+      "id": "1000796498202",
+      "name": "Boris Becker : \" Mon corps est usé jusqu'à la corde \"",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/fb/78/a1fb7896-3e6b-0b50-a7c9-654a32b5138d/mza_2230644703671677124.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Journaux personnels"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/boris-becker-mon-corps-est-us%C3%A9-jusqu%C3%A0-la-corde/id1346539657?i=1000796498202"
+    }
+  ]
+}

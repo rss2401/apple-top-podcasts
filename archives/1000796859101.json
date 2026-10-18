@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 9,
+      "artistName": "ゆるコンピュータ科学ラジオ",
+      "id": "1000796859101",
+      "name": "AIが書いた文章、どうやって見分ける？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/19/e8/9419e800-0168-3dd5-b7f6-9027e63c64cf/mza_10672728407411254417.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "テクノロジー",
+          "url": "https://itunes.apple.com/jp/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/ai%E3%81%8C%E6%9B%B8%E3%81%84%E3%81%9F%E6%96%87%E7%AB%A0-%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E8%A6%8B%E5%88%86%E3%81%91%E3%82%8B/id1604353315?i=1000796859101"
+    }
+  ]
+}

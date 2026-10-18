@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "TOKYO FM",
+      "id": "1000796775429",
+      "name": "広瀬すずの「よはくじかん」#158 ゲスト：藤井道人さん",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/6d/4e/626d4e77-31a1-8618-61cc-622307b360a2/mza_8621118601072613869.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "パフォーマンスアート"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E5%BA%83%E7%80%AC%E3%81%99%E3%81%9A%E3%81%AE-%E3%82%88%E3%81%AF%E3%81%8F%E3%81%98%E3%81%8B%E3%82%93-158-%E3%82%B2%E3%82%B9%E3%83%88-%E8%97%A4%E4%BA%95%E9%81%93%E4%BA%BA%E3%81%95%E3%82%93/id1712799353?i=1000796775429"
+    }
+  ]
+}

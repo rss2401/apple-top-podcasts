@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "赵艾文",
+      "id": "1000796580329",
+      "name": "《生化危机：爆发夜》恐惧没有存档",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/7e/3c/ff7e3c56-0dfc-2ea2-50ec-be661e5ef777/mza_4973449970059752080.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "节目漫谈"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA-%E7%88%86%E5%8F%91%E5%A4%9C-%E6%81%90%E6%83%A7%E6%B2%A1%E6%9C%89%E5%AD%98%E6%A1%A3/id1078007055?i=1000796580329"
+    }
+  ]
+}

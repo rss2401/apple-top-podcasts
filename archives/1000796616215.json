@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "Small Town Dicks | Audio 99 | Daylight Media",
+      "id": "1000796616215",
+      "name": "The Opposite of Love",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/f2/48/41f248d2-6183-7f88-8538-deaf464741e3/mza_12698562100499838980.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-opposite-of-love/id1271261548?i=1000796616215"
+    }
+  ]
+}

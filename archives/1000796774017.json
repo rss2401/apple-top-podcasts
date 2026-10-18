@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 56,
+      "artistName": "Nicolas Poincaré",
+      "id": "1000796774017",
+      "name": "Donald Trump lâche Volodymyr Zelensky sans crier gare",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/09/da/8e09dac0-967a-56db-5dfa-e1df27443fb9/mza_11213243699043114760.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/donald-trump-l%C3%A2che-volodymyr-zelensky-sans-crier-gare/id115156820?i=1000796774017"
+    }
+  ]
+}

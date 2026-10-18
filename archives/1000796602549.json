@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 80,
+      "artistName": "BBC Radio 4",
+      "id": "1000796602549",
+      "name": "The History of Fandom, 1700-1900 (Radio Edit)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/69/73/256973d0-879a-fd30-a99b-6db8d46b4dfc/mza_4030724364882202752.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/the-history-of-fandom-1700-1900-radio-edit/id1479973402?i=1000796602549"
+    }
+  ]
+}

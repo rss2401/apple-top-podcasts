@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 32,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000796535923",
+      "name": "なぜサウジの空港は爆撃されたのか　知ってくださいイエメン情勢 #192",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ニュース解説"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%81%AA%E3%81%9C%E3%82%B5%E3%82%A6%E3%82%B8%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AF%E7%88%86%E6%92%83%E3%81%95%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%8B-%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3%E6%83%85%E5%8B%A2-192/id1822960480?i=1000796535923"
+    }
+  ]
+}

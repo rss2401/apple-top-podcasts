@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 69,
+      "artistName": "プレジデント社",
+      "id": "1000796507470",
+      "name": "#640　性格は関係なし! 会話の成否は｢2つの原則｣で決まる…なぜか嫌われる人､好かれる人｢7つの分かれ道｣",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/e7/e7/90e7e773-e8c6-8034-c71a-b4c013309a7d/mza_8881888197255258263.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ビジネスニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/640-%E6%80%A7%E6%A0%BC%E3%81%AF%E9%96%A2%E4%BF%82%E3%81%AA%E3%81%97-%E4%BC%9A%E8%A9%B1%E3%81%AE%E6%88%90%E5%90%A6%E3%81%AF-2%E3%81%A4%E3%81%AE%E5%8E%9F%E5%89%87-%E3%81%A7%E6%B1%BA%E3%81%BE%E3%82%8B-%E3%81%AA%E3%81%9C%E3%81%8B%E5%AB%8C%E3%82%8F%E3%82%8C%E3%82%8B%E4%BA%BA-%E5%A5%BD%E3%81%8B%E3%82%8C%E3%82%8B%E4%BA%BA-7%E3%81%A4%E3%81%AE%E5%88%86%E3%81%8B%E3%82%8C%E9%81%93/id1525273315?i=1000796507470"
+    }
+  ]
+}

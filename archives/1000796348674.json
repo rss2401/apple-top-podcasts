@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 66,
+      "artistName": "Pushkin Industries",
+      "id": "1000796348674",
+      "name": "A Tale of Blood and Ashes: The Exeter Vampires | Halloween Season",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/da/01/0ada01fe-8ea4-a7f1-31dd-06ba645625f3/mza_8116098303766084648.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/a-tale-of-blood-and-ashes-the/id1484511465?i=1000796348674"
+    }
+  ]
+}

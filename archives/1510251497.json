@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -12,6 +12,31 @@
       "name": "Parenting Hell with Rob Beckett and Josh Widdicombe",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id1303"
+        },
+        {
+          "genreId": "1305",
+          "name": "Kids & Family",
+          "url": "https://itunes.apple.com/gb/genre/id1305"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 7,
+      "artistName": "Keep It Light Media / Spotify Studios",
+      "id": "1510251497",
+      "name": "Parenting Hell with Rob Beckett and Josh Widdicombe",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/f4/1a/0bf41a6f-fba6-99a1-361d-96b14402532d/mza_6626432355968217253.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "1303",

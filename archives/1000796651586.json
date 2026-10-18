@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "TBS RADIO",
+      "id": "1000796651586",
+      "name": "#55 「ズボン」か「パンツ」か",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/6e/40/e26e40a5-ca4c-b74a-8cb0-3d322fc2aeb7/mza_618985491553069186.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/55-%E3%82%BA%E3%83%9C%E3%83%B3-%E3%81%8B-%E3%83%91%E3%83%B3%E3%83%84-%E3%81%8B/id1842780905?i=1000796651586"
+    }
+  ]
+}

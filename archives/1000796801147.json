@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 23,
+      "artistName": "BBC World Service",
+      "id": "1000796801147",
+      "name": "The Happy Pod: An island of strangers saved our wedding",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/fc/57/c4fc57c6-cd3e-1615-3ef5-d15a5f5fb768/mza_13613130071449861248.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/the-happy-pod-an-island-of-strangers-saved-our-wedding/id135067274?i=1000796801147"
+    }
+  ]
+}

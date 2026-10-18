@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -12,6 +12,31 @@
       "name": "Génération Do It Yourself",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/ee/f0/55eef005-82ea-3b2f-84d7-6963eaf74b01/mza_2185539806885177446.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "Affaires",
+          "url": "https://itunes.apple.com/fr/genre/id1321"
+        },
+        {
+          "genreId": "1318",
+          "name": "Technologies",
+          "url": "https://itunes.apple.com/fr/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/g%C3%A9n%C3%A9ration-do-it-yourself/id1209142994"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 36,
+      "artistName": "Matthieu Stefani | Collision Productions",
+      "id": "1209142994",
+      "name": "Génération Do It Yourself",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/c3/2b/6ec32b79-2560-40a5-3f5a-3fe7e677fa70/mza_7744718912297422250.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "1321",

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "文化放送PodcastQR",
+      "id": "1000796762884",
+      "name": "#354「漫談王がお話してくださる」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/70/6f/60706fd2-45a3-68d8-1fff-3318af544059/mza_8457215195099911182.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/354-%E6%BC%AB%E8%AB%87%E7%8E%8B%E3%81%8C%E3%81%8A%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%82%8B/id1494068914?i=1000796762884"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "NPR",
+      "id": "1000796852468",
+      "name": "Covering AI is a journalistic imperative, and a fast moving target",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/b2/55/d8b2550b-8f2e-a273-072b-4f919d01863a/mza_2402916732113900888.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/covering-ai-is-a-journalistic-imperative-and/id1503226625?i=1000796852468"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "Vincent Parizot",
+      "id": "1000796402743",
+      "name": "Opération Condor : le pacte sanglant des dictatures sud-américaines",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/82/77/748277c7-7478-82bc-98b7-2be8f70d5bc8/mza_14915533246394805145.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/op%C3%A9ration-condor-le-pacte-sanglant-des-dictatures-sud/id1765145100?i=1000796402743"
+    }
+  ]
+}

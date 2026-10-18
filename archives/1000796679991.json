@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 74,
+      "artistName": "ニッポン放送",
+      "id": "1000796679991",
+      "name": "#289 怪談説法 三木大雲さん（後編）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/a3/a9/64a3a9fb-d8d6-8595-5da6-e4066ac70780/mza_15049450165459384562.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/289-%E6%80%AA%E8%AB%87%E8%AA%AC%E6%B3%95-%E4%B8%89%E6%9C%A8%E5%A4%A7%E9%9B%B2%E3%81%95%E3%82%93-%E5%BE%8C%E7%B7%A8/id1561323848?i=1000796679991"
+    }
+  ]
+}

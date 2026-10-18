@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 64,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000796681220",
+      "name": "L'INTÉGRALE - Les époux Cartier : crédit mortel",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f6/11/6f/f6116f77-2d91-c2a5-2102-cf4db491a5a8/mza_1934284476712146135.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-les-%C3%A9poux-cartier-cr%C3%A9dit-mortel/id389542173?i=1000796681220"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 30,
+      "artistName": "TBS RADIO",
+      "id": "1000796809286",
+      "name": "「仲代達矢さんと親友になった！？/南部広美さん最強説」ゲスト：春日太一 (時代劇・映画史研究家)【2026.10.17 OA】",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/54/52/795452aa-367a-492e-d627-831ed446567d/mza_12253951407439554199.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1511",
+          "name": "行政",
+          "url": "https://itunes.apple.com/jp/genre/id1511"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E4%BB%B2%E4%BB%A3%E9%81%94%E7%9F%A2%E3%81%95%E3%82%93%E3%81%A8%E8%A6%AA%E5%8F%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F-%E5%8D%97%E9%83%A8%E5%BA%83%E7%BE%8E%E3%81%95%E3%82%93%E6%9C%80%E5%BC%B7%E8%AA%AC-%E3%82%B2%E3%82%B9%E3%83%88-%E6%98%A5%E6%97%A5%E5%A4%AA%E4%B8%80-%E6%99%82%E4%BB%A3%E5%8A%87-%E6%98%A0%E7%94%BB%E5%8F%B2%E7%A0%94%E7%A9%B6%E5%AE%B6-2026-10-17-oa/id1887157889?i=1000796809286"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 52,
+      "artistName": "Bauer Media",
+      "id": "1000796800666",
+      "name": "One Hundred Episodes, Mucky Boy",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/a8/ec/e6a8ec91-c00c-26a4-2d9a-491ec1bc5bdb/mza_3085941669581003888.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/one-hundred-episodes-mucky-boy/id1766268823?i=1000796800666"
+    }
+  ]
+}

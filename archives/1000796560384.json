@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "MBSラジオ",
+      "id": "1000796560384",
+      "name": "石田英司「データセンターの駅周辺建設計画に住民が反発」「仏スーパーでサイバー攻撃」「阪急電鉄が全車両の中吊り広告掲出終了へ」10月16日",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/3b/6b/5b3b6b03-3925-810c-1b5c-c7545094aff0/mza_2114377704529958774.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%9F%B3%E7%94%B0%E8%8B%B1%E5%8F%B8-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%A7%85%E5%91%A8%E8%BE%BA%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%94%BB%E3%81%AB%E4%BD%8F%E6%B0%91%E3%81%8C%E5%8F%8D%E7%99%BA-%E4%BB%8F%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83-%E9%98%AA%E6%80%A5%E9%9B%BB%E9%89%84%E3%81%8C%E5%85%A8%E8%BB%8A%E4%B8%A1%E3%81%AE%E4%B8%AD%E5%90%8A%E3%82%8A%E5%BA%83%E5%91%8A%E6%8E%B2%E5%87%BA%E7%B5%82%E4%BA%86%E3%81%B8/id1588682529?i=1000796560384"
+    }
+  ]
+}

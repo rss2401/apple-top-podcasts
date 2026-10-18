@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 24,
+      "artistName": "FLASH",
+      "id": "1000796800029",
+      "name": "S26-第9回「寂しき軍団長とヴィニシウス別人説」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/39/bf/f6/39bff678-402b-8043-2348-ac94c78fc56a/mza_9880627614243377235.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/s26-%E7%AC%AC9%E5%9B%9E-%E5%AF%82%E3%81%97%E3%81%8D%E8%BB%8D%E5%9B%A3%E9%95%B7%E3%81%A8%E3%83%B4%E3%82%A3%E3%83%8B%E3%82%B7%E3%82%A6%E3%82%B9%E5%88%A5%E4%BA%BA%E8%AA%AC/id1514625612?i=1000796800029"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "Laurent Ruquier",
+      "id": "1000796857251",
+      "name": "LE MEILLEUR DE BOUVARD - La blague d'Amanda Lear",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/d1/2f/4ad12ffb-9f54-0fb3-4747-2937b8fee63a/mza_16694027091469560114.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-bouvard-la-blague-damanda-lear/id369369012?i=1000796857251"
+    }
+  ]
+}

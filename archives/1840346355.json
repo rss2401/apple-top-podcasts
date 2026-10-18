@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 78,
+      "artistName": "TBS RADIO",
+      "id": "1840346355",
+      "name": "カメとキリギリス",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/62/f7/b062f768-d6cb-814c-58a1-0b109a6f5f76/mza_18266395587683502161.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%82%AB%E3%83%A1%E3%81%A8%E3%82%AD%E3%83%AA%E3%82%AE%E3%83%AA%E3%82%B9/id1840346355"
+    }
+  ]
+}

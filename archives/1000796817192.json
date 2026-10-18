@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "Sam Tripoli",
+      "id": "1000796817192",
+      "name": "#1031: The Sinister Reason Demonic Entities Target Children With Tony Merkel",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/1d/8a/eb1d8ad9-34b0-9b33-1813-1bb096d256d5/mza_654006409218811318.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/1031-the-sinister-reason-demonic-entities-target/id577245086?i=1000796817192"
+    }
+  ]
+}

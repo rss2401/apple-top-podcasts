@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "The Bugle",
+      "id": "1000796522120",
+      "name": "Surprise Nobel snub for Trump",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f4/53/62/f45362c6-e8b4-566d-33b0-af2d649c5c8a/mza_1457113686847067098.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/surprise-nobel-snub-for-trump/id265799883?i=1000796522120"
+    }
+  ]
+}

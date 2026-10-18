@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 21,
+      "artistName": "ゆる哲学ラジオ",
+      "id": "1000796802429",
+      "name": "風呂キャンセル界隈は、人類の希望。 #195",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/3b/11/aa3b1117-19e8-0d25-6635-1002f377db63/mza_13082843816577216925.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "哲学"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E9%A2%A8%E5%91%82%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E7%95%8C%E9%9A%88%E3%81%AF-%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B8%8C%E6%9C%9B-195/id1697687442?i=1000796802429"
+    }
+  ]
+}

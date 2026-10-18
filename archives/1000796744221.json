@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 74,
+      "artistName": "RTL",
+      "id": "1000796744221",
+      "name": "BEST OF - Borne, Bregon, Bergé... P. Caverivière face aux membres du Gouvernement",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/4e/42/2b4e420d-ca84-934f-f1e0-bd63dc961cd8/mza_6828805159859729636.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-borne-bregon-berg%C3%A9-p-caverivi%C3%A8re-face-aux/id1477882043?i=1000796744221"
+    }
+  ]
+}

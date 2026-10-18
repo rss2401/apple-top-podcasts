@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "Stéphanie Duncan",
+      "id": "1000796504610",
+      "name": "Mai-juin 1940 : pourquoi la défaite de la France ? 1/5 : L’offensive allemande du 10 mai 1940",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/06/f6/ce06f62c-cb43-0fad-3978-1333e0721027/mza_7648285844781107010.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/mai-juin-1940-pourquoi-la-d%C3%A9faite-de-la-france-1-5/id1035249857?i=1000796504610"
+    }
+  ]
+}

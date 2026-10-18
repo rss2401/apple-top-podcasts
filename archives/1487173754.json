@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 95,
+      "artistName": "The Economist",
+      "id": "1487173754",
+      "name": "The World in Brief from The Economist",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/21/b1/9e21b146-e5c1-232e-00a8-10c9ac3192d2/mza_16558186685278697640.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/the-world-in-brief-from-the-economist/id1487173754"
+    }
+  ]
+}

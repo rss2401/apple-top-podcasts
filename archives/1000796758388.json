@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "Europe 1",
+      "id": "1000796758388",
+      "name": "Fryderyk Franciszek Chopin, dit Frédéric Chopin",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/0e/d6/c30ed686-b046-4577-53e4-bf768ac8c9ef/mza_14409450235502109453.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/fryderyk-franciszek-chopin-dit-fr%C3%A9d%C3%A9ric-chopin/id423534806?i=1000796758388"
+    }
+  ]
+}

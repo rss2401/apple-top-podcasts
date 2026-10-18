@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 20,
+      "artistName": "COTEN inc.",
+      "id": "1000796384513",
+      "name": "【67-9】備えあれば勝機あり！弘安の役で真価を見せるガッチガチな石壁【COTEN RADIO モンゴル帝国襲来編9】",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/95/e3/9495e333-6c4a-8b91-71ed-db6b8e7003c5/mza_15427495500994136637.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "歴史",
+          "url": "https://itunes.apple.com/jp/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/67-9-%E5%82%99%E3%81%88%E3%81%82%E3%82%8C%E3%81%B0%E5%8B%9D%E6%A9%9F%E3%81%82%E3%82%8A-%E5%BC%98%E5%AE%89%E3%81%AE%E5%BD%B9%E3%81%A7%E7%9C%9F%E4%BE%A1%E3%82%92%E8%A6%8B%E3%81%9B%E3%82%8B%E3%82%AC%E3%83%83%E3%83%81%E3%82%AC%E3%83%81%E3%81%AA%E7%9F%B3%E5%A3%81-coten-radio-%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD%E8%A5%B2%E6%9D%A5%E7%B7%A89/id1450522865?i=1000796384513"
+    }
+  ]
+}

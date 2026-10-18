@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 94,
+      "artistName": "TBS RADIO",
+      "id": "1000796455490",
+      "name": "★132【本編】高野のＴＶ出演本数",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7f/8f/d0/7f8fd054-b279-75ad-958b-03f409f72d71/mza_12303180954735712109.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/132-%E6%9C%AC%E7%B7%A8-%E9%AB%98%E9%87%8E%E3%81%AE%EF%BD%94%EF%BD%96%E5%87%BA%E6%BC%94%E6%9C%AC%E6%95%B0/id1679747605?i=1000796455490"
+    }
+  ]
+}

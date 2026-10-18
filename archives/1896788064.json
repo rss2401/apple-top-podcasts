@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 80,
+      "artistName": "Petgevity",
+      "id": "1896788064",
+      "name": "Petgevity: Pet Health and Longevity Podcast",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a4/af/d0a4af82-801e-78ef-1db2-2d01c6e2d5b1/mza_14195372789787489698.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1305",
+          "name": "Kids & Family",
+          "url": "https://itunes.apple.com/gb/genre/id1305"
+        },
+        {
+          "genreId": "1512",
+          "name": "Health & Fitness",
+          "url": "https://itunes.apple.com/gb/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/petgevity-pet-health-and-longevity-podcast/id1896788064"
+    }
+  ]
+}

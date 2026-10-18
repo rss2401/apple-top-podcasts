@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 65,
+      "artistName": "TMG Studios",
+      "id": "1605869346",
+      "name": "Brooke and Connor Make A Podcast",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/14/aa/ee14aae6-59fd-331f-01d8-fd179fa78e5f/mza_4783938649390177289.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        },
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/brooke-and-connor-make-a-podcast/id1605869346"
+    }
+  ]
+}

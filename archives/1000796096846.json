@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "英文解忧杂货铺",
+      "id": "1000796096846",
+      "name": "260810-The art of farts 关于 “肠道排气” 的科学",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/8c/78/9d8c7810-8b84-a484-2c4c-c1500b1f434a/mza_15537799444202692551.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "语言学习"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/260810-the-art-of-farts-%E5%85%B3%E4%BA%8E-%E8%82%A0%E9%81%93%E6%8E%92%E6%B0%94-%E7%9A%84%E7%A7%91%E5%AD%A6/id1813149436?i=1000796096846"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 74,
+      "artistName": "The Ringer",
+      "id": "1000796529019",
+      "name": "Roundtable Preview With Stan Van Gundy! Plus, How Good Are the Lakers?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/2d/8a/112d8a6b-2e47-2165-d6ef-1d5b4760afb2/mza_6466000752049811680.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Basketball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/roundtable-preview-with-stan-van-gundy-plus-how-good/id1805478723?i=1000796529019"
+    }
+  ]
+}

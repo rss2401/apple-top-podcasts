@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 7,
   "results": [
     {
       "month": "202604",
@@ -97,6 +97,48 @@
       "kind": "podcasts",
       "contentAdvisoryRating": "Explict",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/f9/1b/53f91b92-46f0-cf52-f65c-6b23343397c3/mza_9009835258120886668.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 35,
+      "artistName": "Joe Rogan",
+      "id": "360084272",
+      "name": "The Joe Rogan Experience",
+      "kind": "podcasts",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/66/e8/2e66e849-207e-095a-d60f-6dbdb4fcafb5/mza_14425023460891140426.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/the-joe-rogan-experience/id360084272"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 2,
+      "artistName": "Joe Rogan",
+      "id": "360084272",
+      "name": "The Joe Rogan Experience",
+      "kind": "podcasts",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/66/e8/2e66e849-207e-095a-d60f-6dbdb4fcafb5/mza_14425023460891140426.jpeg/100x100bb.png",
       "genres": [
         {
           "genreId": "1303",

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Philippe Bouvard",
+      "id": "1000796854201",
+      "name": "Arrêt sur son : Jean Yanne se fiche de Henri IV",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/dc/e5/19dce5f6-345b-35b0-7d4e-3269af366dd5/mza_13042744066026769673.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/arr%C3%AAt-sur-son-jean-yanne-se-fiche-de-henri-iv/id1653946628?i=1000796854201"
+    }
+  ]
+}

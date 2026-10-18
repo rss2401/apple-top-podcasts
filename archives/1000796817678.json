@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 63,
+      "artistName": "J-WAVE",
+      "id": "1000796817678",
+      "name": "vol.77 BE:FIRST【MANATO】&【JUNON】がナビゲート！ MANATOのRoad to なぞなぞ王/通算勝敗を教えてください/もう一回/すっげぇわこの人/プリンス/始まってないじゃん/顔色伺うことしかできない/野菜",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/ba/b1/4dbab171-30b5-91ac-a842-0202b505e53a/mza_8165306330065402570.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1310",
+          "name": "音楽",
+          "url": "https://itunes.apple.com/jp/genre/id1310"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/vol-77-be-first-manato-junon-%E3%81%8C%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%83%88-manato%E3%81%AEroad-to/id1810584667?i=1000796817678"
+    }
+  ]
+}

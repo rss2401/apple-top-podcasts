@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -12,6 +12,31 @@
       "name": "L'After Foot",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fa/ef/37/faef37e9-6aab-83cd-0d64-61e8253c75c1/mza_10208485491934580948.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1545",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/fr/genre/id1545"
+        },
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lafter-foot/id140644703"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 5,
+      "artistName": "RMC",
+      "id": "140644703",
+      "name": "L'After Foot",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/62/36/1b6236c8-db2b-0fa7-8530-b1691607962a/mza_8114194240759444394.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "1545",

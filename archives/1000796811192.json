@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 1,
+      "artistName": "ラジオ関西",
+      "id": "1000796811192",
+      "name": "#268　オタクのおっさん",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/9d/e3/499de3c8-669c-a9d3-18a5-e56e11946161/mza_12926608130596663005.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/268-%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AE%E3%81%8A%E3%81%A3%E3%81%95%E3%82%93/id1575465539?i=1000796811192"
+    }
+  ]
+}

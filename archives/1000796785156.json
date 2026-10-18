@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "The New York Times",
+      "id": "1000796785156",
+      "name": "50 Years In, What's the Point of U2? Bono and the Edge Have Answers.",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/cc/c2/d1ccc217-66c2-4bc4-afd9-14c449f420de/mza_3053441898559254157.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/50-years-in-whats-the-point-of-u2-bono-and/id1624946521?i=1000796785156"
+    }
+  ]
+}

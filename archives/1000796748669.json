@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "Crooked Media",
+      "id": "1000796748669",
+      "name": "What Does It Mean to Be a Good Man? (with Jon Ronson)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/6d/0e/746d0e51-5a3a-2331-c431-e29288adae3a/mza_3630870298966146799.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/what-does-it-mean-to-be-a-good-man-with-jon-ronson/id1610392666?i=1000796748669"
+    }
+  ]
+}

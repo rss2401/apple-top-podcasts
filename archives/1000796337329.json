@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 70,
+      "artistName": "/influx",
+      "id": "1000796337329",
+      "name": "Coloscopie avec Dominique Besnehard",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/fb/a5/aafba5b6-9610-f812-7794-144a08aadb4e/mza_2877617011017516379.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/coloscopie-avec-dominique-besnehard/id1752843346?i=1000796337329"
+    }
+  ]
+}

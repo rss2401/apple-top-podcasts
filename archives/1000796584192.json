@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "France Télévisions",
+      "id": "1000796584192",
+      "name": "Trump, une trahison fatale à l’Ukraine ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/42/a1/9342a151-c2d8-195f-270a-ffbcf676c53c/mza_17483942255330109156.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/trump-une-trahison-fatale-%C3%A0-lukraine/id1591633548?i=1000796584192"
+    }
+  ]
+}

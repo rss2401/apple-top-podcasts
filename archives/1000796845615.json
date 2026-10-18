@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 53,
+      "artistName": "Jacques Pradel",
+      "id": "1000796845615",
+      "name": "Antonio Ferrara, l'évasion spectaculaire de Fresnes",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/da/a5/6cdaa59e-d194-e289-d46c-2bb52cbff855/mza_6939034886010994332.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/antonio-ferrara-l%C3%A9vasion-spectaculaire-de-fresnes/id1616146073?i=1000796845615"
+    }
+  ]
+}

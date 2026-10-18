@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 16,
+      "artistName": "ニッポン放送",
+      "id": "1000796463914",
+      "name": "ep.262 詰んでんじゃん！",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/45/ef/5545ef1b-1bf8-5384-fe42-d1444c9d4edc/mza_8559334421843474373.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/ep-262-%E8%A9%B0%E3%82%93%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%82%93/id1588687062?i=1000796463914"
+    }
+  ]
+}

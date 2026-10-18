@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "机核网 www.gcores.com",
+      "id": "1000796835362",
+      "name": "新作井喷，核周报 10.17",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/08/3f/d0083fb9-bb85-2fe7-a767-8f1b70f51d01/mza_8920370724904949386.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1502",
+          "name": "休闲",
+          "url": "https://itunes.apple.com/cn/genre/id1502"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E6%96%B0%E4%BD%9C%E4%BA%95%E5%96%B7-%E6%A0%B8%E5%91%A8%E6%8A%A5-10-17/id420660752?i=1000796835362"
+    }
+  ]
+}

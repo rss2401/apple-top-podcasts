@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000796714349",
+      "name": "（ポリレビ #15）簗大臣の更迭、問題の本質はここだ／米国がロシアに肩入れし問われる日本外交",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/fe/8b/1ffe8bfe-4bb5-b80d-273b-5f77230849d7/mza_2666160202164064326.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ニュース解説"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%83%9D%E3%83%AA%E3%83%AC%E3%83%93-15-%E7%B0%97%E5%A4%A7%E8%87%A3%E3%81%AE%E6%9B%B4%E8%BF%AD-%E5%95%8F%E9%A1%8C%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%AF%E3%81%93%E3%81%93%E3%81%A0-%E7%B1%B3%E5%9B%BD%E3%81%8C%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AB%E8%82%A9%E5%85%A5%E3%82%8C%E3%81%97%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4/id1526773927?i=1000796714349"
+    }
+  ]
+}

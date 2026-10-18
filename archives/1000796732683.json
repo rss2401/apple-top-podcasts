@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 75,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000796732683",
+      "name": "Edmond Safra : piège fatal à Monaco",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c4/31/05/c43105b7-9bd9-e22e-d3a5-fe3a41814028/mza_13357782115737137775.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/edmond-safra-pi%C3%A8ge-fatal-%C3%A0-monaco/id1593842944?i=1000796732683"
+    }
+  ]
+}

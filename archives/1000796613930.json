@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "Crime Weekly",
+      "id": "1000796613930",
+      "name": "Ashley Flynn | A Secret Affair, 107,000 Messages, One Murder (Part 1)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/5c/ab/065cabae-595e-2447-8ecc-9f1fc1a6de2d/mza_13947099009106410225.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/ashley-flynn-a-secret-affair-107-000-messages-one/id1540621732?i=1000796613930"
+    }
+  ]
+}

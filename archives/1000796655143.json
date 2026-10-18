@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 84,
+      "artistName": "France Télévisions",
+      "id": "1000796655143",
+      "name": "[Rediffusion] Voyance : pour elles, c'est allé trop loin - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/97/9e/10979e03-9c63-2f6c-9aff-d81b312dfc5e/mza_2133214300649416688.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/rediffusion-voyance-pour-elles-cest-all%C3%A9-trop-loin/id1561370616?i=1000796655143"
+    }
+  ]
+}

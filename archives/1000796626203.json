@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 6,
+      "artistName": "ニッポン放送",
+      "id": "1000796626203",
+      "name": "#37 「クリストファー・ノーランめっちゃやることあっただろうな」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/0c/08/630c0835-b236-fdbe-76de-01fc8dacc101/mza_4163111195564783122.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1301",
+          "name": "アート",
+          "url": "https://itunes.apple.com/jp/genre/id1301"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/37-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC-%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%82%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%82%E3%81%A3%E3%81%9F%E3%81%A0%E3%82%8D%E3%81%86%E3%81%AA/id1874531482?i=1000796626203"
+    }
+  ]
+}

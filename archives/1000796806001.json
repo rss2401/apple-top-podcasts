@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 98,
+      "artistName": "Sportcast Studios",
+      "id": "1000796806001",
+      "name": "Diagonale des Fous : Hugo Deck débriefe sa victoire à chaud",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/9d/cd/639dcde4-1a11-bb9c-42dc-c82ace046a14/mza_16291303082815791719.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Course à pied"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/diagonale-des-fous-hugo-deck-d%C3%A9briefe-sa-victoire-%C3%A0-chaud/id1510967100?i=1000796806001"
+    }
+  ]
+}

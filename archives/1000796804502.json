@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 30,
+      "artistName": "Vox",
+      "id": "1000796804502",
+      "name": "Can you buy the midterms?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f6/61/86/f6618619-0725-880d-f6e8-c2494b685c08/mza_4563267579106514573.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/can-you-buy-the-midterms/id1346207297?i=1000796804502"
+    }
+  ]
+}

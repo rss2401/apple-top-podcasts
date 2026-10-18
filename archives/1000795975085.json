@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "惊讶喜剧",
+      "id": "1000795975085",
+      "name": "vol.272放了车胎气，是对初中老师的情谊",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fa/58/39/fa58393d-a028-7f09-f782-d7b7780de5ed/mza_13170865310771475582.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "喜剧",
+          "url": "https://itunes.apple.com/cn/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/vol-272%E6%94%BE%E4%BA%86%E8%BD%A6%E8%83%8E%E6%B0%94-%E6%98%AF%E5%AF%B9%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E7%9A%84%E6%83%85%E8%B0%8A/id1575323064?i=1000795975085"
+    }
+  ]
+}

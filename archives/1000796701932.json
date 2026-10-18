@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "The Fantasy Footballers",
+      "id": "1000796701932",
+      "name": "Week 6 Matchups + Wheel of Shame - Fantasy Football Podcast for 10/16",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/88/7c/68887c2c-f555-9245-bc05-60374b268e14/mza_15374431624930521651.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Fantasy Sports"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/week-6-matchups-wheel-of-shame-fantasy-football/id917453719?i=1000796701932"
+    }
+  ]
+}

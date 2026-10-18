@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "TBS RADIO",
+      "id": "1000796808808",
+      "name": "「簗農相辞任の陰で、農業と消費税」スクラップ・タイムス【2026.10.17 OA】",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/8e/c0/698ec0f5-0f39-85dd-ab82-835e5b8a2697/mza_12221619198950727519.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1511",
+          "name": "行政",
+          "url": "https://itunes.apple.com/jp/genre/id1511"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%B0%97%E8%BE%B2%E7%9B%B8%E8%BE%9E%E4%BB%BB%E3%81%AE%E9%99%B0%E3%81%A7-%E8%BE%B2%E6%A5%AD%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%97-%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9-2026-10-17-oa/id1887157889?i=1000796808808"
+    }
+  ]
+}

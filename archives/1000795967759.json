@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "TBS RADIO",
+      "id": "1000795967759",
+      "name": "#249 本編「断片的な変な記憶」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/42/73/794273a2-facf-93f7-9e36-8c8f0735ae2d/mza_8657772910591235587.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/249-%E6%9C%AC%E7%B7%A8-%E6%96%AD%E7%89%87%E7%9A%84%E3%81%AA%E5%A4%89%E3%81%AA%E8%A8%98%E6%86%B6/id1601910075?i=1000795967759"
+    }
+  ]
+}

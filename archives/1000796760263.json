@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "The Daily Beast, Joanna Coles",
+      "id": "1000796760263",
+      "name": "How Katie Lost Vicious Battle with Trump's Women",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/how-katie-lost-vicious-battle-with-trumps-women/id1508202790?i=1000796760263"
+    }
+  ]
+}

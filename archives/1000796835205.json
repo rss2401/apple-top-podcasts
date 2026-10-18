@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 4,
+      "artistName": "Chronicle",
+      "id": "1000796835205",
+      "name": "【ニュース小話 #236】ガザ、サウジアラビア…中東の流動化はどこまで進む",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c4/84/d9/c484d98b-d114-21d1-8b97-aff8431010be/mza_1154192350195402965.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%B0%8F%E8%A9%B1-236-%E3%82%AC%E3%82%B6-%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2-%E4%B8%AD%E6%9D%B1%E3%81%AE%E6%B5%81%E5%8B%95%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%80/id1608666340?i=1000796835205"
+    }
+  ]
+}

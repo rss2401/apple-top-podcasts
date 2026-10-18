@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "Financial Times",
+      "id": "1000796762112",
+      "name": "Martin Wolf on the US midterms: Is American democracy safe?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d2/7a/acd27adc-e60e-920b-478d-8d50e128fec1/mza_10611548772821994905.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/martin-wolf-on-the-us-midterms-is-american-democracy-safe/id1438449989?i=1000796762112"
+    }
+  ]
+}

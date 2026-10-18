@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcast-channels",
+      "rank": 100,
+      "id": "6447208128",
+      "name": "TYT Network",
+      "kind": "podcast-channels",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/91/0b/f7/910bf725-6159-c94a-2c90-64723439151f/fdc147e6-c73d-4d2c-8a66-e6a7a4ad1ce8.jpg/100x100bb.png",
+      "genres": [],
+      "url": "https://podcasts.apple.com/us/channel/tyt-network/id6447208128"
+    }
+  ]
+}

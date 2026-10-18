@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "Laurence Péraud et Jean-Luc Moreau",
+      "id": "1000796798522",
+      "name": "On parle auto - Mondial de l'auto 2026/ Voiture autonome dans Paris/ Mode rétro dans le monde de l'automobile",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/3d/5b/743d5b38-c0d1-649a-de9a-44f90648ce86/mza_6555173665905849072.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/on-parle-auto-mondial-de-lauto-2026-voiture-autonome/id1606185397?i=1000796798522"
+    }
+  ]
+}

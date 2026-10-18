@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "赵依侬",
+      "id": "1000796485631",
+      "name": "Ep 208｜面对生活开出的“盲盒”，咱能心平气和地面对吗？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/6a/b2/c76ab258-6966-646f-a4ad-96388880ceab/mza_5371990842118860768.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "爱好"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/ep-208-%E9%9D%A2%E5%AF%B9%E7%94%9F%E6%B4%BB%E5%BC%80%E5%87%BA%E7%9A%84-%E7%9B%B2%E7%9B%92-%E5%92%B1%E8%83%BD%E5%BF%83%E5%B9%B3%E6%B0%94%E5%92%8C%E5%9C%B0%E9%9D%A2%E5%AF%B9%E5%90%97/id1635488001?i=1000796485631"
+    }
+  ]
+}

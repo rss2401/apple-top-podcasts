@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 52,
+      "artistName": "stand.fm",
+      "id": "1000796634490",
+      "name": "#10 紛れもない14期",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1e/5f/09/1e5f0990-fe42-6e44-2ad2-a5340b37ac02/mza_4087007605669530421.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/10-%E7%B4%9B%E3%82%8C%E3%82%82%E3%81%AA%E3%81%8414%E6%9C%9F/id6799056636?i=1000796634490"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -12,6 +12,31 @@
       "name": "The Romesh Ranganathan Show",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id1303"
+        },
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/gb/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 5,
+      "artistName": "Ranga Bee",
+      "id": "1838594107",
+      "name": "The Romesh Ranganathan Show",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/80/bf/cf80bfeb-90c3-a47c-58f7-6ee57f170e59/mza_18299574842667065805.jpeg/100x100bb.png",
       "genres": [
         {
           "genreId": "1303",

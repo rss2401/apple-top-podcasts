@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "The Telegraph",
+      "id": "1000796781268",
+      "name": "Andy Burnham speaks first and thinks later",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/b4/c3/52b4c352-3f85-00b4-750f-c4d5ec45457a/mza_17375452576379000040.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/andy-burnham-speaks-first-and-thinks-later/id1489612924?i=1000796781268"
+    }
+  ]
+}

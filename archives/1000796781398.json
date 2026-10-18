@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 2,
+      "artistName": "TBS RADIO",
+      "id": "1000796781398",
+      "name": "潮吹きは私の企業努力",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/62/0b/69620b26-b9a4-d295-6bb6-b20c52cf95a0/mza_16303464997215541275.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E6%BD%AE%E5%90%B9%E3%81%8D%E3%81%AF%E7%A7%81%E3%81%AE%E4%BC%81%E6%A5%AD%E5%8A%AA%E5%8A%9B/id1572229955?i=1000796781398"
+    }
+  ]
+}

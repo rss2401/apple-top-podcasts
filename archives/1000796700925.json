@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 69,
+      "artistName": "France Télévisions",
+      "id": "1000796700925",
+      "name": "Trump / Poutine...  Zelensky peut-il tenir ? - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/38/95/bb/3895bb14-5ad8-2a5c-f1bd-e3c7c6624093/mza_311330766918577771.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/trump-poutine-zelensky-peut-il-tenir-lint%C3%A9grale/id1438726711?i=1000796700925"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 55,
+      "artistName": "TBS RADIO",
+      "id": "1000796559435",
+      "name": "#29 ケンカハゲ肉「すべては復讐のため」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/5c/57/935c5795-fe0f-e5f3-6824-8be0b03f1366/mza_13556049628375262060.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/29-%E3%82%B1%E3%83%B3%E3%82%AB%E3%83%8F%E3%82%B2%E8%82%89-%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AF%E5%BE%A9%E8%AE%90%E3%81%AE%E3%81%9F%E3%82%81/id1887460829?i=1000796559435"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "The Daily Wire",
+      "id": "1000796814923",
+      "name": "This is The Most Impressive Democrat in Years",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/40/6e/45406e30-1af5-f3e6-67c6-86aaffe9522e/mza_1644857351055524075.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/this-is-the-most-impressive-democrat-in-years/id1367210511?i=1000796814923"
+    }
+  ]
+}

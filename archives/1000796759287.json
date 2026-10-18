@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "Washington Week",
+      "id": "1000796759287",
+      "name": "Washington Week with The Atlantic full episode, 10/16/26",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ff/db/12/ffdb124d-3e70-9e03-6efd-67382be5fda6/mza_3035005384201499516.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/washington-week-with-the-atlantic-full-episode-10-16-26/id83324702?i=1000796759287"
+    }
+  ]
+}

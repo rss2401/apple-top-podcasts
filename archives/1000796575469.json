@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 81,
+      "artistName": "李翔李翔",
+      "id": "1000796575469",
+      "name": "Vol.237 对话冯仑：做一个有益于人民的老登",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e1/99/36/e1993699-0f02-6c52-de81-8b330afd875b/mza_6028334175749054957.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会与文化",
+          "url": "https://itunes.apple.com/cn/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/vol-237-%E5%AF%B9%E8%AF%9D%E5%86%AF%E4%BB%91-%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E7%9B%8A%E4%BA%8E%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E7%99%BB/id1635271946?i=1000796575469"
+    }
+  ]
+}

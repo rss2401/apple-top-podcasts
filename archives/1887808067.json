@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 59,
+      "artistName": "Océane Amsler",
+      "id": "1887808067",
+      "name": "COVER",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/e9/9f/fee99f0a-3cdc-1f82-e77e-f8b86808b328/mza_9902920766178512024.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1502",
+          "name": "Loisirs",
+          "url": "https://itunes.apple.com/fr/genre/id1502"
+        },
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/cover/id1887808067"
+    }
+  ]
+}

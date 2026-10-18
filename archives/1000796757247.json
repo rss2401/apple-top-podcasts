@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "Europe1",
+      "id": "1000796757247",
+      "name": "Les auditeurs mènent l'enquête - La neige était rouge [1/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/04/b8/bf04b821-1919-50d4-2b6f-f693c18bfb0e/mza_9395439393137748034.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-auditeurs-m%C3%A8nent-lenqu%C3%AAte-la-neige-%C3%A9tait-rouge-1-2/id1773924080?i=1000796757247"
+    }
+  ]
+}

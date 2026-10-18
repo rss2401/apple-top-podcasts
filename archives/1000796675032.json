@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "ラジオ関西",
+      "id": "1000796675032",
+      "name": "#72　ノンデリ状態",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/58/ae/ea58ae72-cd64-8146-37d9-45b6aa788f89/mza_6925635798465981268.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/72-%E3%83%8E%E3%83%B3%E3%83%87%E3%83%AA%E7%8A%B6%E6%85%8B/id1817096110?i=1000796675032"
+    }
+  ]
+}

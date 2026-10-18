@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -12,6 +12,26 @@
       "name": "Les Lueurs",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/3a/a4/123aa4d2-f84f-7278-f1ca-a2809619f411/mza_727212681931131656.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1314",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id1314"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-lueurs/id1677352708"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 14,
+      "artistName": "Jonathan Langlois",
+      "id": "1677352708",
+      "name": "Les Lueurs",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/bc/b3/dbbcb34c-08d2-35ab-273b-350bf832a865/mza_105080062908883883.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "1314",

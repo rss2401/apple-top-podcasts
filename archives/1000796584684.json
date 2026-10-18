@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "TRIPLEONE",
+      "id": "1000796584684",
+      "name": "番外編「番組開始200回記念おしゃべり回」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/95/bd/2a95bd56-7853-57d2-15aa-44c0335c3bb9/mza_17121914569753358733.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "歴史",
+          "url": "https://itunes.apple.com/jp/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%95%AA%E5%A4%96%E7%B7%A8-%E7%95%AA%E7%B5%84%E9%96%8B%E5%A7%8B200%E5%9B%9E%E8%A8%98%E5%BF%B5%E3%81%8A%E3%81%97%E3%82%83%E3%81%B9%E3%82%8A%E5%9B%9E/id1652596456?i=1000796584684"
+    }
+  ]
+}

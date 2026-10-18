@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 38,
+      "artistName": "TBS RADIO",
+      "id": "1000796808866",
+      "name": "「鳥取・島根のニュースをピックアップ/山陰でこの番組は聞かれているのか」【2026.10.17 OA】",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/7a/e4/6d7ae453-095d-9668-ab5a-a073d649adba/mza_9989597748288121912.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1511",
+          "name": "行政",
+          "url": "https://itunes.apple.com/jp/genre/id1511"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E9%B3%A5%E5%8F%96-%E5%B3%B6%E6%A0%B9%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-%E5%B1%B1%E9%99%B0%E3%81%A7%E3%81%93%E3%81%AE%E7%95%AA%E7%B5%84%E3%81%AF%E8%81%9E%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-2026-10-17-oa/id1887157889?i=1000796808866"
+    }
+  ]
+}

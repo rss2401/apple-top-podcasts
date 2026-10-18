@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 62,
+      "artistName": "France Télévisions",
+      "id": "1000796769010",
+      "name": "Rachel : agressée par l’Abbé Pierre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/63/67/6a636760-8614-353e-9ca5-6e46789a7b43/mza_8203692143694070063.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/rachel-agress%C3%A9e-par-labb%C3%A9-pierre/id1718750123?i=1000796769010"
+    }
+  ]
+}

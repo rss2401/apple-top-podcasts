@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 96,
+      "artistName": "we are_ & Time To Sign Off",
+      "id": "1792861613",
+      "name": "Dans l’ombre - we are_ x TTSO",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/33/5c/52335c35-e9ff-ba07-9f23-2343bd61f8ac/mza_12108636245545738078.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/dans-lombre-we-are-x-ttso/id1792861613"
+    }
+  ]
+}

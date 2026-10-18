@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 76,
+      "artistName": "Europe 1",
+      "id": "1000796757288",
+      "name": "Le garçon dont on voulait faire une fille - Le récit (2/2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/f9/68/ecf968fb-84aa-ab90-8d60-ba287f0054b5/mza_10597583907278918537.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-gar%C3%A7on-dont-on-voulait-faire-une-fille-le-r%C3%A9cit-2-2/id1146402624?i=1000796757288"
+    }
+  ]
+}

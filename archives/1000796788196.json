@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 64,
+      "artistName": "Victor Davis Hanson | The Daily Signal",
+      "id": "1000796788196",
+      "name": "Victor Davis Hanson: How Marxist Ideology Infiltrated American Classrooms",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/4f/3a/2a4f3a4f-2f78-f742-adbc-aaebe76ec086/mza_3586482367792118007.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/victor-davis-hanson-how-marxist-ideology-infiltrated/id1566731706?i=1000796788196"
+    }
+  ]
+}

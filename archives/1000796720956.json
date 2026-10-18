@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 35,
+      "artistName": "Chronicle",
+      "id": "1000796720956",
+      "name": "【土曜版 #98】海外知識層は、日本の何に魅力を感じているか。文化を経済につなぐ方法（ゲスト：佐宗邦威さん）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/03/fd/5603fd88-bb73-b8e4-d293-b284ba7640ff/mza_10969363428352808488.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E5%9C%9F%E6%9B%9C%E7%89%88-98-%E6%B5%B7%E5%A4%96%E7%9F%A5%E8%AD%98%E5%B1%A4%E3%81%AF-%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BD%95%E3%81%AB%E9%AD%85%E5%8A%9B%E3%82%92%E6%84%9F%E3%81%98%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-%E6%96%87%E5%8C%96%E3%82%92%E7%B5%8C%E6%B8%88%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%90%E6%96%B9%E6%B3%95-%E3%82%B2%E3%82%B9%E3%83%88-%E4%BD%90%E5%AE%97%E9%82%A6%E5%A8%81%E3%81%95%E3%82%93/id1608666340?i=1000796720956"
+    }
+  ]
+}

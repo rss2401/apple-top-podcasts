@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 81,
+      "artistName": "Laurence Devillairs",
+      "id": "1000796824114",
+      "name": "Thomas Hobbes au pouvoir : l'homme est-il un loup pour l'homme ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/01/c5/4501c5bb-42ed-0a0b-919a-2600ee1b6b52/mza_3422900644916787809.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Philosophie"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/thomas-hobbes-au-pouvoir-lhomme-est-il-un-loup-pour-lhomme/id390165399?i=1000796824114"
+    }
+  ]
+}

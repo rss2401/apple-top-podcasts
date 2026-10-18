@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 80,
+      "artistName": "KQED and Snap Studios",
+      "id": "1000796642321",
+      "name": "The Shadow Guest Pt. 1",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/06/37/82063729-cf3a-f981-f485-681dea47cb72/mza_3851079217783081618.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Performing Arts"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-shadow-guest-pt-1/id1279361017?i=1000796642321"
+    }
+  ]
+}

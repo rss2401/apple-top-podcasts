@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "Dark West Productions",
+      "id": "1000796614188",
+      "name": "Nicole Hutchings: The Fake Halloween Party",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/35/ed/6335ed70-fbd5-4cd7-cf6b-27a840e6de1c/mza_7594978556350503829.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/nicole-hutchings-the-fake-halloween-party/id1448151398?i=1000796614188"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 80,
+      "artistName": "TBS RADIO",
+      "id": "1000796786456",
+      "name": "主体性を上げる方法",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/b1/5d/d6b15d1e-7dc7-6d39-d694-3389c91ff841/mza_103761846611908841.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1533",
+          "name": "科学",
+          "url": "https://itunes.apple.com/jp/genre/id1533"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E4%B8%BB%E4%BD%93%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E6%96%B9%E6%B3%95/id1714741676?i=1000796786456"
+    }
+  ]
+}

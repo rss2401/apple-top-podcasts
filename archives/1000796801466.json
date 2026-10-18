@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "望未とひかる",
+      "id": "1000796801466",
+      "name": "#339:「ふふふ・・・アプリで出会いました？！」／ 運命の人との出会い方",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/01/de/b101dec7-e16f-4228-800a-51e55120abab/mza_4757656752485940725.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ドキュメンタリー"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/339-%E3%81%B5%E3%81%B5%E3%81%B5-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-%E9%81%8B%E5%91%BD%E3%81%AE%E4%BA%BA%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%E6%96%B9/id1506374631?i=1000796801466"
+    }
+  ]
+}

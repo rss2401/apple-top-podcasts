@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 86,
+      "artistName": "文化放送PodcastQR",
+      "id": "1000796619283",
+      "name": "【金子勝】2026年10月16日　簗農水相辞任／関文科相／政治資金パーティー／法の支配",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8f/d2/58/8fd25869-8779-26b5-3815-b952f41f9e84/mza_18210799536108781160.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E9%87%91%E5%AD%90%E5%8B%9D-2026%E5%B9%B410%E6%9C%8816%E6%97%A5-%E7%B0%97%E8%BE%B2%E6%B0%B4%E7%9B%B8%E8%BE%9E%E4%BB%BB-%E9%96%A2%E6%96%87%E7%A7%91%E7%9B%B8-%E6%94%BF%E6%B2%BB%E8%B3%87%E9%87%91%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E6%B3%95%E3%81%AE%E6%94%AF%E9%85%8D/id254180252?i=1000796619283"
+    }
+  ]
+}
