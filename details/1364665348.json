@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 127441387,
+      "collectionId": 1364665348,
+      "trackId": 1364665348,
+      "artistName": "CBC",
+      "collectionName": "The Most Wanted Olympian from Uncover",
+      "trackName": "The Most Wanted Olympian from Uncover",
+      "collectionCensoredName": "The Most Wanted Olympian from Uncover",
+      "trackCensoredName": "The Most Wanted Olympian from Uncover",
+      "artistViewUrl": "https://podcasts.apple.com/us/artist/cbc/127441387?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/the-most-wanted-olympian-from-uncover/id1364665348?uo=4",
+      "feedUrl": "https://www.cbc.ca/podcasting/includes/uncover.xml",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/the-most-wanted-olympian-from-uncover/id1364665348?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/fc/97/aefc97bc-215a-ff2d-79fd-7be93d54bb89/mza_17677391723392109733.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/fc/97/aefc97bc-215a-ff2d-79fd-7be93d54bb89/mza_17677391723392109733.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/fc/97/aefc97bc-215a-ff2d-79fd-7be93d54bb89/mza_17677391723392109733.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-12T06:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 331,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "True Crime",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/fc/97/aefc97bc-215a-ff2d-79fd-7be93d54bb89/mza_17677391723392109733.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "genres": [
+        "True Crime",
+        "Podcasts"
+      ]
+    }
+  ]
+}

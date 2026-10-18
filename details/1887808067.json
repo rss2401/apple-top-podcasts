@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1887808067,
+      "trackId": 1887808067,
+      "artistName": "Océane Amsler",
+      "collectionName": "COVER",
+      "trackName": "COVER",
+      "collectionCensoredName": "COVER",
+      "trackCensoredName": "COVER",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/cover/id1887808067?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/69b3147a00294d4abc2cffcb",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/cover/id1887808067?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/e9/9f/fee99f0a-3cdc-1f82-e77e-f8b86808b328/mza_9902920766178512024.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/e9/9f/fee99f0a-3cdc-1f82-e77e-f8b86808b328/mza_9902920766178512024.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/e9/9f/fee99f0a-3cdc-1f82-e77e-f8b86808b328/mza_9902920766178512024.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-16T17:15:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 24,
+      "trackTimeMillis": 2057,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hobbies",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/e9/9f/fee99f0a-3cdc-1f82-e77e-f8b86808b328/mza_9902920766178512024.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1505",
+        "26",
+        "1502",
+        "1324"
+      ],
+      "genres": [
+        "Hobbies",
+        "Podcasts",
+        "Loisirs",
+        "Culture et société"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1792861613,
+      "trackId": 1792861613,
+      "artistName": "we are_ & Time To Sign Off",
+      "collectionName": "Dans l’ombre - we are_ x TTSO",
+      "trackName": "Dans l’ombre - we are_ x TTSO",
+      "collectionCensoredName": "Dans l’ombre - we are_ x TTSO",
+      "trackCensoredName": "Dans l’ombre - we are_ x TTSO",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/dans-lombre-we-are-x-ttso/id1792861613?uo=4",
+      "feedUrl": "https://feed.ausha.co/rX7wDI92WpVl",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/dans-lombre-we-are-x-ttso/id1792861613?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/33/5c/52335c35-e9ff-ba07-9f23-2343bd61f8ac/mza_12108636245545738078.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/33/5c/52335c35-e9ff-ba07-9f23-2343bd61f8ac/mza_12108636245545738078.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/33/5c/52335c35-e9ff-ba07-9f23-2343bd61f8ac/mza_12108636245545738078.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-09T09:18:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 12,
+      "trackTimeMillis": 3940,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Culture et société",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/33/5c/52335c35-e9ff-ba07-9f23-2343bd61f8ac/mza_12108636245545738078.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "genres": [
+        "Culture et société",
+        "Podcasts"
+      ]
+    }
+  ]
+}

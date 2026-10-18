@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1896788064,
+      "trackId": 1896788064,
+      "artistName": "Petgevity",
+      "collectionName": "Petgevity: Pet Health and Longevity Podcast",
+      "trackName": "Petgevity: Pet Health and Longevity Podcast",
+      "collectionCensoredName": "Petgevity: Pet Health and Longevity Podcast",
+      "trackCensoredName": "Petgevity: Pet Health and Longevity Podcast",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/petgevity-pet-health-and-longevity-podcast/id1896788064?uo=4",
+      "feedUrl": "https://feeds.captivate.fm/petgevity/",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/petgevity-pet-health-and-longevity-podcast/id1896788064?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a4/af/d0a4af82-801e-78ef-1db2-2d01c6e2d5b1/mza_14195372789787489698.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a4/af/d0a4af82-801e-78ef-1db2-2d01c6e2d5b1/mza_14195372789787489698.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a4/af/d0a4af82-801e-78ef-1db2-2d01c6e2d5b1/mza_14195372789787489698.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-09-29T05:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 12,
+      "trackTimeMillis": 1739,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Pets & Animals",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a4/af/d0a4af82-801e-78ef-1db2-2d01c6e2d5b1/mza_14195372789787489698.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1522",
+        "26",
+        "1305",
+        "1512"
+      ],
+      "genres": [
+        "Pets & Animals",
+        "Podcasts",
+        "Kids & Family",
+        "Health & Fitness"
+      ]
+    }
+  ]
+}

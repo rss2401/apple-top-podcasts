@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1822960480,
+      "trackId": 1822960480,
+      "artistName": "朝日新聞ポッドキャスト",
+      "collectionName": "ニュースを深く面白く　報談 【HOU-DAN】　ホウダン",
+      "trackName": "ニュースを深く面白く　報談 【HOU-DAN】　ホウダン",
+      "collectionCensoredName": "ニュースを深く面白く　報談 【HOU-DAN】　ホウダン",
+      "trackCensoredName": "ニュースを深く面白く　報談 【HOU-DAN】　ホウダン",
+      "collectionViewUrl": "https://podcasts.apple.com/jp/podcast/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E6%B7%B1%E3%81%8F%E9%9D%A2%E7%99%BD%E3%81%8F-%E5%A0%B1%E8%AB%87-hou-dan-%E3%83%9B%E3%82%A6%E3%83%80%E3%83%B3/id1822960480?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/TASC9421488254",
+      "trackViewUrl": "https://podcasts.apple.com/jp/podcast/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E6%B7%B1%E3%81%8F%E9%9D%A2%E7%99%BD%E3%81%8F-%E5%A0%B1%E8%AB%87-hou-dan-%E3%83%9B%E3%82%A6%E3%83%80%E3%83%B3/id1822960480?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-15T19:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 217,
+      "trackTimeMillis": 8377,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "ニュース解説",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "genres": [
+        "ニュース解説",
+        "ポッドキャスト",
+        "ニュース",
+        "政治"
+      ]
+    }
+  ]
+}

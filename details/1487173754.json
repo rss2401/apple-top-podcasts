@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 272651214,
+      "collectionId": 1487173754,
+      "trackId": 1487173754,
+      "artistName": "The Economist",
+      "collectionName": "The World in Brief from The Economist",
+      "trackName": "The World in Brief from The Economist",
+      "collectionCensoredName": "The World in Brief from The Economist",
+      "trackCensoredName": "The World in Brief from The Economist",
+      "artistViewUrl": "https://podcasts.apple.com/gb/artist/the-economist/272651214?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/the-world-in-brief-from-the-economist/id1487173754?uo=4",
+      "feedUrl": "https://access.acast.com/rss/theeconomistmorningbriefing/default",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/the-world-in-brief-from-the-economist/id1487173754?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/21/b1/9e21b146-e5c1-232e-00a8-10c9ac3192d2/mza_16558186685278697640.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/21/b1/9e21b146-e5c1-232e-00a8-10c9ac3192d2/mza_16558186685278697640.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/21/b1/9e21b146-e5c1-232e-00a8-10c9ac3192d2/mza_16558186685278697640.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-18T05:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 3200,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Daily News",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/21/b1/9e21b146-e5c1-232e-00a8-10c9ac3192d2/mza_16558186685278697640.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "genres": [
+        "Daily News",
+        "Podcasts",
+        "News"
+      ]
+    }
+  ]
+}
