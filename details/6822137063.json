@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 6822137063,
+      "trackId": 6822137063,
+      "artistName": "杨天真本真",
+      "collectionName": "MAKE IT HAPPEN心想事成",
+      "trackName": "MAKE IT HAPPEN心想事成",
+      "collectionCensoredName": "MAKE IT HAPPEN心想事成",
+      "trackCensoredName": "MAKE IT HAPPEN心想事成",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/make-it-happen%E5%BF%83%E6%83%B3%E4%BA%8B%E6%88%90/id6822137063?uo=4",
+      "feedUrl": "https://feed.xyzfm.space/73hugpvvdaxh",
+      "trackViewUrl": "https://podcasts.apple.com/cn/podcast/make-it-happen%E5%BF%83%E6%83%B3%E4%BA%8B%E6%88%90/id6822137063?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/2f/71/212f71b2-92f9-05c9-a08e-e0a296508868/mza_8292143439741725695.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/2f/71/212f71b2-92f9-05c9-a08e-e0a296508868/mza_8292143439741725695.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/2f/71/212f71b2-92f9-05c9-a08e-e0a296508868/mza_8292143439741725695.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-13T00:49:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 1,
+      "trackTimeMillis": 8002,
+      "country": "CHN",
+      "currency": "CNY",
+      "primaryGenreName": "商务",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/2f/71/212f71b2-92f9-05c9-a08e-e0a296508868/mza_8292143439741725695.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "genres": [
+        "商务",
+        "播客"
+      ]
+    }
+  ]
+}
