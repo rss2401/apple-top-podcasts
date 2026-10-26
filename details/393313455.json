@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 189861595,
+      "collectionId": 393313455,
+      "trackId": 393313455,
+      "artistName": "Mitteldeutscher Rundfunk",
+      "collectionName": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+      "trackName": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+      "collectionCensoredName": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+      "trackCensoredName": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+      "artistViewUrl": "https://podcasts.apple.com/de/artist/mdr/189861595?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/de/podcast/figarinos-fahrradladen-der-mdr-tweens-h%C3%B6rspiel-podcast/id393313455?uo=4",
+      "feedUrl": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen-mdr-100.xml",
+      "trackViewUrl": "https://podcasts.apple.com/de/podcast/figarinos-fahrradladen-der-mdr-tweens-h%C3%B6rspiel-podcast/id393313455?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/15/b7/0b15b77b-c773-e754-e14e-313b37422147/mza_4438897306364778534.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/15/b7/0b15b77b-c773-e754-e14e-313b37422147/mza_4438897306364778534.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/15/b7/0b15b77b-c773-e754-e14e-313b37422147/mza_4438897306364778534.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-17T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 463,
+      "trackTimeMillis": 1649,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Geschichten für Kinder",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/15/b7/0b15b77b-c773-e754-e14e-313b37422147/mza_4438897306364778534.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "genres": [
+        "Geschichten für Kinder",
+        "Podcasts",
+        "Kinder und Familie"
+      ]
+    }
+  ]
+}

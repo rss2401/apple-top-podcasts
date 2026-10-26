@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1693117916,
+      "trackId": 1693117916,
+      "artistName": "1972 our cup of tea",
+      "collectionName": "1972 our cup of tea",
+      "trackName": "1972 our cup of tea",
+      "collectionCensoredName": "1972 our cup of tea",
+      "trackCensoredName": "1972 our cup of tea",
+      "collectionViewUrl": "https://podcasts.apple.com/jp/podcast/1972-our-cup-of-tea/id1693117916?uo=4",
+      "feedUrl": "https://anchor.fm/s/e189da3c/podcast/rss",
+      "trackViewUrl": "https://podcasts.apple.com/jp/podcast/1972-our-cup-of-tea/id1693117916?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c1/75/bc/c175bc3e-2cb6-b470-6b30-281dd59cb5a4/mza_973615710090130937.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c1/75/bc/c175bc3e-2cb6-b470-6b30-281dd59cb5a4/mza_973615710090130937.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c1/75/bc/c175bc3e-2cb6-b470-6b30-281dd59cb5a4/mza_973615710090130937.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-21T23:36:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 131,
+      "trackTimeMillis": 1275,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "社会／文化",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c1/75/bc/c175bc3e-2cb6-b470-6b30-281dd59cb5a4/mza_973615710090130937.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "genres": [
+        "社会／文化",
+        "ポッドキャスト"
+      ]
+    }
+  ]
+}

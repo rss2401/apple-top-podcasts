@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1811075038,
+      "trackId": 1811075038,
+      "artistName": "Fred Testot et R. Jonathan Lambert",
+      "collectionName": "Tenez, goûtez, c'est délicieux !",
+      "trackName": "Tenez, goûtez, c'est délicieux !",
+      "collectionCensoredName": "Tenez, goûtez, c'est délicieux !",
+      "trackCensoredName": "Tenez, goûtez, c'est délicieux !",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/tenez-go%C3%BBtez-cest-d%C3%A9licieux/id1811075038?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/680e31a650eb1025285246b5",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/tenez-go%C3%BBtez-cest-d%C3%A9licieux/id1811075038?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/7f/12/db7f124b-798b-2044-9f4f-3ecd4f16a392/mza_886790796574633429.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/7f/12/db7f124b-798b-2044-9f4f-3ecd4f16a392/mza_886790796574633429.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/7f/12/db7f124b-798b-2044-9f4f-3ecd4f16a392/mza_886790796574633429.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-13T17:08:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 56,
+      "trackTimeMillis": 3444,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Comédie : les interviews",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/7f/12/db7f124b-798b-2044-9f4f-3ecd4f16a392/mza_886790796574633429.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324"
+      ],
+      "genres": [
+        "Comédie : les interviews",
+        "Podcasts",
+        "Humour",
+        "Culture et société"
+      ]
+    }
+  ]
+}

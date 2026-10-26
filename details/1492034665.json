@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 1260512175,
+      "collectionId": 1492034665,
+      "trackId": 1492034665,
+      "artistName": "Choses à Savoir",
+      "collectionName": "Un mot par jour",
+      "trackName": "Un mot par jour",
+      "collectionCensoredName": "Un mot par jour",
+      "trackCensoredName": "Un mot par jour",
+      "artistViewUrl": "https://podcasts.apple.com/fr/artist/choses-%C3%A0-savoir/1260512175?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/un-mot-par-jour/id1492034665?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/66068b0f53b2df0016608fe8",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/un-mot-par-jour/id1492034665?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-26T05:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 1217,
+      "trackTimeMillis": 127,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Apprentissage des langues",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "genres": [
+        "Apprentissage des langues",
+        "Podcasts",
+        "Éducation"
+      ]
+    }
+  ]
+}

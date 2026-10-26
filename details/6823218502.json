@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 6823218502,
+      "trackId": 6823218502,
+      "artistName": "Florence de Schlichting",
+      "collectionName": "Tout Contre",
+      "trackName": "Tout Contre",
+      "collectionCensoredName": "Tout Contre",
+      "trackCensoredName": "Tout Contre",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/6acf83f46203da9f282d1fc9",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/91/71/9491715a-13cb-8a2e-983c-57c9a4adf4b2/mza_4717170778375515276.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/91/71/9491715a-13cb-8a2e-983c-57c9a4adf4b2/mza_4717170778375515276.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/91/71/9491715a-13cb-8a2e-983c-57c9a4adf4b2/mza_4717170778375515276.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-25T13:48:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 2,
+      "trackTimeMillis": 3284,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Politique",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/91/71/9491715a-13cb-8a2e-983c-57c9a4adf4b2/mza_4717170778375515276.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "genres": [
+        "Politique",
+        "Podcasts",
+        "Actualités"
+      ]
+    }
+  ]
+}
