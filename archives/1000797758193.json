@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "Big Money Players Network and iHeartPodcasts",
+      "id": "1000797758193",
+      "name": "\"You Can Say Anything\" (w/ Matt & Bowen)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/55/54/9d5554c2-8372-4bbd-d8ee-6024ff041359/mza_10634762993422951035.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/you-can-say-anything-w-matt-bowen/id1092361338?i=1000797758193"
+    }
+  ]
+}

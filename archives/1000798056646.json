@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 66,
+      "artistName": "Sahara Panda",
+      "id": "1000798056646",
+      "name": "🎃 Il voulait vivre le rêve américain, il découvre l'horreur",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/a0/e4/5ea0e421-dc1d-2cd9-9a39-f6010980e4b3/mza_8684781427900537670.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/il-voulait-vivre-le-r%C3%AAve-am%C3%A9ricain-il-d%C3%A9couvre-lhorreur/id1656624811?i=1000798056646"
+    }
+  ]
+}

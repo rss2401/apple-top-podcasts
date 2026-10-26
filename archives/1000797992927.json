@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 16,
+      "artistName": "CBS Sports, College Football, Football, CFB, College Football Picks",
+      "id": "1000797992927",
+      "name": "WEEK 8 INSTANT REACTION: Texas Tops Ole Miss In Thriller | UCF Stuns BYU | Houston-Utah | MORE!",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/a2/11/5ca211bc-8fc4-7701-1210-6979d732f3a5/mza_15594854541306237240.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/week-8-instant-reaction-texas-tops-ole-miss-in-thriller/id1257913963?i=1000797992927"
+    }
+  ]
+}

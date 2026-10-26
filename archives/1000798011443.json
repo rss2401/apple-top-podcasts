@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 41,
+      "artistName": "Benjamin Brillaud",
+      "id": "1000798011443",
+      "name": "Que faisait cette légion romaine au cœur de la Chine ? - NOTA BENE",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/a7/ca/90a7cad6-21d4-61eb-36c0-a1d8ee4516c4/mza_6344750093693226993.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/que-faisait-cette-l%C3%A9gion-romaine-au-c%C5%93ur-de-la-chine/id1573434643?i=1000798011443"
+    }
+  ]
+}

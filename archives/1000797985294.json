@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "Creative Reason Media",
+      "id": "1000797985294",
+      "name": "NoSleep Podcast S25E10 - Halloween 2026",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/e8/62/a1e8622d-d973-ed31-c79e-1db458a1ca1c/mza_14961870219343583891.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Science Fiction"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/nosleep-podcast-s25e10-halloween-2026/id444083093?i=1000797985294"
+    }
+  ]
+}

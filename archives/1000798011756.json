@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 40,
+      "artistName": "Bérengère Bonte",
+      "id": "1000798011756",
+      "name": "Comment le monde regarde-t-il cette \"France du 17 octobre\" ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/cf/48/d9cf485a-fc47-492e-63e4-323799c7411c/mza_13969193795752664669.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/comment-le-monde-regarde-t-il-cette-france-du-17-octobre/id114880097?i=1000798011756"
+    }
+  ]
+}

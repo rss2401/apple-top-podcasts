@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 71,
+      "artistName": "Dr. Daniel Stelter",
+      "id": "1561142763",
+      "name": "bto – der Ökonomie-Podcast von Dr. Daniel Stelter",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/2f/d5/512fd5e4-c06d-822d-bf04-91acc009a0d7/mza_10381773680082294908.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "Wirtschaft",
+          "url": "https://itunes.apple.com/de/genre/id1321"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/bto-der-%C3%B6konomie-podcast-von-dr-daniel-stelter/id1561142763"
+    }
+  ]
+}

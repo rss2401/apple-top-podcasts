@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "France Télévisions",
+      "id": "1000797714834",
+      "name": "LFI - gouvernement : la stratégie de la tension ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/1b/4f/571b4fd5-66e1-caa7-4359-dc985aef68f8/mza_13998374059901734183.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lfi-gouvernement-la-strat%C3%A9gie-de-la-tension/id1591633548?i=1000797714834"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 69,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000797957376",
+      "name": "Alfred Loewenstein : le milliardaire tombé du ciel",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cd/0d/e2/cd0de20e-a5bb-8776-68aa-10587ea6381f/mza_1693789332482299406.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/alfred-loewenstein-le-milliardaire-tomb%C3%A9-du-ciel/id1593842944?i=1000797957376"
+    }
+  ]
+}

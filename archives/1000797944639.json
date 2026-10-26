@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 51,
+      "artistName": "Radio Classique",
+      "id": "1000797944639",
+      "name": "Bonaparte a-t-il eu tort de vendre la Louisiane ? — Collection Questions en suspens",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/9c/a0/b29ca022-fcff-7584-aa5e-f9d979677b8d/mza_9718361550647152003.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bonaparte-a-t-il-eu-tort-de-vendre/id1434297164?i=1000797944639"
+    }
+  ]
+}

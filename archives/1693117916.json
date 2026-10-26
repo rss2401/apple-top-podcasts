@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 61,
+      "artistName": "1972 our cup of tea",
+      "id": "1693117916",
+      "name": "1972 our cup of tea",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c1/75/bc/c175bc3e-2cb6-b470-6b30-281dd59cb5a4/mza_973615710090130937.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/1972-our-cup-of-tea/id1693117916"
+    }
+  ]
+}

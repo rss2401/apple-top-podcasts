@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "Reach Freaks",
+      "id": "1000796368102",
+      "name": "Coup de Grâce",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/ba/a1/7cbaa151-707a-300c-bd8b-a8a3dbf5003b/mza_12518151389858211764.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/coup-de-gr%C3%A2ce/id1407577718?i=1000796368102"
+    }
+  ]
+}

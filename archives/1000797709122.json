@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 40,
+      "artistName": "i-deal, Inc",
+      "id": "1000797709122",
+      "name": "中国製EVを歓迎したタイ、今直面するその代償. Thailand Welcomed China’s EVs. Now It Faces the Costs.",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/6b/4e/746b4e63-1e59-a361-71cf-c61fa1f8e63f/mza_5015130455789899146.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "言語学習"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E4%B8%AD%E5%9B%BD%E8%A3%BDev%E3%82%92%E6%AD%93%E8%BF%8E%E3%81%97%E3%81%9F%E3%82%BF%E3%82%A4-%E4%BB%8A%E7%9B%B4%E9%9D%A2%E3%81%99%E3%82%8B%E3%81%9D%E3%81%AE%E4%BB%A3%E5%84%9F-thailand-welcomed-chinas-evs/id661961611?i=1000797709122"
+    }
+  ]
+}

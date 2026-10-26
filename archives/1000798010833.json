@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 98,
+      "artistName": "ラジオNIKKEI",
+      "id": "1000798010833",
+      "name": "サイバー攻撃、日本の電力網に1億の急所 (261028)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/4f/86/f9/4f86f9de-2f0a-271f-751a-33e3b947ae08/mza_4656754627670852408.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "言語学習"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83-%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9B%BB%E5%8A%9B%E7%B6%B2%E3%81%AB1%E5%84%84%E3%81%AE%E6%80%A5%E6%89%80-261028/id144424775?i=1000798010833"
+    }
+  ]
+}

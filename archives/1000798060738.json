@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 25,
+      "artistName": "Radio Classique",
+      "id": "1000798060738",
+      "name": "Zhu-Xiao Mei, pianiste victime de la Révolution culturelle",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/18/41/81184173-461c-58f1-c4b1-ee3abbdc5206/mza_9461652792523492784.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/zhu-xiao-mei-pianiste-victime-de-la-r%C3%A9volution-culturelle/id1434297164?i=1000798060738"
+    }
+  ]
+}

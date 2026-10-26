@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 27,
+      "artistName": "Christine Ockrent",
+      "id": "1000797911828",
+      "name": "Du Brésil au Venezuela : l'emprise Trump",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e7/09/67/e709676c-33ae-d7f6-1366-3e62dbbcf6fb/mza_5265425359607861851.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/du-br%C3%A9sil-au-venezuela-lemprise-trump/id608884562?i=1000797911828"
+    }
+  ]
+}

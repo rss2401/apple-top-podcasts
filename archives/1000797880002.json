@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 81,
+      "artistName": "Bababam",
+      "id": "1000797880002",
+      "name": "BABABAM ORIGINALS | Kim Dotcom, le hacker qui se prenait pour le roi d’Internet",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2e/4f/60/2e4f60bc-050c-be4a-a7f1-6e680fb928bc/mza_8268687217429483533.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bababam-originals-kim-dotcom-le-hacker-qui-se-prenait/id1546899313?i=1000797880002"
+    }
+  ]
+}

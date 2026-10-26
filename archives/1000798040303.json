@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "Philippe Bouvard",
+      "id": "1000798040303",
+      "name": "50 ANS DES GROSSES TÊTES - L'archive du 10 juillet 1982",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/11/a3/5b11a31e-ef9e-0f68-dce7-aa26fc2f07fb/mza_15820410390685787420.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/50-ans-des-grosses-t%C3%AAtes-larchive-du-10-juillet-1982/id1653946628?i=1000798040303"
+    }
+  ]
+}

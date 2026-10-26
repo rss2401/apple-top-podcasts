@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 14,
+      "artistName": "Le Parisien",
+      "id": "1000797892601",
+      "name": "[2/2] Angélique Dumetz : mystérieux meurtre dans la clairière de l'Armistice",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/3c/2c/6e3c2c3f-cf2b-a865-4cd5-b803ffa09e7c/mza_2288036885662168887.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/2-2-ang%C3%A9lique-dumetz-myst%C3%A9rieux-meurtre-dans-la-clairi%C3%A8re/id1658362786?i=1000797892601"
+    }
+  ]
+}

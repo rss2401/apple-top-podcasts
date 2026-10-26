@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 30,
+      "artistName": "France Télévisions",
+      "id": "1000797990388",
+      "name": "Pauline Théveniaud - Macron: les coulisses d'une fin de règne sous tension",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/ae/ab/71aeab71-6966-338e-9d48-36863f879e00/mza_16228724202725531043.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/pauline-th%C3%A9veniaud-macron-les-coulisses-dune-fin-de/id1438726711?i=1000797990388"
+    }
+  ]
+}

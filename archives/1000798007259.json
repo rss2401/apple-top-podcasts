@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "元証券マン　しんさん",
+      "id": "1000798007259",
+      "name": "FX自動取引がハッキング？GMOで不正アクセス発生！？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/37/78/eb377824-6a35-1c00-85ba-f55f73a8ce8f/mza_16563277299036622063.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "投資"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/fx%E8%87%AA%E5%8B%95%E5%8F%96%E5%BC%95%E3%81%8C%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0-gmo%E3%81%A7%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%99%BA%E7%94%9F/id1775130625?i=1000798007259"
+    }
+  ]
+}

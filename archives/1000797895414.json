@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 21,
+      "artistName": "HBO Podcasts",
+      "id": "1000797895414",
+      "name": "Ep. #746: Karoline Leavitt, Gov. Andy Beshear, Steve Hilton",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/29/e8/9129e834-2c3f-a1c2-b76d-dfc70f45ea05/mza_1485845241939757028.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/ep-746-karoline-leavitt-gov-andy-beshear-steve-hilton/id98746009?i=1000797895414"
+    }
+  ]
+}

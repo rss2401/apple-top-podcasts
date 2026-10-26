@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 75,
+      "artistName": "Yoshimoto Kogyo Co.",
+      "id": "1000798008335",
+      "name": "超有名な人とあった時",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/b1/3b/5cb13b63-94cf-e296-2d30-9c7cd4a40965/mza_2095153131895648824.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E8%B6%85%E6%9C%89%E5%90%8D%E3%81%AA%E4%BA%BA%E3%81%A8%E3%81%82%E3%81%A3%E3%81%9F%E6%99%82/id1890385866?i=1000798008335"
+    }
+  ]
+}

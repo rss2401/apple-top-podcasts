@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 10,
+      "artistName": "Jacques Pradel - TF1",
+      "id": "1000797372975",
+      "name": "L’affaire Karine Esquivillon : Mythomane et manipulateur, un mari pas si parfait ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/35/6c/c0356c50-2cfe-7003-cf37-802e2c3153d7/mza_7700008697478933172.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-karine-esquivillon-mythomane-et-manipulateur/id1509742508?i=1000797372975"
+    }
+  ]
+}

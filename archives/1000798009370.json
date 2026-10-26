@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Europe 1",
+      "id": "1000798009370",
+      "name": "Emmanuel Macron : «Soit vous cédez, soit vous partez», lance Éric Coquerel",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/70/c7/a670c7f0-0829-9cb5-ef3a-53ebf158cb18/mza_10176405322697375272.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/emmanuel-macron-soit-vous-c%C3%A9dez-soit-vous-partez-lance/id290598365?i=1000798009370"
+    }
+  ]
+}

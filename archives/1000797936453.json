@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "Tucker Carlson Network",
+      "id": "1000797936453",
+      "name": "Exposing the True Evils of the Uniparty: Soros Money, Surveillance, and the Rise of a Third Party",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/5c/a3/1b5ca3a7-2bb3-cc85-b446-7eee2e97d6a0/mza_16014315627258866155.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/exposing-the-true-evils-of-the-uniparty/id1719657632?i=1000797936453"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "TBS RADIO",
+      "id": "1000797853597",
+      "name": "Ep.145　第一人者が語る　あなたの知らないロビイストの世界",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/3d/d0/983dd029-4e45-13b0-254e-b6b8651a087e/mza_5443502228997402467.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "政治"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/ep-145-%E7%AC%AC%E4%B8%80%E4%BA%BA%E8%80%85%E3%81%8C%E8%AA%9E%E3%82%8B-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%83%AD%E3%83%93%E3%82%A4%E3%82%B9%E3%83%88%E3%81%AE%E4%B8%96%E7%95%8C/id1724285081?i=1000797853597"
+    }
+  ]
+}

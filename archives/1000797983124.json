@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 32,
+      "artistName": "Europe 1",
+      "id": "1000797983124",
+      "name": "J’ai appris à lire à 50 ans - Le récit [1/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/3a/77/8a3a777e-611c-2ccb-37ee-be28892dc93f/mza_9321675655091089239.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jai-appris-%C3%A0-lire-%C3%A0-50-ans-le-r%C3%A9cit-1-2/id1146402624?i=1000797983124"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000797663753",
+      "name": "プルゴリは実在する　生命保険業界、「営業」の光と影 #193",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/a2/e8/6da2e856-14d2-b8ab-7272-d68457bba74a/mza_758097447471251432.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ニュース解説"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%83%97%E3%83%AB%E3%82%B4%E3%83%AA%E3%81%AF%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B-%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA%E6%A5%AD%E7%95%8C-%E5%96%B6%E6%A5%AD-%E3%81%AE%E5%85%89%E3%81%A8%E5%BD%B1-193/id1822960480?i=1000797663753"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "serialadmin@nytimes.com",
+      "id": "1000797532021",
+      "name": "Episode 2: Karat and Schtick",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/ee/f3/40eef3c7-fea3-d84b-b03f-680f4101396b/mza_16279052151957956294.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/episode-2-karat-and-schtick/id6819830754?i=1000797532021"
+    }
+  ]
+}

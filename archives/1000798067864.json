@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 94,
+      "artistName": "Radio Nova",
+      "id": "1000798067864",
+      "name": "Les dictateurs - La chronique de Pierre-Emmanuel Barré",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/79/c2/d479c292-61db-c44f-5270-379a7212f868/mza_2442568966053924322.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-dictateurs-la-chronique-de-pierre-emmanuel-barr%C3%A9/id1766744611?i=1000798067864"
+    }
+  ]
+}

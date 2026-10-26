@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "BFM",
+      "id": "1000797759146",
+      "name": "L'intégrale des Grandes Gueules du vendredi 23 octobre 2026 avec Emmanuel de Villiers, Sandrine Pégand et Sam Zirah - 09h/12h",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/d1/8a/66d18a76-4e87-5620-d50d-c5bf4d4827a8/mza_13674138521761709188.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actus du jour"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-des-grandes-gueules-du-vendredi-23-octobre/id82354094?i=1000797759146"
+    }
+  ]
+}

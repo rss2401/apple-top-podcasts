@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 28,
+      "artistName": "Radio Nova",
+      "id": "1000798068407",
+      "name": "La faute à LFI - La chronique d'Aymeric Lompret",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/25/c2/b025c2d5-8793-e6b9-9513-f1ac3b109077/mza_12791087654786808567.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-faute-%C3%A0-lfi-la-chronique-daymeric-lompret/id1766751816?i=1000798068407"
+    }
+  ]
+}

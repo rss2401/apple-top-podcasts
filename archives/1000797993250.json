@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 62,
+      "artistName": "Hysteria",
+      "id": "1000797993250",
+      "name": "This F*cking Guy: Greg Abbott",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/c5/b3/0ec5b3b9-cac6-5d1e-677b-d9185dba859b/mza_16092191367290324905.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/this-f-cking-guy-greg-abbott/id1399025196?i=1000797993250"
+    }
+  ]
+}

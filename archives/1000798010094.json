@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 44,
+      "artistName": "Sakura English",
+      "id": "1000798010094",
+      "name": "こういうのでいいんだよ！ 今、本当に必要な英会話フレーズ【407】",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/01/a3/c4/01a3c494-dc80-6580-36ae-ada2ddb6f85b/mza_11190861215442691900.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "言語学習"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E3%81%AE%E3%81%A7%E3%81%84%E3%81%84%E3%82%93%E3%81%A0%E3%82%88-%E4%BB%8A-%E6%9C%AC%E5%BD%93%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA-407/id1515771190?i=1000798010094"
+    }
+  ]
+}

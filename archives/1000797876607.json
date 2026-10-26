@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 55,
+      "artistName": "TBS RADIO",
+      "id": "1000797876607",
+      "name": "悲報！100年以上前の講談本がエアコンの水漏れでびしょ濡れ〜三番弟子・若之丞の大食い日記２",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/50/01/9e50013c-0d0c-819a-624d-5eac34a8fb6b/mza_17621206430771841488.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E6%82%B2%E5%A0%B1-100%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%89%8D%E3%81%AE%E8%AC%9B%E8%AB%87%E6%9C%AC%E3%81%8C%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E3%81%AE%E6%B0%B4%E6%BC%8F%E3%82%8C%E3%81%A7%E3%81%B3%E3%81%97%E3%82%87%E6%BF%A1%E3%82%8C-%E4%B8%89%E7%95%AA%E5%BC%9F%E5%AD%90-%E8%8B%A5%E4%B9%8B%E4%B8%9E%E3%81%AE%E5%A4%A7%E9%A3%9F%E3%81%84%E6%97%A5%E8%A8%98%EF%BC%92/id1647162945?i=1000797876607"
+    }
+  ]
+}

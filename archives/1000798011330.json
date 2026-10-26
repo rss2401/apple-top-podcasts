@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 3,
+      "artistName": "Rebecca Manzoni",
+      "id": "1000798011330",
+      "name": "\"Minotaure\", \"Les Misérables\", \"La Gradiva\", \"Karma\", \"Le Corset\" : quels films aller voir au cinéma cette semaine ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/de/8f/c3de8f58-da2e-202f-1883-4382dee3877c/mza_16358748520097718069.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/minotaure-les-mis%C3%A9rables-la-gradiva-karma-le-corset/id115156841?i=1000798011330"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 20,
+      "artistName": "The New York Times",
+      "id": "1000797910979",
+      "name": "What This Democrat’s Surge in Texas Says About the Midterms",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/94/15/db94152f-ee03-62fd-d877-097e14fdc506/mza_12883286087670969519.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/what-this-democrats-surge-in-texas-says-about-the-midterms/id1200361736?i=1000797910979"
+    }
+  ]
+}

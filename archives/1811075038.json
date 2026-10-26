@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 72,
+      "artistName": "Fred Testot et R. Jonathan Lambert",
+      "id": "1811075038",
+      "name": "Tenez, goûtez, c'est délicieux !",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/7f/12/db7f124b-798b-2044-9f4f-3ecd4f16a392/mza_886790796574633429.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        },
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/tenez-go%C3%BBtez-cest-d%C3%A9licieux/id1811075038"
+    }
+  ]
+}

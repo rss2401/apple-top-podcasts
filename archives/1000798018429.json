@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "Yuru Minzokugaku Radio",
+      "id": "1000798018429",
+      "name": "「七つまでは神のうち」って本当？#202",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/99/50/03/99500330-b12a-6578-a305-f26dfb7cbb5f/mza_7839551294442595543.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "コース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E4%B8%83%E3%81%A4%E3%81%BE%E3%81%A7%E3%81%AF%E7%A5%9E%E3%81%AE%E3%81%86%E3%81%A1-%E3%81%A3%E3%81%A6%E6%9C%AC%E5%BD%93-202/id1669005447?i=1000798018429"
+    }
+  ]
+}

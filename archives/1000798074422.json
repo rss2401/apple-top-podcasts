@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 8,
+      "artistName": "Radio Nova",
+      "id": "1000798074422",
+      "name": "L'intégrale : \"La dernière\" du 25 octobre 2026 avec « Nos couleurs centre LGBTQIA+ des Landes »",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/78/b6/a078b618-b54f-1dc9-094a-ba6ff8c65581/mza_6440399320616802963.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-la-derni%C3%A8re-du-25-octobre-2026-avec-nos/id1766744611?i=1000798074422"
+    }
+  ]
+}

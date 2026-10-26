@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 50,
+      "artistName": "FLASH",
+      "id": "1000797913489",
+      "name": "S26-第10回「ワクワク新居生活〜いつかまた無限虫へ〜」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/39/bf/f6/39bff678-402b-8043-2348-ac94c78fc56a/mza_9880627614243377235.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/s26-%E7%AC%AC10%E5%9B%9E-%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E6%96%B0%E5%B1%85%E7%94%9F%E6%B4%BB-%E3%81%84%E3%81%A4%E3%81%8B%E3%81%BE%E3%81%9F%E7%84%A1%E9%99%90%E8%99%AB%E3%81%B8/id1514625612?i=1000797913489"
+    }
+  ]
+}

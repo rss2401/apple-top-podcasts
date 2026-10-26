@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "Guillaume Pley",
+      "id": "1000797230634",
+      "name": "SON FUTUR MARI TENTE DE LA T*ER POUR TOUCHER 8 MILLIONS D’€ D’ASSURANCE DÉCÈS",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/ad/ea/7eadea4c-bb27-5022-752a-f618196a155c/mza_3610832514753413238.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/son-futur-mari-tente-de-la-t-er-pour-toucher-8/id1691740320?i=1000797230634"
+    }
+  ]
+}

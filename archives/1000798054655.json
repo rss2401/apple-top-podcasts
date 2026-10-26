@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 67,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000798054655",
+      "name": "（MT）わたしはヤンキーにニュースを届けたいのだ",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5d/76/4a/5d764ad8-dbac-5380-427d-c9b828c85233/mza_14233755719366125765.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ニュース解説"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/mt-%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AF%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E5%B1%8A%E3%81%91%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A0/id1527037575?i=1000798054655"
+    }
+  ]
+}

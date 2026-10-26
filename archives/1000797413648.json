@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 24,
+      "artistName": "Guillaume Pley",
+      "id": "1000797413648",
+      "name": "SUPERSTAR DU DÉVELOPPEMENT PERSONNEL : LA MASTERCLASS DE NATACHA CALESTRÉMÉ",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/2c/1b/482c1b69-d42e-5769-6b7c-78dac01e79b3/mza_17684641329452801557.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/superstar-du-d%C3%A9veloppement-personnel-la-masterclass/id1691740320?i=1000797413648"
+    }
+  ]
+}

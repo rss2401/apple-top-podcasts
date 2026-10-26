@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 53,
+      "artistName": "Radio Classique",
+      "id": "1000798023083",
+      "name": "La querelle des Bouffons, ou la plus célèbre controverse de la musique baroque",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/00/d5/ef/00d5ef41-05d5-7331-7044-5188987cedc6/mza_8874981234362633925.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-querelle-des-bouffons-ou-la-plus-c%C3%A9l%C3%A8bre-controverse/id1434297164?i=1000798023083"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "POKOPEA",
+      "id": "1000798070207",
+      "name": "#82 スタバのニックネーム事件",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/32/f9/d032f9dc-e042-fd6c-524e-c237a25dca25/mza_7825738791001692436.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ドキュメンタリー"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/82-%E3%82%B9%E3%82%BF%E3%83%90%E3%81%AE%E3%83%8B%E3%83%83%E3%82%AF%E3%83%8D%E3%83%BC%E3%83%A0%E4%BA%8B%E4%BB%B6/id1818355288?i=1000798070207"
+    }
+  ]
+}

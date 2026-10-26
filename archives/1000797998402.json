@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "Radio Classique",
+      "id": "1000797998402",
+      "name": "Erasme, un humaniste entre deux mondes",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/e3/66c9e3a8-8ecb-db08-6b9f-da1193dfaab8/mza_10429811783027594524.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/erasme-un-humaniste-entre-deux-mondes/id1434297164?i=1000797998402"
+    }
+  ]
+}

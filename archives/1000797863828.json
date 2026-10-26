@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 59,
+      "artistName": "TBS RADIO",
+      "id": "1000797863828",
+      "name": "ギョウザドッグ革命",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/b7/ad/81b7ad19-b1d5-1aa9-615b-47d437af0ffb/mza_14090828405948449691.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "フード"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B6%E3%83%89%E3%83%83%E3%82%B0%E9%9D%A9%E5%91%BD/id1891885839?i=1000797863828"
+    }
+  ]
+}

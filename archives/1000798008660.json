@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "The Wall Street Journal",
+      "id": "1000798008660",
+      "name": "Social Security Is Breaking and Congress Doesn’t Have a Plan",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/social-security-is-breaking-and-congress-doesnt-have-a-plan/id152016440?i=1000798008660"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 50,
+      "artistName": "Philippe Meyer",
+      "id": "1000798006973",
+      "name": "Thématique : l’information à l’heure de l’Intelligence Artificielle, avec Fabrice Fries",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/24/a0/a824a00d-c82b-9d7a-51bb-76a7e942e2ed/mza_513484927330489177.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/th%C3%A9matique-linformation-%C3%A0-lheure-de-lintelligence/id1279728744?i=1000798006973"
+    }
+  ]
+}

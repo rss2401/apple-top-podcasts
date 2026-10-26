@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 18,
+      "artistName": "MBSラジオ",
+      "id": "1000798077144",
+      "name": "高橋洋一「『ＰＨＰ』に重大な脆弱性」「仏各地で暴動！原因は？」「トランプ大統領、米中ロ会談に意欲」「日本のGDP、世界6位へ」「インフラ費用対効果、算出変更で引き上げ視野」10",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/3b/6b/5b3b6b03-3925-810c-1b5c-c7545094aff0/mza_2114377704529958774.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E9%AB%98%E6%A9%8B%E6%B4%8B%E4%B8%80-%EF%BD%90%EF%BD%88%EF%BD%90-%E3%81%AB%E9%87%8D%E5%A4%A7%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7-%E4%BB%8F%E5%90%84%E5%9C%B0%E3%81%A7%E6%9A%B4%E5%8B%95-%E5%8E%9F%E5%9B%A0%E3%81%AF-%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98-%E7%B1%B3%E4%B8%AD%E3%83%AD%E4%BC%9A%E8%AB%87%E3%81%AB%E6%84%8F%E6%AC%B2-%E6%97%A5%E6%9C%AC%E3%81%AEgdp/id1588682529?i=1000798077144"
+    }
+  ]
+}

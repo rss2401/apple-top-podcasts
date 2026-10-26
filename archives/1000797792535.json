@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000797792535",
+      "name": "L'INTÉGRALE - Laëtitia Delecluse : la maison de l'horreur",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/ae/0e/03ae0e10-29b0-7020-1875-3b607e4d241f/mza_5297742783706411829.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-la%C3%ABtitia-delecluse-la-maison-de-lhorreur/id389542173?i=1000797792535"
+    }
+  ]
+}

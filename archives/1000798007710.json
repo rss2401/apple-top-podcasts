@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "Laurent Gerra",
+      "id": "1000798007710",
+      "name": "Le best-of de Laurent Gerra du 25 octobre 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/39/28/57392836-2fd8-8cfc-fc01-30a5c0a32c72/mza_2054958671745143141.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-best-of-de-laurent-gerra-du-25-octobre-2026/id290152576?i=1000798007710"
+    }
+  ]
+}

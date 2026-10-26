@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 36,
+      "artistName": "Nora Hamzawi",
+      "id": "1000797583675",
+      "name": "Anne-Élisabteh Lemoine, c'est une joie",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ee/c2/11/eec21155-cd47-1032-587e-d607b3720c51/mza_6397568491455904188.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/anne-%C3%A9lisabteh-lemoine-cest-une-joie/id1877628982?i=1000797583675"
+    }
+  ]
+}

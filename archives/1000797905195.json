@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 10,
+      "artistName": "The Joe Budden Network",
+      "id": "1000797905195",
+      "name": "Episode 975 | \"Insatiable Appetite\"",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/21/fa/f221fabd-017f-5125-633b-f1fe4f39802a/mza_182995249085044287.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1310",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id1310"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/episode-975-insatiable-appetite/id1535809341?i=1000797905195"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 23,
+      "artistName": "Radio Nova",
+      "id": "1000798067220",
+      "name": "Wokistan et islamistan - La chronique de Guillaume Meurice",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/57/be/5657be7e-f1a8-d105-7c39-2fb1d8d7463c/mza_17471761633872168783.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/wokistan-et-islamistan-la-chronique-de-guillaume-meurice/id1766740666?i=1000798067220"
+    }
+  ]
+}

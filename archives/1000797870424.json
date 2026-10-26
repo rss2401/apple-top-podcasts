@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 65,
+      "artistName": "Anne Ghesquière",
+      "id": "1000797870424",
+      "name": "Renforcer son immunité naturellement automne/hiver !",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/af/9b/4aaf9bf0-3713-0cb0-367e-7e0ce9727a30/mza_7417870267061237540.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/renforcer-son-immunit%C3%A9-naturellement-automne-hiver/id1448632119?i=1000797870424"
+    }
+  ]
+}

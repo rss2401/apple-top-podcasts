@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 60,
+      "artistName": "André Dussollier, Isabelle Choquet",
+      "id": "1000797970664",
+      "name": "L'INTÉGRALE - Bruce Lee, Dragon suprême",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/a7/07/4da70714-6839-5a47-ab1a-7336587cafe6/mza_8468143483269396896.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-bruce-lee-dragon-supr%C3%AAme/id1834670628?i=1000797970664"
+    }
+  ]
+}

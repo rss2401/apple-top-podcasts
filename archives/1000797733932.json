@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 13,
+      "artistName": "Barstool Sports",
+      "id": "1000797733932",
+      "name": "Week 7 Picks And Preview, Bears Win TNF, Blake Griffin Talking NBA + Fyre Fest Of The Week",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/0b/3f/440b3fd6-33eb-e73f-0732-7addca73eb44/mza_9450148365605298596.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/week-7-picks-and-preview-bears-win-tnf-blake-griffin/id1089022756?i=1000797733932"
+    }
+  ]
+}

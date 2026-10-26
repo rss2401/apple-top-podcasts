@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "ラジオ関西",
+      "id": "1000797088026",
+      "name": "#184　くままの他人",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/2c/ae/152cae1b-dbf0-f008-578d-3af87f1f24e8/mza_14743448040212353259.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/184-%E3%81%8F%E3%81%BE%E3%81%BE%E3%81%AE%E4%BB%96%E4%BA%BA/id1681528378?i=1000797088026"
+    }
+  ]
+}

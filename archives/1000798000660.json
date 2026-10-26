@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 86,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000798000660",
+      "name": "Oct. 25, 6pm The Latest NEWS",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/b4/7b/4db47bf4-d2cd-0d8d-dc7f-86be044f8f15/mza_8941098238829947195.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/oct-25-6pm-the-latest-news/id1572249005?i=1000798000660"
+    }
+  ]
+}

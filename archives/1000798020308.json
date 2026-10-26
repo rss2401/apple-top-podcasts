@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "TBS GLOWDIA",
+      "id": "1000798020308",
+      "name": "＃１１１「救急車に乗った日」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/7b/86/e07b8661-c5cd-dee6-dabe-e752ae911cbd/mza_15588913136361297069.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%EF%BC%91%EF%BC%91%EF%BC%91-%E6%95%91%E6%80%A5%E8%BB%8A%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%9F%E6%97%A5/id1767285829?i=1000798020308"
+    }
+  ]
+}

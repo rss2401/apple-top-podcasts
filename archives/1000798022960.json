@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 10,
+      "artistName": "ラジオ関西",
+      "id": "1000798022960",
+      "name": "#233　シニアァ！",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/a8/fb/74a8fba4-f6b5-7563-c7c7-9a725f5492c6/mza_816054373326202191.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/233-%E3%82%B7%E3%83%8B%E3%82%A2%E3%82%A1/id1603390424?i=1000798022960"
+    }
+  ]
+}

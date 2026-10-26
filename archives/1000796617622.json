@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "Matze Hielscher & Mit Vergnügen",
+      "id": "1000796617622",
+      "name": "Anwalt Christian Schertz – Darf man jeden vertreten?",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/5a/11/9f5a1117-c559-ceda-b59a-0cb2eee31500/mza_17989474289890479177.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Gesellschaft und Kultur",
+          "url": "https://itunes.apple.com/de/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/anwalt-christian-schertz-darf-man-jeden-vertreten/id1168045239?i=1000796617622"
+    }
+  ]
+}

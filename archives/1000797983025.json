@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "Europe1",
+      "id": "1000797983025",
+      "name": "Le capitaine fantôme",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/0f/aa/a40faad6-958b-e8a9-a9cc-54cf4a5cd910/mza_16108327544842890924.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-capitaine-fant%C3%B4me/id1773924080?i=1000797983025"
+    }
+  ]
+}

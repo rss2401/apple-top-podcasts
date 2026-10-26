@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 6,
+      "artistName": "Stéphanie Duncan",
+      "id": "1000797917335",
+      "name": "Intégrale - La Peste fut-elle la plus grande catastrophe du Moyen Age ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7f/88/70/7f8870db-21aa-1b06-f56b-826f1978a77d/mza_13670029960753021959.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/int%C3%A9grale-la-peste-fut-elle-la-plus-grande-catastrophe/id1035249857?i=1000797917335"
+    }
+  ]
+}

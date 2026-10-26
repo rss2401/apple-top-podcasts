@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 5,
+      "artistName": "Florence de Schlichting",
+      "id": "6823218502",
+      "name": "Tout Contre",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/91/71/9491715a-13cb-8a2e-983c-57c9a4adf4b2/mza_4717170778375515276.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502"
+    }
+  ]
+}

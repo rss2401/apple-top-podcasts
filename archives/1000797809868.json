@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 18,
+      "artistName": "Laurent Ruquier",
+      "id": "1000797809868",
+      "name": "L'INTÉGRALE - Émission du vendredi 23 octobre 2026",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/77/e2/0777e2f8-9ff0-8551-5dab-af535e9a2761/mza_10299524690109537925.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-du-vendredi-23-octobre-2026/id369369012?i=1000797809868"
+    }
+  ]
+}

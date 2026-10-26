@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "Europe 1",
+      "id": "1000797982323",
+      "name": "Charles Quint, un souverain face à l'Europe",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/d8/a7/ced8a715-3be6-0ae1-57a5-7bc66d1afde5/mza_16291002375474918763.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/charles-quint-un-souverain-face-%C3%A0-leurope/id423534806?i=1000797982323"
+    }
+  ]
+}

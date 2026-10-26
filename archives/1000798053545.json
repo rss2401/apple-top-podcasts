@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 28,
+      "artistName": "Heather Cox Richardson",
+      "id": "1000798053545",
+      "name": "A New Approach",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/5c/ff/255cffe9-6360-d2b8-a3c6-3da0e56eddb0/mza_3488100662027045624.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/a-new-approach/id1730358737?i=1000798053545"
+    }
+  ]
+}

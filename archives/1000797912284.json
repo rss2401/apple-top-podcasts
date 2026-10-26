@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 66,
+      "artistName": "百々千晴",
+      "id": "1000797912284",
+      "name": "【dodo on air#62】「EKATO.」ブランドディレクター 王月理香さんのスリランカ アーユルヴェーダ体験",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/3f/46/da3f4649-4188-ac12-9e72-02039cf36031/mza_15119025503545210971.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ファッション／美容"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/dodo-on-air-62-ekato-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC-%E7%8E%8B%E6%9C%88%E7%90%86%E9%A6%99%E3%81%95%E3%82%93%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%AB-%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80%E4%BD%93%E9%A8%93/id1832239473?i=1000797912284"
+    }
+  ]
+}

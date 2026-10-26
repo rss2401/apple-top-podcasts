@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "Alain Finkielkraut",
+      "id": "1000797899034",
+      "name": "Le métier de professeur",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/ef/ed/b2efed0f-6c24-3e12-b54b-70898a8cc681/mza_14779393457071978660.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-m%C3%A9tier-de-professeur/id114880560?i=1000797899034"
+    }
+  ]
+}

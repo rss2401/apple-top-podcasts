@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "Armchair Umbrella",
+      "id": "1000797742753",
+      "name": "Armchair Anonymous: News II",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/ba/f3/79baf349-7a5c-f49e-1680-6dc8fd5941cb/mza_13945150501605613802.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/armchair-anonymous-news-ii/id1345682353?i=1000797742753"
+    }
+  ]
+}

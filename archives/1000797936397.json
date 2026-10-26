@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 17,
+      "artistName": "France Télévisions",
+      "id": "1000797936397",
+      "name": "Mobilisations, violences : les leçons du samedi 24 octobre - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d4/e4/95/d4e495ca-f2c3-0c9e-7e50-d65c25c7f860/mza_15005446655791823601.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/mobilisations-violences-les-le%C3%A7ons-du-samedi-24-octobre/id1438726711?i=1000797936397"
+    }
+  ]
+}

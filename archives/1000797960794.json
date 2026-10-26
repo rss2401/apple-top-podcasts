@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 35,
+      "artistName": "ラジオNIKKEI",
+      "id": "1000797960794",
+      "name": "10月25日（日） GMO「能動的サイバー防御」適用を政府に要請、中国系AIのARTEX悪質改造が横行",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/10%E6%9C%8825%E6%97%A5-%E6%97%A5-gmo-%E8%83%BD%E5%8B%95%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E9%98%B2%E5%BE%A1-%E9%81%A9%E7%94%A8%E3%82%92%E6%94%BF%E5%BA%9C%E3%81%AB%E8%A6%81%E8%AB%8B-%E4%B8%AD%E5%9B%BD%E7%B3%BBai%E3%81%AEartex%E6%82%AA%E8%B3%AA%E6%94%B9%E9%80%A0%E3%81%8C%E6%A8%AA%E8%A1%8C/id1627014612?i=1000797960794"
+    }
+  ]
+}

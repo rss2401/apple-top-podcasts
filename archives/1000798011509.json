@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 9,
+      "artistName": "お笑いラジオアプリGERA",
+      "id": "1000798011509",
+      "name": "#353 as soon as Ti○po",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/af/3d/86/af3d8642-949b-f630-bc97-816b8f0495b8/mza_3593984030218248192.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/353-as-soon-as-ti-po/id1729114614?i=1000798011509"
+    }
+  ]
+}

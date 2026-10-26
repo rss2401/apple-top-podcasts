@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "Rights to Ricky Sanchez",
+      "id": "1000798039960",
+      "name": "Sixers Half-Court Offense and The Embiid Dilemma, Brown vs. Tatum, Ticket Buying In The LeBron Era",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/2b/23/232b2334-2f3a-0063-7b15-a0784c966f19/mza_10794004542138053208.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Basketball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/sixers-half-court-offense-and-the-embiid-dilemma-brown/id474529211?i=1000798039960"
+    }
+  ]
+}

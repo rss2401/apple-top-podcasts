@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "Radio Classique",
+      "id": "1000797920931",
+      "name": "L’histoire du cadavre d’Hitler, la dissimulation et la désinformation qui a duré des décennies — Collection Questions en suspens",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/25/6d/8f256d3e-3283-2bf2-51b5-62ff1506a16d/mza_7073101382513819982.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lhistoire-du-cadavre-dhitler-la-dissimulation-et-la/id1434297164?i=1000797920931"
+    }
+  ]
+}

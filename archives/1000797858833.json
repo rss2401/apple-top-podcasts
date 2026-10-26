@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 67,
+      "artistName": "brooke gladstone, micah loewinger, marisa kabas, lydia sidhom, lucy schiller, will dahlberg",
+      "id": "1000797858833",
+      "name": "Midterm Madness",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e3/1c/cd/e31ccd97-64e3-bcd6-68ca-bd76e1f0c233/mza_2310028374774068614.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/midterm-madness/id73330715?i=1000797858833"
+    }
+  ]
+}

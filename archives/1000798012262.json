@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 55,
+      "artistName": "Bérengère Bonte",
+      "id": "1000798012262",
+      "name": "Comment défendre l’Etat de Droit sans toucher aux libertés publiques?/Comment le monde regarde la \"France du 17 octobre\"",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/ab/34/6dab349d-76c8-80bf-79db-48e54aa8584e/mza_6285937991222906536.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/comment-d%C3%A9fendre-letat-de-droit-sans-toucher-aux/id114880097?i=1000798012262"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "UNICORN.inc",
+      "id": "1000797796653",
+      "name": "#144 ふと思い出すあの人",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/ef/a5/c0efa5d5-3e62-0957-ca7e-5e40e26e54c1/mza_8005130533709999819.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "個人ジャーナル"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/144-%E3%81%B5%E3%81%A8%E6%80%9D%E3%81%84%E5%87%BA%E3%81%99%E3%81%82%E3%81%AE%E4%BA%BA/id1728211655?i=1000797796653"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "On3 Media, Inc.",
+      "id": "1000797989239",
+      "name": "College Football Week 8 INSTANT REACTION: Ole Miss-Texas, USC-Wisconsin, Houston-Utah LIVE",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/7c/7c/1c7c7cdf-7a17-0dac-ec41-a7604f09c8b3/mza_8724107677776775898.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1545",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id1545"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/college-football-week-8-instant-reaction-ole-miss-texas/id1695325427?i=1000797989239"
+    }
+  ]
+}

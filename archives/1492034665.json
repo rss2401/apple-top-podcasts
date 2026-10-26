@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 85,
+      "artistName": "Choses à Savoir",
+      "id": "1492034665",
+      "name": "Un mot par jour",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1304",
+          "name": "Éducation",
+          "url": "https://itunes.apple.com/fr/genre/id1304"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/un-mot-par-jour/id1492034665"
+    }
+  ]
+}

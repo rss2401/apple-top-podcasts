@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "ABCラジオ",
+      "id": "1000798022787",
+      "name": "#78 「俺らのファーストサマーウイカ（＝こたけ正義感）」(ゲスト：や団)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/a0/be/c5a0bea3-7afd-bf0c-92c7-7ab1cbcf11b7/mza_3409144494646394021.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/78-%E4%BF%BA%E3%82%89%E3%81%AE%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB-%E3%81%93%E3%81%9F%E3%81%91%E6%AD%A3%E7%BE%A9%E6%84%9F-%E3%82%B2%E3%82%B9%E3%83%88-%E3%82%84%E5%9B%A3/id1754897606?i=1000798022787"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 9,
+  "resultCount": 8,
   "results": [
     {
       "month": "202604",
@@ -135,34 +135,8 @@
       "month": "202610",
       "country": "gb",
       "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 86,
-      "artistName": "iHeartPodcasts | Glass Podcasts",
-      "id": "1615637724",
-      "name": "Betrayal Season 6",
-      "kind": "podcasts",
-      "contentAdvisoryRating": "Explict",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/c0/ce/45c0cec7-f08f-a48c-505f-0796c7f75401/mza_6343213902657514244.jpg/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "1488",
-          "name": "True Crime",
-          "url": "https://itunes.apple.com/gb/genre/id1488"
-        },
-        {
-          "genreId": "1324",
-          "name": "Society & Culture",
-          "url": "https://itunes.apple.com/gb/genre/id1324"
-        }
-      ],
-      "url": "https://podcasts.apple.com/gb/podcast/betrayal-season-6/id1615637724"
-    },
-    {
-      "month": "202610",
-      "country": "gb",
-      "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 41,
+      "rank": 47,
       "artistName": "iHeartPodcasts | Glass Podcasts",
       "id": "1615637724",
       "name": "Betrayal Season 6",
@@ -188,7 +162,7 @@
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 14,
+      "rank": 25,
       "artistName": "iHeartPodcasts | Glass Podcasts",
       "id": "1615637724",
       "name": "Betrayal Season 6",
@@ -214,7 +188,7 @@
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 9,
+      "rank": 12,
       "artistName": "iHeartPodcasts | Glass Podcasts",
       "id": "1615637724",
       "name": "Betrayal Season 6",

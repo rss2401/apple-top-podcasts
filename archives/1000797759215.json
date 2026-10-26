@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "Ramsey Network",
+      "id": "1000797759215",
+      "name": "Living Without Debt Leads to Financial Freedom",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/e4/c5/9ce4c55f-4d03-2294-bcf2-87b5f12b47fc/mza_10987498054585613268.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Investing"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/living-without-debt-leads-to-financial-freedom/id77001367?i=1000797759215"
+    }
+  ]
+}

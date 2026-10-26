@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "Audiochuck",
+      "id": "1000796515970",
+      "name": "MURDERED: Nori Amaya",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/43/40/f343400d-d747-4884-beb4-26978cfdd079/mza_8216849466186901135.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/murdered-nori-amaya/id1322200189?i=1000796515970"
+    }
+  ]
+}

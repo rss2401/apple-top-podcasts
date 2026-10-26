@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "Stéphanie Duncan",
+      "id": "1000797917274",
+      "name": "Comment les Etats-Unis d’Amérique ont-ils proclamé leur indépendance en 1776 ? (Intégrale)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/8b/7f/8b8b7f97-1ff2-1918-a2eb-9855e9515e0b/mza_17960820457346808084.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/comment-les-etats-unis-dam%C3%A9rique-ont-ils-proclam%C3%A9-leur/id1035249857?i=1000797917274"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 63,
+      "artistName": "Tenderfoot TV & Audacy",
+      "id": "1000797535722",
+      "name": "Episode 112",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/36/9f/47/369f471b-91ad-022a-c94c-d170ed2c8555/mza_7153227774389223183.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/episode-112/id1483289230?i=1000797535722"
+    }
+  ]
+}

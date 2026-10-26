@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "New York Magazine",
+      "id": "1000797758825",
+      "name": "Elon v. Kara, Tesla’s SpaceX Lifeline, and Sacha Baron Cohen on Satire",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/elon-v-kara-teslas-spacex-lifeline-and-sacha-baron/id1073226719?i=1000797758825"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "Europe 1",
+      "id": "1000797983400",
+      "name": "Clementine Churchill, dans l'ombre de Winston",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/c5/1c/74c51ca9-6a84-9904-035b-3223e7197891/mza_2117784838865983415.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/clementine-churchill-dans-lombre-de-winston/id423534806?i=1000797983400"
+    }
+  ]
+}

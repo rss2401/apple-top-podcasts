@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 80,
+      "artistName": "Radio Nova",
+      "id": "1000798052836",
+      "name": "Le prix du “Faut pas engueuler les macronistes” revient à… - Les prix de la semaine",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/32/c5/7f32c57c-a946-5cff-d585-60538a6607cd/mza_16881215422026011675.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-prix-du-faut-pas-engueuler-les-macronistes-revient/id1766744611?i=1000798052836"
+    }
+  ]
+}

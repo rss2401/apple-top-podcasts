@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 71,
+      "artistName": "Europe 1",
+      "id": "1000797879065",
+      "name": "Keiko et Lute, les dépeceurs chinois - Le récit [2/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/9d/46/c19d467f-39ca-8648-13a7-98d81f48229f/mza_3352254532434797271.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/keiko-et-lute-les-d%C3%A9peceurs-chinois-le-r%C3%A9cit-2-2/id1146402624?i=1000797879065"
+    }
+  ]
+}

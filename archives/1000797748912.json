@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 13,
+      "artistName": "ニッポン放送",
+      "id": "1000797748912",
+      "name": "#38 「ピクニックと綱」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/a5/07/e6a5071e-ca78-c007-cba7-782fadc0d52c/mza_9316825368320193833.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1301",
+          "name": "アート",
+          "url": "https://itunes.apple.com/jp/genre/id1301"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/38-%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%A8%E7%B6%B1/id1874531482?i=1000797748912"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 30,
+      "artistName": "France Culture",
+      "id": "1480388672",
+      "name": "Projet Orloff",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/fa/75/26fa75e0-ccd8-34d7-20f3-92b76f9ebbec/mza_3471018715776479860.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1483",
+          "name": "Romans et nouvelles",
+          "url": "https://itunes.apple.com/fr/genre/id1483"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/projet-orloff/id1480388672"
+    }
+  ]
+}

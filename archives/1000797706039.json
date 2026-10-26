@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "Jun Senesac | Hapa英会話",
+      "id": "1000797706039",
+      "name": "日本の商品とサービスの魅力（#643）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/32/01/fb/3201fb9f-c284-8273-6832-0aed6b7a4d28/mza_6432996578399273752.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "言語学習"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%95%86%E5%93%81%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E9%AD%85%E5%8A%9B-643/id814040014?i=1000797706039"
+    }
+  ]
+}

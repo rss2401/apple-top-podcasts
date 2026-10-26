@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "ニッポン放送",
+      "id": "1000797588256",
+      "name": "ep.263 同窓会論争",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/93/17/3e93176c-73bd-7a9f-59f1-abe9faac1f9b/mza_4489015312243096128.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/ep-263-%E5%90%8C%E7%AA%93%E4%BC%9A%E8%AB%96%E4%BA%89/id1588687062?i=1000797588256"
+    }
+  ]
+}

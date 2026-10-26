@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 42,
+      "artistName": "Jacques Pradel",
+      "id": "1000797956598",
+      "name": "L'étrange mort de François Doublet, cuisinier de l'Élysée",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/f7/c5/93f7c5a3-4481-dd10-20e2-662f78c361ed/mza_2492585121820342787.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/l%C3%A9trange-mort-de-fran%C3%A7ois-doublet-cuisinier-de-l%C3%A9lys%C3%A9e/id1616146073?i=1000797956598"
+    }
+  ]
+}

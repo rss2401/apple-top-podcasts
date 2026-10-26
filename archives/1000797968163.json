@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 58,
+      "artistName": "The Bulwark",
+      "id": "1000797968163",
+      "name": "Trump’s $10 Billion BBC Lawsuit Just Backfired (w/ Andrew Weissmann) | Illegal News",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/ae/5f/16ae5fce-cd43-ff0c-05c5-0d660acd319e/mza_5554887320688654915.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/trumps-%2410-billion-bbc-lawsuit-just-backfired-w-andrew/id1725387804?i=1000797968163"
+    }
+  ]
+}

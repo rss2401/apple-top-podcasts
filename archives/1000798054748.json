@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "朝日新聞ポッドキャスト",
+      "id": "1000798054748",
+      "name": "（めくろう #203）怖すぎる情報流出　怖くない妖怪研究　本読み返す秋",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/4d/91/a84d9166-8f31-78a1-ff26-14d4c4b12dfd/mza_7185190705682721987.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "ニュース解説"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%82%81%E3%81%8F%E3%82%8D%E3%81%86-203-%E6%80%96%E3%81%99%E3%81%8E%E3%82%8B%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA-%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84%E5%A6%96%E6%80%AA%E7%A0%94%E7%A9%B6-%E6%9C%AC%E8%AA%AD%E3%81%BF%E8%BF%94%E3%81%99%E7%A7%8B/id1526773927?i=1000798054748"
+    }
+  ]
+}

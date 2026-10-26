@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 56,
+      "artistName": "Frédéric Beigbeder",
+      "id": "1000798063653",
+      "name": "L'INTÉGRALE - \"Tous les goûts sont permis\" du 25 octobre 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/1a/21/cd1a21e5-b46d-bfd5-4947-7e9ec89de878/mza_2348187683291355757.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-tous-les-go%C3%BBts-sont-permis-du-25-octobre-2026/id6804628962?i=1000798063653"
+    }
+  ]
+}

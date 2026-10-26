@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "Christine Schiefer, Em Schulz | Para Pods",
+      "id": "1000797993518",
+      "name": "E504 Hash-Slinging Specters and Villainous Lemons",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/59/c5/f059c5e5-c781-8130-8e8f-38e4ba13aec4/mza_16257303392045140320.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/e504-hash-slinging-specters-and-villainous-lemons/id1204570053?i=1000797993518"
+    }
+  ]
+}

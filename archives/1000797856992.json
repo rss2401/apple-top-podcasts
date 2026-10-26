@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "ラジオNIKKEI",
+      "id": "1000797856992",
+      "name": "10月24日（土）滋賀銀行・池田泉州HD 経営統合へ、防衛費の対象経費を拡大へ",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/10%E6%9C%8824%E6%97%A5-%E5%9C%9F-%E6%BB%8B%E8%B3%80%E9%8A%80%E8%A1%8C-%E6%B1%A0%E7%94%B0%E6%B3%89%E5%B7%9Ehd-%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88%E3%81%B8-%E9%98%B2%E8%A1%9B%E8%B2%BB%E3%81%AE%E5%AF%BE%E8%B1%A1%E7%B5%8C%E8%B2%BB%E3%82%92%E6%8B%A1%E5%A4%A7%E3%81%B8/id1627014612?i=1000797856992"
+    }
+  ]
+}

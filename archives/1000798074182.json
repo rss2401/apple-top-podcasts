@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 84,
+      "artistName": "「週刊文春」編集部",
+      "id": "1000798074182",
+      "name": "《2つ目の公選法違反疑惑》武部新農水相がカメラマンを“86万円買収”　選挙報告書には「無償」と記載〈事務所の回答は…〉",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/62/16/d7/6216d741-0a5f-77e0-c0a9-1e1aaea1783c/mza_6774381768906548157.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "エンターテインメントニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2%E3%81%A4%E7%9B%AE%E3%81%AE%E5%85%AC%E9%81%B8%E6%B3%95%E9%81%95%E5%8F%8D%E7%96%91%E6%83%91-%E6%AD%A6%E9%83%A8%E6%96%B0%E8%BE%B2%E6%B0%B4%E7%9B%B8%E3%81%8C%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%9E%E3%83%B3%E3%82%92-86%E4%B8%87%E5%86%86%E8%B2%B7%E5%8F%8E-%E9%81%B8%E6%8C%99%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%81%AB%E3%81%AF-%E7%84%A1%E5%84%9F-%E3%81%A8%E8%A8%98%E8%BC%89-%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AE%E5%9B%9E%E7%AD%94%E3%81%AF/id1596679845?i=1000798074182"
+    }
+  ]
+}

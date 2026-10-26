@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 72,
+      "artistName": "François Lenglet, TF1 Info",
+      "id": "1000798002986",
+      "name": "Jean-Luc Mélenchon face à François Lenget - Pourquoi président(e) ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/91/07/1c9107f1-b177-e757-8c2c-955ce595a862/mza_12064557232224880584.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité : analyses"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jean-luc-m%C3%A9lenchon-face-%C3%A0-fran%C3%A7ois-lenget-pourquoi/id1846875439?i=1000798002986"
+    }
+  ]
+}

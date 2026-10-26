@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 2,
+      "artistName": "Guillaume Pley",
+      "id": "1000798008348",
+      "name": "SPÉCIALISTE DES BONNES MANIÈRES : LES ERREURS DE SAVOIR-VIVRE QUE VOUS FAITES SANS LE SAVOIR !",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/4d/80/534d8069-3fd6-c92e-6084-bdae04dfc6c6/mza_12390230784438544712.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/sp%C3%A9cialiste-des-bonnes-mani%C3%A8res-les-erreurs-de/id1691740320?i=1000798008348"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 6,
+      "artistName": "Chronicle",
+      "id": "1000798061204",
+      "name": "【10月26日】フランスでデモ続く、政治経済へ与える影響とは？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "今日のニュース"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/10%E6%9C%8826%E6%97%A5-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%A7%E3%83%87%E3%83%A2%E7%B6%9A%E3%81%8F-%E6%94%BF%E6%B2%BB%E7%B5%8C%E6%B8%88%E3%81%B8%E4%B8%8E%E3%81%88%E3%82%8B%E5%BD%B1%E9%9F%BF%E3%81%A8%E3%81%AF/id1608666340?i=1000798061204"
+    }
+  ]
+}

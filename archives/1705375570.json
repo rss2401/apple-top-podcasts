@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 24,
+      "artistName": "Leslye Granaud",
+      "id": "1705375570",
+      "name": "C'est pas toi, c'est moi.",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/1e/72/ce1e7224-2b2e-d492-1118-3ad70d34f383/mza_14248792193860555283.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/cest-pas-toi-cest-moi/id1705375570"
+    }
+  ]
+}

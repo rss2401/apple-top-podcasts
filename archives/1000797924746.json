@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "FERMONDO",
+      "id": "1000797924746",
+      "name": "#267 よく知っているつもり、が一番危ない",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/69/06/79/69067961-7d3b-ccab-876b-05abbc106f7c/mza_13072912659744040234.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "自己啓発"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/267-%E3%82%88%E3%81%8F%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A4%E3%82%82%E3%82%8A-%E3%81%8C%E4%B8%80%E7%95%AA%E5%8D%B1%E3%81%AA%E3%81%84/id1586630503?i=1000797924746"
+    }
+  ]
+}

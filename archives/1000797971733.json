@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "RTL",
+      "id": "1000797971733",
+      "name": "ARCHIVE - La chronique du 20 avril 2021",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/c5/2d/a5c52d31-50e3-f899-7d56-75755583ca33/mza_4945055195655958555.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/archive-la-chronique-du-20-avril-2021/id1477882043?i=1000797971733"
+    }
+  ]
+}

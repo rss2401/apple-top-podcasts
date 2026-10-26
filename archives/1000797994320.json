@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 19,
+      "artistName": "Nicolas Poincaré",
+      "id": "1000797994320",
+      "name": "Les Américains exaspérés par la corruption",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/7c/d8/247cd8bc-2b45-2db5-bac4-6769be224b99/mza_476067099384434209.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-am%C3%A9ricains-exasp%C3%A9r%C3%A9s-par-la-corruption/id115156820?i=1000797994320"
+    }
+  ]
+}

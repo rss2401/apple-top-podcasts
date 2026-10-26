@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 9,
+      "artistName": "The Tim Dillon Show",
+      "id": "1000797933385",
+      "name": "518 - Vivek Ramaswamy, French Riots, & The MAGA Cult",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ea/ab/b8eaabfe-4738-77fd-fd6f-a4b6ac3de5e2/mza_969229443441864317.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/518-vivek-ramaswamy-french-riots-the-maga-cult/id1135137367?i=1000797933385"
+    }
+  ]
+}

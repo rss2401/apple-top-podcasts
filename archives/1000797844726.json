@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 50,
+      "artistName": "Lovett or Leave It",
+      "id": "1000797844726",
+      "name": "Trump Hits Rock-Hard Bottom",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a2/6e/82/a26e8279-f4df-1822-52d9-1c27294a9bb7/mza_6355131629765644739.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/trump-hits-rock-hard-bottom/id1216346463?i=1000797844726"
+    }
+  ]
+}

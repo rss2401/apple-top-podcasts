@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "Bababam",
+      "id": "1000797880193",
+      "name": "GRAND FORMAT | Alexeï Navalny, l’homme qui a osé défier Poutine (1/2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1d/a1/5a/1da15a5a-c2d4-9c07-d395-4d577c96839a/mza_10303830959670921694.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/grand-format-alexe%C3%AF-navalny-lhomme-qui-a-os%C3%A9-d%C3%A9fier/id1675024215?i=1000797880193"
+    }
+  ]
+}

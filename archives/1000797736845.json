@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 32,
+      "artistName": "Pod Save America",
+      "id": "1000797736845",
+      "name": "Fake Polls, Real Wave?",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/5f/bc/6f5fbc6a-28a5-485c-e46e-dd01fd0060e0/mza_12926853718745080457.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/fake-polls-real-wave/id1192761536?i=1000797736845"
+    }
+  ]
+}

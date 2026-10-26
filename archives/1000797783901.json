@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 4,
+      "artistName": "Fabrice Drouelle",
+      "id": "1000797783901",
+      "name": "L'affaire Robert Hendy-Freegard",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/3b/33/1b3b3370-d8b5-5bff-e3c3-d8a0a4bdd702/mza_15635444056210186690.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-robert-hendy-freegard/id912451024?i=1000797783901"
+    }
+  ]
+}

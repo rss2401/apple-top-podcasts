@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 76,
+      "artistName": "東京ポッド許可局",
+      "id": "1000797980800",
+      "name": "エンディング「阿部寛に遭遇＆新クイズ提案」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/f0/eb/27f0ebe8-7773-8dc0-453b-22f8230b1fc7/mza_11338956620111059897.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E9%98%BF%E9%83%A8%E5%AF%9B%E3%81%AB%E9%81%AD%E9%81%87-%E6%96%B0%E3%82%AF%E3%82%A4%E3%82%BA%E6%8F%90%E6%A1%88/id1123725677?i=1000797980800"
+    }
+  ]
+}

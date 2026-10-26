@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 75,
+      "artistName": "Sony Music Entertainment",
+      "id": "1575738174",
+      "name": "Bad Blood: The Final Chapter",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/d0/e5/8ad0e512-a80c-fad5-9a4c-d903135b4fe6/mza_16035845899243700710.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        },
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174"
+    }
+  ]
+}

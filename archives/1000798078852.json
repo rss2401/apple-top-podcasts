@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 13,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000798078852",
+      "name": "Bénédicte Belair : la vérité cachée",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/11/e2/c811e2ec-edf5-da5a-b745-2cfa2d057559/mza_7738510112775748936.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/b%C3%A9n%C3%A9dicte-belair-la-v%C3%A9rit%C3%A9-cach%C3%A9e/id1593842944?i=1000798078852"
+    }
+  ]
+}

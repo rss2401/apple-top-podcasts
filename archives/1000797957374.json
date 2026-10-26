@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 21,
+      "artistName": "France Culture",
+      "id": "1000797957374",
+      "name": "[BEST OF 🔥] Deux journées extraordinaires",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/97/a0/a597a02f-d557-8097-a9ac-a2dac934f502/mza_11155395356946475432.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-deux-journ%C3%A9es-extraordinaires/id160879442?i=1000797957374"
+    }
+  ]
+}

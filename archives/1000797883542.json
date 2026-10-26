@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "Agathe Lecaron",
+      "id": "1000797883542",
+      "name": "24 janvier 2015",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/55/67/ba5567dd-b39d-eb5f-69eb-0e87a06ae1d8/mza_18003957057173278249.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Journaux personnels"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/24-janvier-2015/id1678013081?i=1000797883542"
+    }
+  ]
+}
