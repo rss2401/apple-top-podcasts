@@ -1,0 +1,1486 @@
+{
+  "feed": {
+    "title": "Épisodes populaires",
+    "id": "https://rss.marketingtools.apple.com/api/v2/fr/podcasts/top/100/podcast-episodes.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.marketingtools.apple.com/api/v2/fr/podcasts/top/100/podcast-episodes.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "fr",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Sun, 1 Nov 2026 10:39:32 +0000",
+    "results": [
+      {
+        "artistName": "Laurent Ruquier",
+        "id": "1000799103929",
+        "name": "L'INTÉGRALE - Le Best of du samedi 31 octobre 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/f2/c6/10f2c65a-b8e0-6c10-271d-2d58fae3cd36/mza_13267560699373514124.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualité du divertissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-le-best-of-du-samedi-31-octobre-2026/id369369012?i=1000799103929"
+      },
+      {
+        "artistName": "Christine Ockrent",
+        "id": "1000799062442",
+        "name": "Trump face aux midterms",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c2/03/70/c20370be-718e-091c-a9f1-64b484041e57/mza_12251489964045410621.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/trump-face-aux-midterms/id608884562?i=1000799062442"
+      },
+      {
+        "artistName": "France Télévisions",
+        "id": "1000799107290",
+        "name": "Les manifs s'élancent, la colère s'installe... jusqu'à quand ? -",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/af/80/38af8076-e58a-ebb9-3965-274aee773635/mza_12243517076610582792.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-manifs-s%C3%A9lancent-la-col%C3%A8re-sinstalle-jusqu%C3%A0-quand/id1438726711?i=1000799107290"
+      },
+      {
+        "artistName": "Laurent Ruquier",
+        "id": "1000798929722",
+        "name": "L'INTÉGRALE - Émission du vendredi 30 octobre 2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/2a/6d/b12a6d6c-ec25-3f7d-a496-43c4d9bcee08/mza_17548128286447516759.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualité du divertissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-du-vendredi-30-octobre-2026/id369369012?i=1000798929722"
+      },
+      {
+        "artistName": "Le Parisien",
+        "id": "1000799022758",
+        "name": "[1/2] Affaire Jacques Métais : la «momie des Calanques»",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1e/ee/f3/1eeef3e6-7a79-abb0-fac1-a48b67ae4138/mza_15539391707245251831.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/1-2-affaire-jacques-m%C3%A9tais-la-momie-des-calanques/id1658362786?i=1000799022758"
+      },
+      {
+        "artistName": "Fabrice Drouelle",
+        "id": "1000798896684",
+        "name": "Jimmy Savile l'ogre de la BBC",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/26/11/5f261137-bcc8-281c-2f26-5f5fa6975f85/mza_4691667719871108252.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Documentaire"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/jimmy-savile-logre-de-la-bbc/id912451024?i=1000798896684"
+      },
+      {
+        "artistName": "Le Parisien",
+        "id": "1000799022655",
+        "name": "[2/2] Affaire Jacques Métais : la «momie des Calanques»",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/81/f4/d681f430-2883-cad7-f5af-8b22dc5c8eaf/mza_8468059458689449750.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/2-2-affaire-jacques-m%C3%A9tais-la-momie-des-calanques/id1658362786?i=1000799022655"
+      },
+      {
+        "artistName": "Guillaume Pley",
+        "id": "1000798872656",
+        "name": "HÉRITAGES, MAISONS VOLÉES, TESTAMENTS CACHÉS : LES PIÈGES QUI PEUVENT VOUS RUINER !",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/e4/56/96e4563c-876c-b9d1-0c53-e60b42e1b9fc/mza_12587621203219305817.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/h%C3%A9ritages-maisons-vol%C3%A9es-testaments-cach%C3%A9s-les-pi%C3%A8ges/id1691740320?i=1000798872656"
+      },
+      {
+        "artistName": "Lorànt Deutsch",
+        "id": "1000798995057",
+        "name": "Saint-Exupéry : collectionneur de crashs et d'aventures sentimentales",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/b4/b8/82b4b823-9546-d78c-132e-f9fb4b5c640a/mza_15294973342266093790.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/saint-exup%C3%A9ry-collectionneur-de-crashs-et-daventures/id1583548883?i=1000798995057"
+      },
+      {
+        "artistName": "Kyan Khojandi & Navo",
+        "id": "1000799008389",
+        "name": "Marina Rollman et Thomas Wiesel : contents Suisses (Un Bon Moment, S6-E7)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/aa/7e/6daa7eba-954f-6a48-cb40-53675e2c441d/mza_2301089045885908306.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comédie : les interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/marina-rollman-et-thomas-wiesel-contents-suisses-un/id1498725708?i=1000799008389"
+      },
+      {
+        "artistName": "Jean-Alphonse Richard",
+        "id": "1000798981288",
+        "name": "INCONTOURNABLE - Affaire Elisa Lam : les fantômes du Cecil Hôtel",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/fb/ce/bdfbce31-7adb-4ac0-af41-a844edb8ba73/mza_112809290730339743.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/incontournable-affaire-elisa-lam-les-fant%C3%B4mes-du-cecil/id389542173?i=1000798981288"
+      },
+      {
+        "artistName": "Jean-Alphonse Richard",
+        "id": "1000799129050",
+        "name": "INCONTOURNABLE - Nathalie Boyer et Leïla Afif : le long chemin de la vérité",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/96/6d/5e966d70-ca00-ecf9-fa32-a6f610eb5207/mza_10056577320908689079.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/incontournable-nathalie-boyer-et-le%C3%AFla-afif-le-long/id389542173?i=1000799129050"
+      },
+      {
+        "artistName": "Radio Classique",
+        "id": "1000799115110",
+        "name": "Marie-Thérèse d'Autriche - Collection Reines de France",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/a3/6f/6aa36fc5-1aba-02c8-73f8-a08559fe1d8a/mza_13732621007390675886.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/marie-th%C3%A9r%C3%A8se-dautriche-collection-reines-de-france/id1434297164?i=1000799115110"
+      },
+      {
+        "artistName": "Europe 1",
+        "id": "1000799007700",
+        "name": "Bodein, Pierrot le fou ? Ou pas… - Le récit (1/2)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/0a/e0/fe0ae0e5-a4ca-8a05-2973-ba6283439749/mza_9825102169996397602.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/bodein-pierrot-le-fou-ou-pas-le-r%C3%A9cit-1-2/id1146402624?i=1000799007700"
+      },
+      {
+        "artistName": "Jacques Pradel - TF1",
+        "id": "1000798466202",
+        "name": "L’affaire Eric Vanderlinden : Une flèche pour le mari",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/35/6c/c0356c50-2cfe-7003-cf37-802e2c3153d7/mza_7700008697478933172.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/laffaire-eric-vanderlinden-une-fl%C3%A8che-pour-le-mari/id1509742508?i=1000798466202"
+      },
+      {
+        "artistName": "Konbini",
+        "id": "1000798460634",
+        "name": "Omar Sy et le néant qui file des guilis",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1c/f0/9d/1cf09d03-37ee-3b33-7a42-d8df85a55273/mza_8735529533017398159.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comédie : les interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/omar-sy-et-le-n%C3%A9ant-qui-file-des-guilis/id1644493181?i=1000798460634"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798981749",
+        "name": "L'intégrale de L'After Foot du vendredi 30 octobre 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/62/36/1b6236c8-db2b-0fa7-8530-b1691607962a/mza_8114194240759444394.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-de-lafter-foot-du-vendredi-30-octobre-2026/id140644703?i=1000798981749"
+      },
+      {
+        "artistName": "Alain Finkielkraut",
+        "id": "1000799038565",
+        "name": "De Gaulle parmi nous",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/4e/df/c54edf61-5686-83ce-71fb-415a6512e4f2/mza_12851664041618629134.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/de-gaulle-parmi-nous/id114880560?i=1000799038565"
+      },
+      {
+        "artistName": "Slate.fr Podcasts",
+        "id": "1000799008052",
+        "name": "[Paranormal] Nuits noires",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/34/1f/3a341fd1-41ac-401b-2721-50e2245be56d/mza_7797341130086209673.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/paranormal-nuits-noires/id1567870398?i=1000799008052"
+      },
+      {
+        "artistName": "Agathe Lecaron",
+        "id": "1000798833832",
+        "name": "Le garçon spécial",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/30/37/7e/30377e64-6375-4593-a137-aa447b53b95c/mza_17612518702580378384.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Relations"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/le-gar%C3%A7on-sp%C3%A9cial/id1503701694?i=1000798833832"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000799139782",
+        "name": "L'intégrale de L'After Foot du samedi 31 octobre 2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/62/36/1b6236c8-db2b-0fa7-8530-b1691607962a/mza_8114194240759444394.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-de-lafter-foot-du-samedi-31-octobre-2026/id140644703?i=1000799139782"
+      },
+      {
+        "artistName": "Anne Ghesquière",
+        "id": "1000798999644",
+        "name": "Enfin bien dormir : ce qui marche vraiment !",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/db/4f/37db4f5e-f403-59f6-d9c3-2871c53e74d1/mza_13161436011349380391.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1512",
+            "name": "Forme et santé",
+            "url": "https://itunes.apple.com/fr/genre/id1512"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/enfin-bien-dormir-ce-qui-marche-vraiment/id1448632119?i=1000798999644"
+      },
+      {
+        "artistName": "Europe1",
+        "id": "1000799008375",
+        "name": "Les auditeurs mènent l'enquête - Sans Crime ni Raison [1/2]",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/5c/ee/7d5cee12-f621-7c49-6ba0-7b49953d5c81/mza_3957262703134360589.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-auditeurs-m%C3%A8nent-lenqu%C3%AAte-sans-crime-ni-raison-1-2/id1773924080?i=1000799008375"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798932668",
+        "name": "L'intégrale du Super Moscato Show du vendredi 30 octobre 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/a2/2e/25a22e80-8706-3db0-a7c8-e2fa664560e7/mza_12270623128386519526.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-du-super-moscato-show-du-vendredi-30-octobre/id267165284?i=1000798932668"
+      },
+      {
+        "artistName": "Europe 1",
+        "id": "1000799009272",
+        "name": "Elisabeth Bathory, la comtesse sanglante",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/f8/8d/05f88d2f-2e5c-e9c6-f47b-41aad460e3dd/mza_4668642064518046957.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/elisabeth-bathory-la-comtesse-sanglante/id423534806?i=1000799009272"
+      },
+      {
+        "artistName": "Hugo Décrypte",
+        "id": "1000799111814",
+        "name": "Tout ce qui change dès maintenant  (31/10)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/8c/ef/b58cefee-6bc0-039d-776e-cfd2e90257b8/mza_12189253247261908378.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/tout-ce-qui-change-d%C3%A8s-maintenant-31-10/id1552365367?i=1000799111814"
+      },
+      {
+        "artistName": "Laurent Ruquier",
+        "id": "1000798753050",
+        "name": "L'INTÉGRALE - Émission du jeudi 29 octobre 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/35/06/c3350625-fb55-f277-d825-e4520f4a6757/mza_1317985316842874970.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualité du divertissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-du-jeudi-29-octobre-2026/id369369012?i=1000798753050"
+      },
+      {
+        "artistName": "Bababam",
+        "id": "1000799009182",
+        "name": "GRAND FORMAT | Yvan Colonna, la Corse face au meurtre du Préfet",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/da/d1/d0dad1f3-f661-4b96-f6d3-35739e1bb897/mza_5854794026945934966.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/grand-format-yvan-colonna-la-corse-face-au-meurtre-du-pr%C3%A9fet/id1675024215?i=1000799009182"
+      },
+      {
+        "artistName": "RTL",
+        "id": "1000798992924",
+        "name": "BEST OF - Nuñez, Farandou, Lescure... P. Caverivière face aux membres du Gouvernement",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/31/97/3431971d-35ba-687b-4681-804b6d7f3634/mza_9845651593416234609.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Humour",
+            "url": "https://itunes.apple.com/fr/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/best-of-nu%C3%B1ez-farandou-lescure-p-caverivi%C3%A8re-face/id1477882043?i=1000798992924"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798884458",
+        "name": "L'intégrale des Grandes Gueules du vendredi 30 octobre 2026 avec Sam Zirah, Emmanuel De Villiers et Fatima Aït Bounoua - 09h/12h",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/d1/8a/66d18a76-4e87-5620-d50d-c5bf4d4827a8/mza_13674138521761709188.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actus du jour"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-des-grandes-gueules-du-vendredi-30-octobre/id82354094?i=1000798884458"
+      },
+      {
+        "artistName": "Nicolas Poincaré",
+        "id": "1000799028656",
+        "name": "Les personnalités émergeantes de la campagne des élections de mi-mandat aux Etats-Unis",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/36/10/aa36106b-6de1-5705-0533-84c7f73ac1ea/mza_2244717809744262382.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-personnalit%C3%A9s-%C3%A9mergeantes-de-la-campagne-des/id115156820?i=1000799028656"
+      },
+      {
+        "artistName": "Stéphanie Duncan",
+        "id": "1000797917274",
+        "name": "Comment les Etats-Unis d’Amérique ont-ils proclamé leur indépendance en 1776 ? (Intégrale)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/8b/7f/8b8b7f97-1ff2-1918-a2eb-9855e9515e0b/mza_17960820457346808084.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/comment-les-etats-unis-dam%C3%A9rique-ont-ils-proclam%C3%A9-leur/id1035249857?i=1000797917274"
+      },
+      {
+        "artistName": "Jean-Alphonse Richard",
+        "id": "1000798977350",
+        "name": "L'affaire Karine Esquivillon : 81 jours de mensonges",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/6e/87/a56e87ec-d6d0-66b3-0e20-96205340d72a/mza_12757336327285424009.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/laffaire-karine-esquivillon-81-jours-de-mensonges/id1593842944?i=1000798977350"
+      },
+      {
+        "artistName": "Le Monde",
+        "id": "1000799003237",
+        "name": "Présidentielle 2027 : une campagne sous le signe de la colère",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/4b/38/c44b3861-cd4a-9052-f3e2-43452bfa7862/mza_14708836986913735524.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actus du jour"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/pr%C3%A9sidentielle-2027-une-campagne-sous-le-signe-de-la-col%C3%A8re/id1704984604?i=1000799003237"
+      },
+      {
+        "artistName": "Jean-Noël Jeanneney",
+        "id": "1000799051370",
+        "name": "Winock : à chacun son Sartre",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/2f/a4/862fa4ae-91f2-0420-9228-84b69e33c652/mza_7777836079256384066.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/winock-%C3%A0-chacun-son-sartre/id114879499?i=1000799051370"
+      },
+      {
+        "artistName": "Thinkerview",
+        "id": "1000798553837",
+        "name": "David Baverez : Black Bloc contre BlackRock, qui gagne ?",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b4/00/fd/b400fdfa-6253-875e-f58d-715d994e9c4d/mza_17830958679990196098.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/david-baverez-black-bloc-contre-blackrock-qui-gagne/id1196519121?i=1000798553837"
+      },
+      {
+        "artistName": "Europe 1",
+        "id": "1000799007869",
+        "name": "Bodein, Pierrot le fou ? Ou pas… - Le récit (2/2)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/0d/0c/7a0d0c20-9dca-73b3-9c10-942beaa561bc/mza_10055086101687107325.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/bodein-pierrot-le-fou-ou-pas-le-r%C3%A9cit-2-2/id1146402624?i=1000799007869"
+      },
+      {
+        "artistName": "Radio Classique",
+        "id": "1000799088411",
+        "name": "Anne de Bretagne - Collection Reines de France",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/a3/6f/6aa36fc5-1aba-02c8-73f8-a08559fe1d8a/mza_13732621007390675886.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/anne-de-bretagne-collection-reines-de-france/id1434297164?i=1000799088411"
+      },
+      {
+        "artistName": "France Culture",
+        "id": "1000798978237",
+        "name": "[BEST OF 🔥] Le grand frisson (2016)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/18/ab/dd/18abdd26-319a-9a14-dcf3-c8885c9f9efd/mza_11218317329496542371.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/best-of-le-grand-frisson-2016/id160879442?i=1000798978237"
+      },
+      {
+        "artistName": "Jean-Alphonse Richard",
+        "id": "1000799129963",
+        "name": "L'affaire Maylis Daubon : la maison aux mensonges empoisonnés",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/e2/0f/bce20f79-ede3-6139-57ee-4b509ebcb070/mza_5910094908613002062.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/laffaire-maylis-daubon-la-maison-aux-mensonges-empoisonn%C3%A9s/id1593842944?i=1000799129963"
+      },
+      {
+        "artistName": "Louie Media",
+        "id": "1000798152576",
+        "name": "La grande soeur",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/3c/cf/443ccf6c-4656-ff9c-197c-7ae313724a41/mza_13671876591682211151.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Documentaire"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/la-grande-soeur/id1534412600?i=1000798152576"
+      },
+      {
+        "artistName": "Bababam",
+        "id": "1000798827129",
+        "name": "L'affaire Moulinas, parents d'un criminel",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/6c/e4/5c6ce48f-886a-661e-fdd6-a31267fb2d8b/mza_1106977771291709609.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/laffaire-moulinas-parents-dun-criminel/id1546899313?i=1000798827129"
+      },
+      {
+        "artistName": "Benjamin Brillaud",
+        "id": "1000799062989",
+        "name": "L'Histoire des banques - NOTA BENE",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/23/6c/71236c98-d25e-9e5f-39c3-7289c55143e4/mza_18136966732604317374.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lhistoire-des-banques-nota-bene/id1573434643?i=1000799062989"
+      },
+      {
+        "artistName": "Slate.fr Podcasts",
+        "id": "1000798658280",
+        "name": "Les règles du jeu",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/34/1f/3a341fd1-41ac-401b-2721-50e2245be56d/mza_7797341130086209673.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-r%C3%A8gles-du-jeu/id1567870398?i=1000798658280"
+      },
+      {
+        "artistName": "Christophe Galfard",
+        "id": "1000799095371",
+        "name": "La matière noire",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/93/20/37932020-ca97-f00a-d2ca-4e125a218267/mza_10885084343006263218.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Sciences",
+            "url": "https://itunes.apple.com/fr/genre/id1533"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/la-mati%C3%A8re-noire/id1836947328?i=1000799095371"
+      },
+      {
+        "artistName": "France Culture",
+        "id": "1000799130783",
+        "name": "[BEST OF 🔥] Aventures extrêmes (2018)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/8f/e5/bd8fe5d8-f7c0-56e1-15a6-cca970eade93/mza_8692223324042085807.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/best-of-aventures-extr%C3%AAmes-2018/id160879442?i=1000799130783"
+      },
+      {
+        "artistName": "France Télévisions",
+        "id": "1000799115916",
+        "name": "Les manifs s'élancent, la colère s'installe... jusqu'à quand ? - Vos questions sms -",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b9/1f/7b/b91f7b5a-9725-137a-b883-6cc72b0a59db/mza_7187767079438400443.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-manifs-s%C3%A9lancent-la-col%C3%A8re-sinstalle-jusqu%C3%A0-quand/id1438726711?i=1000799115916"
+      },
+      {
+        "artistName": "ARTE Radio",
+        "id": "1000798117478",
+        "name": "Un micro à la DGSE : La manipulation (1/6)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/ca/ca/bccacaa6-b329-aef3-9925-259370128ec6/mza_4349784846403468281.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/un-micro-%C3%A0-la-dgse-la-manipulation-1-6/id1093080425?i=1000798117478"
+      },
+      {
+        "artistName": "Bababam",
+        "id": "1000799009717",
+        "name": "BABABAM ORIGINALS | Nicolas Flamel, l'énigmatique alchimiste",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/2c/56/402c5621-eb57-91b2-1410-dbb1c72977bf/mza_8151691344545843747.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/bababam-originals-nicolas-flamel-l%C3%A9nigmatique-alchimiste/id1546899313?i=1000799009717"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000799062739",
+        "name": "L'intégrale des Grandes Gueules du Sport du samedi 31 octobre 2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/7f/44/b17f4410-a2a4-df06-a046-8452dbb535e3/mza_8468527187993636506.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football américain"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-des-grandes-gueules-du-sport-du-samedi-31/id561872843?i=1000799062739"
+      },
+      {
+        "artistName": "Le Monde",
+        "id": "1000798793849",
+        "name": "#189 Louise Bourgoin, actrice et dessinatrice : « Aux Beaux-Arts, on nous encourageait à faire des happenings. Finalement, c’était une école pour devenir Miss Météo »",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/9d/9b/a19d9bb2-d5be-cbd9-fe3b-74aee144d05c/mza_6395299081451409557.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/189-louise-bourgoin-actrice-et-dessinatrice-aux-beaux/id1480837383?i=1000798793849"
+      },
+      {
+        "artistName": "Lorànt Deutsch",
+        "id": "1000798908096",
+        "name": "Henri II de Montmorency : le prix de la rébellion",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/65/a6/8465a635-fcae-1d03-0574-6739847a5164/mza_11915719429978384158.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/henri-ii-de-montmorency-le-prix-de-la-r%C3%A9bellion/id1583548883?i=1000798908096"
+      },
+      {
+        "artistName": "France Télévisions",
+        "id": "1000799019157",
+        "name": "Gilles Gressani - J-4 avant les midterms: Trump a-t-il déjà perdu?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/12/4a/68124a80-3ddf-e9f5-2296-ee8e4eb596a4/mza_14710876565034654672.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/gilles-gressani-j-4-avant-les-midterms-trump-a-t-il-d%C3%A9j%C3%A0-perdu/id1438726711?i=1000799019157"
+      },
+      {
+        "artistName": "Goussard Thomas",
+        "id": "1000798970518",
+        "name": "Face à Michel Onfray (Émission du 30/10/2026)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/99/72/fd/9972fded-9526-e7f9-5ad7-5d4ce0697dea/mza_10339249034063419624.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actus du jour"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/face-%C3%A0-michel-onfray-%C3%A9mission-du-30-10-2026/id1739054063?i=1000798970518"
+      },
+      {
+        "artistName": "France Télévisions",
+        "id": "1000799019123",
+        "name": "Estelle Denis : l’hypocondrie matin, midi et soir",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/c1/88/e1c18823-742b-3def-f359-075c381b6a0f/mza_10481178108222775783.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/estelle-denis-lhypocondrie-matin-midi-et-soir/id1561370616?i=1000799019123"
+      },
+      {
+        "artistName": "André Dussollier, Isabelle Choquet",
+        "id": "1000798993163",
+        "name": "L'INTÉGRALE - \"L'Exorciste\", l'histoire d'un tournage maudit",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/ca/db/b3cadbbf-880e-c95e-704f-624e7df9ff4a/mza_4495797799511283350.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-lexorciste-lhistoire-dun-tournage-maudit/id1834670628?i=1000798993163"
+      },
+      {
+        "artistName": "Guillaume Pley",
+        "id": "1000798502387",
+        "name": "L’EAU QUE VOUS BUVEZ EST DANGEREUSE ! TOUT CE QUE VOUS NE SAVIEZ PAS SUR L’EAU !",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/a8/d8/47a8d8cf-8e77-b2e6-520c-eb7b629e47f8/mza_512720953042198830.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/leau-que-vous-buvez-est-dangereuse-tout-ce-que-vous/id1691740320?i=1000798502387"
+      },
+      {
+        "artistName": "Clément Viktorovitch",
+        "id": "1000799051637",
+        "name": "[PARTIE 1] J'analyse l'interview de Macron chez HugoDécrypte - 30/10/2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/59/0f/90590f83-d7bd-ee7b-262d-ce73fc9cad11/mza_3834466622392663632.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/partie-1-janalyse-linterview-de-macron-chez/id1760043242?i=1000799051637"
+      },
+      {
+        "artistName": "Guillaume Pley",
+        "id": "1000798008348",
+        "name": "SPÉCIALISTE DES BONNES MANIÈRES : LES ERREURS DE SAVOIR-VIVRE QUE VOUS FAITES SANS LE SAVOIR !",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/4d/80/534d8069-3fd6-c92e-6084-bdae04dfc6c6/mza_12390230784438544712.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/sp%C3%A9cialiste-des-bonnes-mani%C3%A8res-les-erreurs-de/id1691740320?i=1000798008348"
+      },
+      {
+        "artistName": "Laurent Ruquier",
+        "id": "1000798561408",
+        "name": "L'INTÉGRALE - Émission du mercredi 28 octobre 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a0/67/a0/a067a0d9-ddd0-3e0d-e38b-e1a83c4321d8/mza_15335687485213172476.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualité du divertissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-du-mercredi-28-octobre-2026/id369369012?i=1000798561408"
+      },
+      {
+        "artistName": "Choses à Savoir",
+        "id": "1000799014024",
+        "name": "Pourquoi ne faut-il jamais dire « basé sur » ?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/55/a8/3155a807-e878-0453-86f7-1842cd32a186/mza_12348316116145026782.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1304",
+            "name": "Éducation",
+            "url": "https://itunes.apple.com/fr/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/pourquoi-ne-faut-il-jamais-dire-bas%C3%A9-sur/id1048372492?i=1000799014024"
+      },
+      {
+        "artistName": "Radio Classique",
+        "id": "1000799029909",
+        "name": "Isabeau de Bavière - Collection Reines de France",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/a3/6f/6aa36fc5-1aba-02c8-73f8-a08559fe1d8a/mza_13732621007390675886.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/isabeau-de-bavi%C3%A8re-collection-reines-de-france/id1434297164?i=1000799029909"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798963083",
+        "name": "L'intégrale de C'est Votre Argent du vendredi 30 octobre",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/34/3e/a4343ebd-067f-c9a3-8db3-2a56a85c9cf3/mza_7759722403554242666.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Investissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-de-cest-votre-argent-du-vendredi-30-octobre/id562595266?i=1000798963083"
+      },
+      {
+        "artistName": "Europe 1 Archives",
+        "id": "1000798825022",
+        "name": "L'enfant nu de la Saint-Sylvestre",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/f3/32/70f332fa-56d4-749e-1c33-7d5f26205ec8/mza_11785730179911369631.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lenfant-nu-de-la-saint-sylvestre/id1581950528?i=1000798825022"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798992610",
+        "name": "Les nuits du Cazarre enchaîné du vendredi 30 octobre 2026 – Partie 1",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/65/c3/8865c37c-9bcc-d6c9-e2da-784da508ed7a/mza_715012060069032228.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-nuits-du-cazarre-encha%C3%AEn%C3%A9-du-vendredi-30-octobre/id1482611627?i=1000798992610"
+      },
+      {
+        "artistName": "RFI",
+        "id": "1000799018114",
+        "name": "Midterms : l’Amérique peut-elle freiner Trump?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/ee/ea/98eeea22-85e5-5c6f-217f-fb7c4e286d05/mza_16645382511020718594.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/midterms-lam%C3%A9rique-peut-elle-freiner-trump/id1500236219?i=1000799018114"
+      },
+      {
+        "artistName": "/influx",
+        "id": "1000798560309",
+        "name": "Coloscopie avec Guillaume de Tonquédec",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/84/a4/c984a412-be6f-4a7a-d622-ba06e7d6a621/mza_8967099860270094615.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comédie : les interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/coloscopie-avec-guillaume-de-tonqu%C3%A9dec/id1752843346?i=1000798560309"
+      },
+      {
+        "artistName": "Guillaume Pley",
+        "id": "1000798331349",
+        "name": "ELLE SE RETROUVE AU CŒUR DU PLUS GRAND RÉSEAU DE DR*GUE MARSEILLAIS : LA FRENCH CONNECTION",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/c0/3d/7fc03d1d-4948-b2c7-ef5d-6d9f53dae7f2/mza_12830096647461381542.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/elle-se-retrouve-au-c%C5%93ur-du-plus-grand-r%C3%A9seau-de-dr/id1691740320?i=1000798331349"
+      },
+      {
+        "artistName": "France Télévisions / Mediawan Digital Studio / Reservoir Prod",
+        "id": "1000799018317",
+        "name": "Estelle Denis : l’hypocondrie matin, midi et soir",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/27/cd/a727cdb4-0a5f-da74-7ab5-e27ac4f488a0/mza_10544837742992170864.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1512",
+            "name": "Forme et santé",
+            "url": "https://itunes.apple.com/fr/genre/id1512"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/estelle-denis-lhypocondrie-matin-midi-et-soir/id1589756300?i=1000799018317"
+      },
+      {
+        "artistName": "Laurent Gerra",
+        "id": "1000799014150",
+        "name": "MOMENTS CULTES - VGE, Joly, le Pen... Le meilleur de Laurent Gerra",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/c6/ff/5fc6ff2f-e780-b186-7274-61cf6b0bc765/mza_3582084385328234991.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualité du divertissement"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/moments-cultes-vge-joly-le-pen-le-meilleur-de-laurent-gerra/id290152576?i=1000799014150"
+      },
+      {
+        "artistName": "Initial Studio / France Télévisions",
+        "id": "1000798621518",
+        "name": "Nostradamus, ou comment prédire son avenir (1/3)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/3a/11/613a116d-d013-6f1d-97aa-8737fde2e65d/mza_679663832358408913.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/nostradamus-ou-comment-pr%C3%A9dire-son-avenir-1-3/id1724311426?i=1000798621518"
+      },
+      {
+        "artistName": "Initial Studio / France Télévisions",
+        "id": "1000798621603",
+        "name": "Nostradamus, ou comment prédire son avenir (3/3)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/3a/11/613a116d-d013-6f1d-97aa-8737fde2e65d/mza_679663832358408913.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/nostradamus-ou-comment-pr%C3%A9dire-son-avenir-3-3/id1724311426?i=1000798621603"
+      },
+      {
+        "artistName": "wave.audio",
+        "id": "1000798984466",
+        "name": "Bonus : Jean-Christophe Piot, l’entretien",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/ea/b5/adeab56e-a624-3431-237f-d1cf4100f69c/mza_3506295893100426123.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/bonus-jean-christophe-piot-lentretien/id1523441357?i=1000798984466"
+      },
+      {
+        "artistName": "Jean-Alphonse Richard",
+        "id": "1000798904367",
+        "name": "L'INTÉGRALE - François Légeret : les mortes du 24 décembre",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/71/9d/c4719dc9-3aa0-09fe-d17d-bb2e62051b10/mza_6748198360175256414.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-fran%C3%A7ois-l%C3%A9geret-les-mortes-du-24-d%C3%A9cembre/id389542173?i=1000798904367"
+      },
+      {
+        "artistName": "Lorànt Deutsch",
+        "id": "1000798723847",
+        "name": "Halloween : une histoire à faire peur",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/6b/de/396bdece-324a-3925-c55c-b7a5b469a1d1/mza_16552297880329819811.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/halloween-une-histoire-%C3%A0-faire-peur/id1583548883?i=1000798723847"
+      },
+      {
+        "artistName": "Antoine Beauchamp",
+        "id": "1000798923213",
+        "name": "Nicolas Flamel : l’alchimiste et son double",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/e1/04/49e10411-d987-0f42-90c3-f6ffcdbb2f43/mza_15091473814583282390.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Sciences",
+            "url": "https://itunes.apple.com/fr/genre/id1533"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/nicolas-flamel-lalchimiste-et-son-double/id1134937775?i=1000798923213"
+      },
+      {
+        "artistName": "Philippe Sanfourche",
+        "id": "1000799116808",
+        "name": "L'EMISSION : Kane a-t-il sauvé le Ballon d'Or ?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/03/13/8b0313b0-7b7e-d50b-19ca-570cea13fe5d/mza_3804006779081139515.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lemission-kane-a-t-il-sauv%C3%A9-le-ballon-dor/id1425761650?i=1000799116808"
+      },
+      {
+        "artistName": "Laurence Devillairs",
+        "id": "1000799098442",
+        "name": "Tocqueville au pouvoir : Réenchantons la démocratie",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/01/c5/4501c5bb-42ed-0a0b-919a-2600ee1b6b52/mza_3422900644916787809.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Philosophie"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/tocqueville-au-pouvoir-r%C3%A9enchantons-la-d%C3%A9mocratie/id390165399?i=1000799098442"
+      },
+      {
+        "artistName": "Winamax",
+        "id": "1000799073206",
+        "name": "WFC - Lille 1-0 Lens : podium évident pour le LOSC ?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/cf/cd/fd/cfcdfdd1-0f1f-ce55-b4de-35b4b8371f43/mza_15510037799317435524.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/wfc-lille-1-0-lens-podium-%C3%A9vident-pour-le-losc/id1531278198?i=1000799073206"
+      },
+      {
+        "artistName": "Carlos Diaz",
+        "id": "1000798930945",
+        "name": "L'AFTER : L'IA réécrit les lois, Microsoft fait le ménage & Google flambe !",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/6b/81/106b8108-8f32-cba8-2a18-49044785395e/mza_2112975423430844922.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1318",
+            "name": "Technologies",
+            "url": "https://itunes.apple.com/fr/genre/id1318"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lafter-lia-r%C3%A9%C3%A9crit-les-lois-microsoft-fait-le-m%C3%A9nage/id1485527777?i=1000798930945"
+      },
+      {
+        "artistName": "Radio Nova",
+        "id": "1000798074422",
+        "name": "L'intégrale : \"La dernière\" du 25 octobre 2026 avec « Nos couleurs centre LGBTQIA+ des Landes »",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/78/b6/a078b618-b54f-1dc9-094a-ba6ff8c65581/mza_6440399320616802963.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Humour",
+            "url": "https://itunes.apple.com/fr/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-la-derni%C3%A8re-du-25-octobre-2026-avec-nos/id1766744611?i=1000798074422"
+      },
+      {
+        "artistName": "Winamax",
+        "id": "1000799089157",
+        "name": "CLUTCH - Risacher x Dallas : début de saison satisfaisant ? (Basket)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/8a/10/808a10c7-381c-ae48-26b8-2d58c83f6bef/mza_817798883317659186.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Basketball"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/clutch-risacher-x-dallas-d%C3%A9but-de-saison/id1653312345?i=1000799089157"
+      },
+      {
+        "artistName": "Jacques Pradel",
+        "id": "1000798978100",
+        "name": "Jeanette O'Keefe, féminicide à la Saint-Sylvestre",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/73/c3/ec73c333-d8d8-35bd-fdcf-5258f9324eba/mza_4730592066164092167.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/jeanette-okeefe-f%C3%A9minicide-%C3%A0-la-saint-sylvestre/id1616146073?i=1000798978100"
+      },
+      {
+        "artistName": "ARTE Radio",
+        "id": "1000798123125",
+        "name": "Un micro à la DGSE : La double vie (2/6)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/4d/81/504d81f1-0919-00c5-c87a-9a8b4f9997da/mza_6313330428504017865.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/un-micro-%C3%A0-la-dgse-la-double-vie-2-6/id1093080425?i=1000798123125"
+      },
+      {
+        "artistName": "Nora Hamzawi",
+        "id": "1000798627607",
+        "name": "Jennifer Ayache de Superbus, la fille cool du collège",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/9f/c7/6c9fc7cd-77a2-4a03-3862-e1d127d0746e/mza_8187262446993816118.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comédie : les interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/jennifer-ayache-de-superbus-la-fille-cool-du-coll%C3%A8ge/id1877628982?i=1000798627607"
+      },
+      {
+        "artistName": "Kampo",
+        "id": "1000798738049",
+        "name": "Dhorasoo : Du HAC au grand Milan, charisme de Maldini, son but contre l’OM, CDM 2006 et le caméscope",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/4f/89/194f89b7-9302-4cd3-c2fb-2246dd585952/mza_9900574654962700524.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/dhorasoo-du-hac-au-grand-milan-charisme-de-maldini/id1794793393?i=1000798738049"
+      },
+      {
+        "artistName": "Europe1",
+        "id": "1000799007255",
+        "name": "Les auditeurs mènent l'enquête - Sans Crime ni Raison [2/2]",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fb/56/4f/fb564f4c-98fa-e342-e835-cc3ad457aa24/mza_563862533780680182.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/les-auditeurs-m%C3%A8nent-lenqu%C3%AAte-sans-crime-ni-raison-2-2/id1773924080?i=1000799007255"
+      },
+      {
+        "artistName": "Le podcast BasketSession",
+        "id": "1000799026995",
+        "name": "CQFR : Qui est le joueur le plus \"caillera\" de NBA ?",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/89/24/3b8924f3-9d5e-2468-e64d-9a266bed0559/mza_16928379163935184205.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualités sportives"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/cqfr-qui-est-le-joueur-le-plus-caillera-de-nba/id1574177142?i=1000799026995"
+      },
+      {
+        "artistName": "Initial Studio / France Télévisions",
+        "id": "1000798621580",
+        "name": "Nostradamus, ou comment prédire son avenir (2/3)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/3a/11/613a116d-d013-6f1d-97aa-8737fde2e65d/mza_679663832358408913.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/nostradamus-ou-comment-pr%C3%A9dire-son-avenir-2-3/id1724311426?i=1000798621580"
+      },
+      {
+        "artistName": "Hugo Clément et Marc Simoncini",
+        "id": "1000799014278",
+        "name": "Mélenchon veut virer cet homme s’il est élu",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/b8/9f/9cb89f94-064c-36cb-a18a-1e946ddaf45c/mza_15468635790016566548.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Entrepreneuriat"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/m%C3%A9lenchon-veut-virer-cet-homme-sil-est-%C3%A9lu/id6813632977?i=1000799014278"
+      },
+      {
+        "artistName": "MacGeneration",
+        "id": "1000799022469",
+        "name": "L’iPhone Duo et le MacBook Pro tactile au cœur des débats",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/96/67/1f96672f-bb7d-cb04-8edc-1e0eb0d50652/mza_4482643592399791124.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1318",
+            "name": "Technologies",
+            "url": "https://itunes.apple.com/fr/genre/id1318"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/liphone-duo-et-le-macbook-pro-tactile-au-c%C5%93ur-des-d%C3%A9bats/id1678105148?i=1000799022469"
+      },
+      {
+        "artistName": "Jacques Pradel",
+        "id": "1000799129318",
+        "name": "François Mauriac, l'inspiration surgit du crime",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/a2/a9/f9a2a96d-b237-c851-db0a-78a1f9215214/mza_1969373495978319307.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Criminologie",
+            "url": "https://itunes.apple.com/fr/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/fran%C3%A7ois-mauriac-linspiration-surgit-du-crime/id1616146073?i=1000799129318"
+      },
+      {
+        "artistName": "BFM",
+        "id": "1000798900329",
+        "name": "📣 Découvrez l'épisode 2 du Riolo Club - L'interview incroyable de Younes Belhanda qui envoie du lourd pendant 1 heure",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/62/36/1b6236c8-db2b-0fa7-8530-b1691607962a/mza_8114194240759444394.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Football"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/d%C3%A9couvrez-l%C3%A9pisode-2-du-riolo-club-linterview-incroyable/id140644703?i=1000798900329"
+      },
+      {
+        "artistName": "France Culture",
+        "id": "1000798979315",
+        "name": "Claude Lelouch, un homme et des films | 1/5 · \"J'ai besoin de me nourrir des films des autres\"",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/65/ca/fb65ca61-38ea-f424-e85f-aceec3c51a08/mza_13204943581185933403.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Culture et société",
+            "url": "https://itunes.apple.com/fr/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/claude-lelouch-un-homme-et-des-films-1-5-jai-besoin/id300710791?i=1000798979315"
+      },
+      {
+        "artistName": "Amine et Victor",
+        "id": "1000798879336",
+        "name": "Avengers : Endgame (2019) (EN PUBLIC) - (Version Audio)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bd/a0/72bda06c-e7bf-5f22-6f99-f240012e5b5c/mza_3148045669281491494.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1309",
+            "name": "Télévision et cinéma",
+            "url": "https://itunes.apple.com/fr/genre/id1309"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/avengers-endgame-2019-en-public-version-audio/id1773067743?i=1000798879336"
+      },
+      {
+        "artistName": "Caroline Dublanche",
+        "id": "1000798803757",
+        "name": "L'intégrale du 29 octobre 2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/83/a4/eb83a413-d7d0-317a-b173-afd8ca271fd8/mza_2727720806592429309.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Journaux personnels"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-du-29-octobre-2026/id1434411118?i=1000798803757"
+      },
+      {
+        "artistName": "Jerome Colombain",
+        "id": "1000798921764",
+        "name": "Travail, argent, loisirs... Tout savoir sur les agents IA 📆 L'HEBDO (31/10/26)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/4e/b0/1f4eb0aa-4a56-c535-d6e0-d1da46e5c0d7/mza_2419738747912920832.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Actualités technologiques"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/travail-argent-loisirs-tout-savoir-sur-les-agents-ia/id1572124982?i=1000798921764"
+      },
+      {
+        "artistName": "Radio Classique",
+        "id": "1000798954084",
+        "name": "Aliénor d’Aquitaine - Collection Reines de France",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/a3/6f/6aa36fc5-1aba-02c8-73f8-a08559fe1d8a/mza_13732621007390675886.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Histoire",
+            "url": "https://itunes.apple.com/fr/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/ali%C3%A9nor-daquitaine-collection-reines-de-france/id1434297164?i=1000798954084"
+      },
+      {
+        "artistName": "France Télévisions",
+        "id": "1000798826098",
+        "name": "Colère sociale : vers une restriction des libertés ?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/a9/44/f1a94472-db1b-0dfb-2885-9086e3d1ee3a/mza_17588575073236770090.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Actualités",
+            "url": "https://itunes.apple.com/fr/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/col%C3%A8re-sociale-vers-une-restriction-des-libert%C3%A9s/id1591633548?i=1000798826098"
+      },
+      {
+        "artistName": "Élisabeth Feytit",
+        "id": "1000798925648",
+        "name": "Nouvelle Acropole : un idéal inquiétant 1/6, avec Elena Vlad — SHOCKING #33",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9c/b4/dc9cb430-9849-e40a-8e4e-e1005bd79c79/mza_1093883458990412174.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Développement personnel"
+          }
+        ],
+        "url": "https://podcasts.apple.com/fr/podcast/nouvelle-acropole-un-id%C3%A9al-inqui%C3%A9tant-1-6-avec-elena/id1454365984?i=1000798925648"
+      }
+    ]
+  }
+}
