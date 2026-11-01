@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 80,
+      "artistName": "Carlos Diaz",
+      "id": "1000798930945",
+      "name": "L'AFTER : L'IA réécrit les lois, Microsoft fait le ménage & Google flambe !",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/6b/81/106b8108-8f32-cba8-2a18-49044785395e/mza_2112975423430844922.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "Technologies",
+          "url": "https://itunes.apple.com/fr/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lafter-lia-r%C3%A9%C3%A9crit-les-lois-microsoft-fait-le-m%C3%A9nage/id1485527777?i=1000798930945"
+    }
+  ]
+}

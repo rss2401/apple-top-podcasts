@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 58,
+      "artistName": "Marketplace",
+      "id": "1000798976439",
+      "name": "Spooked investors sink Big Tech stocks",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/02/9f/3e/029f3ec9-d1ce-0ce7-1ed8-9ce6309d2898/mza_5841193004570797916.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "Business",
+          "url": "https://itunes.apple.com/us/genre/id1321"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/spooked-investors-sink-big-tech-stocks/id201853034?i=1000798976439"
+    }
+  ]
+}

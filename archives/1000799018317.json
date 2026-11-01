@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 69,
+      "artistName": "France Télévisions / Mediawan Digital Studio / Reservoir Prod",
+      "id": "1000799018317",
+      "name": "Estelle Denis : l’hypocondrie matin, midi et soir",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/27/cd/a727cdb4-0a5f-da74-7ab5-e27ac4f488a0/mza_10544837742992170864.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/estelle-denis-lhypocondrie-matin-midi-et-soir/id1589756300?i=1000799018317"
+    }
+  ]
+}

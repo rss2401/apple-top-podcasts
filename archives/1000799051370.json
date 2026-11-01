@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 35,
+      "artistName": "Jean-Noël Jeanneney",
+      "id": "1000799051370",
+      "name": "Winock : à chacun son Sartre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/2f/a4/862fa4ae-91f2-0420-9228-84b69e33c652/mza_7777836079256384066.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/winock-%C3%A0-chacun-son-sartre/id114879499?i=1000799051370"
+    }
+  ]
+}

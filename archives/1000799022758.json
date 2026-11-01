@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 5,
+      "artistName": "Le Parisien",
+      "id": "1000799022758",
+      "name": "[1/2] Affaire Jacques Métais : la «momie des Calanques»",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1e/ee/f3/1eeef3e6-7a79-abb0-fac1-a48b67ae4138/mza_15539391707245251831.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/1-2-affaire-jacques-m%C3%A9tais-la-momie-des-calanques/id1658362786?i=1000799022758"
+    }
+  ]
+}

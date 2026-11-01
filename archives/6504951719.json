@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 5,
   "results": [
     {
       "month": "202607",
@@ -33,6 +33,32 @@
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcast-channels",
       "rank": 69,
+      "id": "6504951719",
+      "name": "The Dollop",
+      "kind": "podcast-channels",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/f4/15/e6/f415e675-935f-c22d-ca09-013b22353162/b6b57cea-3757-45ca-a1f2-3b3693cc0927.jpg/100x100bb.png",
+      "genres": [],
+      "url": "https://podcasts.apple.com/us/channel/the-dollop/id6504951719"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcast-channels",
+      "rank": 100,
+      "id": "6504951719",
+      "name": "The Dollop",
+      "kind": "podcast-channels",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/f4/15/e6/f415e675-935f-c22d-ca09-013b22353162/b6b57cea-3757-45ca-a1f2-3b3693cc0927.jpg/100x100bb.png",
+      "genres": [],
+      "url": "https://podcasts.apple.com/gb/channel/the-dollop/id6504951719"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcast-channels",
+      "rank": 64,
       "id": "6504951719",
       "name": "The Dollop",
       "kind": "podcast-channels",

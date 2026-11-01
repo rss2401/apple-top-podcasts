@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000798977350",
+      "name": "L'affaire Karine Esquivillon : 81 jours de mensonges",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/6e/87/a56e87ec-d6d0-66b3-0e20-96205340d72a/mza_12757336327285424009.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-karine-esquivillon-81-jours-de-mensonges/id1593842944?i=1000798977350"
+    }
+  ]
+}

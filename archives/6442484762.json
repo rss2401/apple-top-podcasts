@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 6,
   "results": [
     {
       "month": "202607",
@@ -46,6 +46,32 @@
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcast-channels",
       "rank": 46,
+      "id": "6442484762",
+      "name": "The Wall Street Journal",
+      "kind": "podcast-channels",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/99/a4/15/99a4155e-20b1-ab04-06d9-21ca70abc290/eb223f80-57c3-4f5b-8067-b76a159f4081.png/100x100bb.png",
+      "genres": [],
+      "url": "https://podcasts.apple.com/us/channel/the-wall-street-journal/id6442484762"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcast-channels",
+      "rank": 77,
+      "id": "6442484762",
+      "name": "The Wall Street Journal",
+      "kind": "podcast-channels",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/99/a4/15/99a4155e-20b1-ab04-06d9-21ca70abc290/eb223f80-57c3-4f5b-8067-b76a159f4081.png/100x100bb.png",
+      "genres": [],
+      "url": "https://podcasts.apple.com/gb/channel/the-wall-street-journal/id6442484762"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcast-channels",
+      "rank": 40,
       "id": "6442484762",
       "name": "The Wall Street Journal",
       "kind": "podcast-channels",

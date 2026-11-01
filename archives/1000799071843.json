@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 35,
+      "artistName": "Vox",
+      "id": "1000799071843",
+      "name": "Nevada's Trump slump",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/9c/b0/699cb0f8-91f0-25c2-e001-ac5bebde002a/mza_3519022982819934055.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/nevadas-trump-slump/id1346207297?i=1000799071843"
+    }
+  ]
+}

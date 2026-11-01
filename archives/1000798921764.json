@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "Jerome Colombain",
+      "id": "1000798921764",
+      "name": "Travail, argent, loisirs... Tout savoir sur les agents IA 📆 L'HEBDO (31/10/26)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/4e/b0/1f4eb0aa-4a56-c535-d6e0-d1da46e5c0d7/mza_2419738747912920832.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualités technologiques"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/travail-argent-loisirs-tout-savoir-sur-les-agents-ia/id1572124982?i=1000798921764"
+    }
+  ]
+}

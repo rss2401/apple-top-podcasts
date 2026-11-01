@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "邵竞竹",
+      "id": "1000798549443",
+      "name": "113. 关于我的选择，问点难的",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ba/3b/2b/ba3b2bbc-10f0-ca38-ccf7-dba5f310e9ec/mza_4122945036202059079.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1502",
+          "name": "休闲",
+          "url": "https://itunes.apple.com/cn/genre/id1502"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/113-%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E9%80%89%E6%8B%A9-%E9%97%AE%E7%82%B9%E9%9A%BE%E7%9A%84/id1644805423?i=1000798549443"
+    }
+  ]
+}

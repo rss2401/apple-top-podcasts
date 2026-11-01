@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 84,
+      "artistName": "ARTE Radio",
+      "id": "1000798123125",
+      "name": "Un micro à la DGSE : La double vie (2/6)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/4d/81/504d81f1-0919-00c5-c87a-9a8b4f9997da/mza_6313330428504017865.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/un-micro-%C3%A0-la-dgse-la-double-vie-2-6/id1093080425?i=1000798123125"
+    }
+  ]
+}

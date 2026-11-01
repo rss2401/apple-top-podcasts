@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "TMG Studios",
+      "id": "1000798948166",
+      "name": "Reaching Legacy Status",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/d2/10/abd21047-4e64-3255-5853-bca79c2e765f/mza_14040916693354172054.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Relationships"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/reaching-legacy-status/id1605869346?i=1000798948166"
+    }
+  ]
+}

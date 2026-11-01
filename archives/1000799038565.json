@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 18,
+      "artistName": "Alain Finkielkraut",
+      "id": "1000799038565",
+      "name": "De Gaulle parmi nous",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/4e/df/c54edf61-5686-83ce-71fb-415a6512e4f2/mza_12851664041618629134.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/de-gaulle-parmi-nous/id114880560?i=1000799038565"
+    }
+  ]
+}

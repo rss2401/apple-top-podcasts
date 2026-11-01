@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "Turning Point USA",
+      "id": "1000798808158",
+      "name": "Former Witch Reveals the Terrifying Truth About Witchcraft, Demons & Human Sacrifice | Ashley Jones",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/6d/a6/0b6da680-b977-9981-6ade-03a12a45ff80/mza_16613580045983888138.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Health & Fitness",
+          "url": "https://itunes.apple.com/us/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/former-witch-reveals-the-terrifying-truth-about/id1507839530?i=1000798808158"
+    }
+  ]
+}

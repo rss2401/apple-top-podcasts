@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "Guillaume Pley",
+      "id": "1000798331349",
+      "name": "ELLE SE RETROUVE AU CŒUR DU PLUS GRAND RÉSEAU DE DR*GUE MARSEILLAIS : LA FRENCH CONNECTION",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/c0/3d/7fc03d1d-4948-b2c7-ef5d-6d9f53dae7f2/mza_12830096647461381542.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/elle-se-retrouve-au-c%C5%93ur-du-plus-grand-r%C3%A9seau-de-dr/id1691740320?i=1000798331349"
+    }
+  ]
+}

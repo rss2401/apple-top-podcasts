@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "The Fantasy Footballers",
+      "id": "1000798942803",
+      "name": "Halloween Show! Week 8 Matchups + Spooky Start/Sits - Fantasy Football Podcast for 10/30",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/20/69/e2/2069e2c7-7bc4-0ca6-9327-f48751561239/mza_10163196864291802918.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Fantasy Sports"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/halloween-show-week-8-matchups-spooky-start-sits-fantasy/id917453719?i=1000798942803"
+    }
+  ]
+}

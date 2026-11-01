@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "Jase Macalpine",
+      "id": "1000798980861",
+      "name": "CHAPTER 424 Ft. Blake Baggett",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a0/66/40/a0664000-fd42-8e5f-a3a9-3ec873a4ca8c/mza_310720788104364409.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/chapter-424-ft-blake-baggett/id1335551721?i=1000798980861"
+    }
+  ]
+}

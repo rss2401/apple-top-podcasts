@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "Philippe Sanfourche",
+      "id": "1000799116808",
+      "name": "L'EMISSION : Kane a-t-il sauvé le Ballon d'Or ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/03/13/8b0313b0-7b7e-d50b-19ca-570cea13fe5d/mza_3804006779081139515.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lemission-kane-a-t-il-sauv%C3%A9-le-ballon-dor/id1425761650?i=1000799116808"
+    }
+  ]
+}

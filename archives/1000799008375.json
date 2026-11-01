@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 23,
+      "artistName": "Europe1",
+      "id": "1000799008375",
+      "name": "Les auditeurs mènent l'enquête - Sans Crime ni Raison [1/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/5c/ee/7d5cee12-f621-7c49-6ba0-7b49953d5c81/mza_3957262703134360589.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-auditeurs-m%C3%A8nent-lenqu%C3%AAte-sans-crime-ni-raison-1-2/id1773924080?i=1000799008375"
+    }
+  ]
+}

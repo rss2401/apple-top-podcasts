@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 40,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000799129963",
+      "name": "L'affaire Maylis Daubon : la maison aux mensonges empoisonnés",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/e2/0f/bce20f79-ede3-6139-57ee-4b509ebcb070/mza_5910094908613002062.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-maylis-daubon-la-maison-aux-mensonges-empoisonn%C3%A9s/id1593842944?i=1000799129963"
+    }
+  ]
+}

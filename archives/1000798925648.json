@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 100,
+      "artistName": "Élisabeth Feytit",
+      "id": "1000798925648",
+      "name": "Nouvelle Acropole : un idéal inquiétant 1/6, avec Elena Vlad — SHOCKING #33",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9c/b4/dc9cb430-9849-e40a-8e4e-e1005bd79c79/mza_1093883458990412174.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Développement personnel"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/nouvelle-acropole-un-id%C3%A9al-inqui%C3%A9tant-1-6-avec-elena/id1454365984?i=1000798925648"
+    }
+  ]
+}

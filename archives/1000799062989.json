@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "Benjamin Brillaud",
+      "id": "1000799062989",
+      "name": "L'Histoire des banques - NOTA BENE",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/23/6c/71236c98-d25e-9e5f-39c3-7289c55143e4/mza_18136966732604317374.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lhistoire-des-banques-nota-bene/id1573434643?i=1000799062989"
+    }
+  ]
+}

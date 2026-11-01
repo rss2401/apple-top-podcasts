@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 81,
+      "artistName": "Serial Productions & The New York Times",
+      "id": "1000798951727",
+      "name": "METRO - Karat and Schtick",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/ad/09/d9ad097e-c9bf-f621-94aa-1823547c015c/mza_14557644629418286902.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/metro-karat-and-schtick/id917918570?i=1000798951727"
+    }
+  ]
+}

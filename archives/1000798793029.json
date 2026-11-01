@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "EXITPODCAST",
+      "id": "1000798793029",
+      "name": "失踪一周年的来电：连环杀手大卫·梅尔霍弗案",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/35/0a/a3/350aa3fe-9dfb-704a-5abc-5b082a03a4cc/mza_5681863429850411627.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E5%A4%B1%E8%B8%AA%E4%B8%80%E5%91%A8%E5%B9%B4%E7%9A%84%E6%9D%A5%E7%94%B5-%E8%BF%9E%E7%8E%AF%E6%9D%80%E6%89%8B%E5%A4%A7%E5%8D%AB-%E6%A2%85%E5%B0%94%E9%9C%8D%E5%BC%97%E6%A1%88/id1708535393?i=1000798793029"
+    }
+  ]
+}

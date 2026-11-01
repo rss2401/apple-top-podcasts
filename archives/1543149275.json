@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 99,
+      "artistName": "RTL",
+      "id": "1543149275",
+      "name": "Symptômes",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/be/95/79/be95795c-9171-82c5-6151-1472460335c5/mza_5187026361280577733.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/sympt%C3%B4mes/id1543149275"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "Jacques Pradel",
+      "id": "1000799129318",
+      "name": "François Mauriac, l'inspiration surgit du crime",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/a2/a9/f9a2a96d-b237-c851-db0a-78a1f9215214/mza_1969373495978319307.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/fran%C3%A7ois-mauriac-linspiration-surgit-du-crime/id1616146073?i=1000799129318"
+    }
+  ]
+}

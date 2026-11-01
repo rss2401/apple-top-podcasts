@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 19,
+      "artistName": "Les Affranchis Talk",
+      "id": "6827752076",
+      "name": "Les Affranchis Talk",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/4f/57/e64f573d-cfb3-5b6f-a7a0-99fd1fc19049/mza_13205913450115796278.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1545",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/fr/genre/id1545"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-affranchis-talk/id6827752076"
+    }
+  ]
+}

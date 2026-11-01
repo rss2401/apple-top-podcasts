@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "三联中读",
+      "id": "1000799040757",
+      "name": "EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/7e/25/f2/7e25f263-c5ee-1903-31b2-5bb8c40d6c01/mza_681849188773486194.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1502",
+          "name": "休闲",
+          "url": "https://itunes.apple.com/cn/genre/id1502"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/ep292-%E5%AF%B9%E8%B0%88%E6%9D%8E%E7%9A%96-%E4%B8%AD%E5%9B%BD%E6%91%87%E6%BB%9A-%E5%9C%A8%E5%A4%A7%E5%8E%A6%E5%B4%A9%E5%A1%8C%E4%B8%AD%E8%AF%9E%E7%94%9F/id1605725063?i=1000799040757"
+    }
+  ]
+}

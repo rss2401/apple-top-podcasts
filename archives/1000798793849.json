@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 51,
+      "artistName": "Le Monde",
+      "id": "1000798793849",
+      "name": "#189 Louise Bourgoin, actrice et dessinatrice : « Aux Beaux-Arts, on nous encourageait à faire des happenings. Finalement, c’était une école pour devenir Miss Météo »",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/9d/9b/a19d9bb2-d5be-cbd9-fe3b-74aee144d05c/mza_6395299081451409557.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/189-louise-bourgoin-actrice-et-dessinatrice-aux-beaux/id1480837383?i=1000798793849"
+    }
+  ]
+}

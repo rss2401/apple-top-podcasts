@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 58,
+      "artistName": "Clément Viktorovitch",
+      "id": "1000799051637",
+      "name": "[PARTIE 1] J'analyse l'interview de Macron chez HugoDécrypte - 30/10/2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/59/0f/90590f83-d7bd-ee7b-262d-ce73fc9cad11/mza_3834466622392663632.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/partie-1-janalyse-linterview-de-macron-chez/id1760043242?i=1000799051637"
+    }
+  ]
+}

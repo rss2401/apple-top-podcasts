@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "Rich Lowry, Charles C. W. Cooke, Jim Geraghty, Michael Brendan Dougherty",
+      "id": "1000799106297",
+      "name": "Episode 922 LIVE: Tump on the Stump",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/68/4a/d0684a59-c21d-cc89-dd56-b27920b5d18c/mza_7934594655463541933.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/episode-922-live-tump-on-the-stump/id1150237453?i=1000799106297"
+    }
+  ]
+}

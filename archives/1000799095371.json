@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 45,
+      "artistName": "Christophe Galfard",
+      "id": "1000799095371",
+      "name": "La matière noire",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/93/20/37932020-ca97-f00a-d2ca-4e125a218267/mza_10885084343006263218.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1533",
+          "name": "Sciences",
+          "url": "https://itunes.apple.com/fr/genre/id1533"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-mati%C3%A8re-noire/id1836947328?i=1000799095371"
+    }
+  ]
+}

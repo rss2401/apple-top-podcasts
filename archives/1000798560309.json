@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 67,
+      "artistName": "/influx",
+      "id": "1000798560309",
+      "name": "Coloscopie avec Guillaume de Tonquédec",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/84/a4/c984a412-be6f-4a7a-d622-ba06e7d6a621/mza_8967099860270094615.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/coloscopie-avec-guillaume-de-tonqu%C3%A9dec/id1752843346?i=1000798560309"
+    }
+  ]
+}

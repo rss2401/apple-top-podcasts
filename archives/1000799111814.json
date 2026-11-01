@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 26,
+      "artistName": "Hugo Décrypte",
+      "id": "1000799111814",
+      "name": "Tout ce qui change dès maintenant  (31/10)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/8c/ef/b58cefee-6bc0-039d-776e-cfd2e90257b8/mza_12189253247261908378.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/tout-ce-qui-change-d%C3%A8s-maintenant-31-10/id1552365367?i=1000799111814"
+    }
+  ]
+}

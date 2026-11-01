@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "Kiera Butler, Steven Rascón, Al Letson",
+      "id": "1000799008704",
+      "name": "Pete Hegseth’s Spiritual Adviser Wants a Christian America",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/85/ac/b085acc6-bec8-2065-0d80-3a3ad558205a/mza_6641857257141517416.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/pete-hegseths-spiritual-adviser-wants-a-christian-america/id886009669?i=1000799008704"
+    }
+  ]
+}

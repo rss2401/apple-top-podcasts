@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 74,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000798904367",
+      "name": "L'INTÉGRALE - François Légeret : les mortes du 24 décembre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/71/9d/c4719dc9-3aa0-09fe-d17d-bb2e62051b10/mza_6748198360175256414.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-fran%C3%A7ois-l%C3%A9geret-les-mortes-du-24-d%C3%A9cembre/id389542173?i=1000798904367"
+    }
+  ]
+}

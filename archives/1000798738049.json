@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 86,
+      "artistName": "Kampo",
+      "id": "1000798738049",
+      "name": "Dhorasoo : Du HAC au grand Milan, charisme de Maldini, son but contre l’OM, CDM 2006 et le caméscope",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/4f/89/194f89b7-9302-4cd3-c2fb-2246dd585952/mza_9900574654962700524.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/dhorasoo-du-hac-au-grand-milan-charisme-de-maldini/id1794793393?i=1000798738049"
+    }
+  ]
+}

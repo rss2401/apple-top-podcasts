@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 64,
+      "artistName": "Europe 1 Archives",
+      "id": "1000798825022",
+      "name": "L'enfant nu de la Saint-Sylvestre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/f3/32/70f332fa-56d4-749e-1c33-7d5f26205ec8/mza_11785730179911369631.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lenfant-nu-de-la-saint-sylvestre/id1581950528?i=1000798825022"
+    }
+  ]
+}

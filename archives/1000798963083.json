@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 63,
+      "artistName": "BFM",
+      "id": "1000798963083",
+      "name": "L'intégrale de C'est Votre Argent du vendredi 30 octobre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/34/3e/a4343ebd-067f-c9a3-8db3-2a56a85c9cf3/mza_7759722403554242666.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Investissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-de-cest-votre-argent-du-vendredi-30-octobre/id562595266?i=1000798963083"
+    }
+  ]
+}

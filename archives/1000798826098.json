@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "France Télévisions",
+      "id": "1000798826098",
+      "name": "Colère sociale : vers une restriction des libertés ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/a9/44/f1a94472-db1b-0dfb-2885-9086e3d1ee3a/mza_17588575073236770090.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/col%C3%A8re-sociale-vers-une-restriction-des-libert%C3%A9s/id1591633548?i=1000798826098"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 66,
+      "artistName": "Vox Media Podcast Network",
+      "id": "1000798855450",
+      "name": "Road Rage (Please Continue)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/5a/7d/a35a7d1f-40b4-1203-b192-3de4d37a089f/mza_368470719024266164.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/road-rage-please-continue/id809264944?i=1000798855450"
+    }
+  ]
+}

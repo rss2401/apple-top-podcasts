@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "Crooked Media",
+      "id": "1000798995861",
+      "name": "The One Thing You Can Do That Campaigns Can't",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d5/5f/b9/d55fb9f7-3d81-358f-687f-c8d8306026ed/mza_452702627887367225.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-one-thing-you-can-do-that-campaigns-cant/id1610392666?i=1000798995861"
+    }
+  ]
+}

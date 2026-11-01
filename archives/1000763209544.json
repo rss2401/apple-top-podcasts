@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "month": "202607",
@@ -26,6 +26,25 @@
       "mediaType": "podcasts",
       "feed": "top-podcast-episodes",
       "rank": 65,
+      "artistName": "emma chamberlain",
+      "id": "1000763209544",
+      "name": "bittersweet",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/86/48/26864846-c28a-50d3-ea56-580eb5f8e229/mza_13375013630847407436.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "自我完善"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/bittersweet/id1458568923?i=1000763209544"
+    },
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 45,
       "artistName": "emma chamberlain",
       "id": "1000763209544",
       "name": "bittersweet",

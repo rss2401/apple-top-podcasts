@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "鲶鱼夜话",
+      "id": "1000798800790",
+      "name": "Ep312.“百城夜话·返场省份”武汉藏龙岛、台湾大巴鬼手、河南半截缸、齐齐哈尔",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/18/98/4d/18984d11-31fc-8d4c-3d7b-58630ba5ede8/mza_18124726160908731226.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/ep312-%E7%99%BE%E5%9F%8E%E5%A4%9C%E8%AF%9D-%E8%BF%94%E5%9C%BA%E7%9C%81%E4%BB%BD-%E6%AD%A6%E6%B1%89%E8%97%8F%E9%BE%99%E5%B2%9B-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E5%B7%B4%E9%AC%BC%E6%89%8B-%E6%B2%B3%E5%8D%97%E5%8D%8A%E6%88%AA%E7%BC%B8-%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94/id1714394532?i=1000798800790"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 14,
+      "artistName": "Europe 1",
+      "id": "1000799007700",
+      "name": "Bodein, Pierrot le fou ? Ou pas… - Le récit (1/2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/0a/e0/fe0ae0e5-a4ca-8a05-2973-ba6283439749/mza_9825102169996397602.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bodein-pierrot-le-fou-ou-pas-le-r%C3%A9cit-1-2/id1146402624?i=1000799007700"
+    }
+  ]
+}

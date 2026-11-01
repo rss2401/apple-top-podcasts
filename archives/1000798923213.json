@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 76,
+      "artistName": "Antoine Beauchamp",
+      "id": "1000798923213",
+      "name": "Nicolas Flamel : l’alchimiste et son double",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/e1/04/49e10411-d987-0f42-90c3-f6ffcdbb2f43/mza_15091473814583282390.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1533",
+          "name": "Sciences",
+          "url": "https://itunes.apple.com/fr/genre/id1533"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/nicolas-flamel-lalchimiste-et-son-double/id1134937775?i=1000798923213"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "Crime Weekly",
+      "id": "1000798846126",
+      "name": "Ashley Flynn | What Happened Before Caleb Flynn Called 911? (Part 3)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/00/c6/6500c6db-0fb1-a300-5231-26f8203d79f4/mza_3331509392445892302.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/ashley-flynn-what-happened-before-caleb-flynn-called/id1540621732?i=1000798846126"
+    }
+  ]
+}

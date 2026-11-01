@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 46,
+      "artistName": "France Culture",
+      "id": "1000799130783",
+      "name": "[BEST OF 🔥] Aventures extrêmes (2018)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/8f/e5/bd8fe5d8-f7c0-56e1-15a6-cca970eade93/mza_8692223324042085807.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-aventures-extr%C3%AAmes-2018/id160879442?i=1000799130783"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 40,
+      "artistName": "Emmanuelle Chaumont Rey",
+      "id": "6821862712",
+      "name": "WIDE SPIRIT, le podcast qui vous donne la parole sur vos expériences inexpliquées",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/eb/78/76eb78f5-71b2-8131-9390-835a193ad859/mza_13397077883311995964.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        },
+        {
+          "genreId": "1314",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id1314"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/wide-spirit-le-podcast-qui-vous-donne-la-parole-sur/id6821862712"
+    }
+  ]
+}

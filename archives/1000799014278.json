@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "Hugo Clément et Marc Simoncini",
+      "id": "1000799014278",
+      "name": "Mélenchon veut virer cet homme s’il est élu",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/b8/9f/9cb89f94-064c-36cb-a18a-1e946ddaf45c/mza_15468635790016566548.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Entrepreneuriat"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/m%C3%A9lenchon-veut-virer-cet-homme-sil-est-%C3%A9lu/id6813632977?i=1000799014278"
+    }
+  ]
+}

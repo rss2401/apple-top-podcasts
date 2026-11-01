@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 12,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000799129050",
+      "name": "INCONTOURNABLE - Nathalie Boyer et Leïla Afif : le long chemin de la vérité",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/96/6d/5e966d70-ca00-ecf9-fa32-a6f610eb5207/mza_10056577320908689079.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/incontournable-nathalie-boyer-et-le%C3%AFla-afif-le-long/id389542173?i=1000799129050"
+    }
+  ]
+}

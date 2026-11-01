@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "Jacques Pradel",
+      "id": "1000798978100",
+      "name": "Jeanette O'Keefe, féminicide à la Saint-Sylvestre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/73/c3/ec73c333-d8d8-35bd-fdcf-5258f9324eba/mza_4730592066164092167.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jeanette-okeefe-f%C3%A9minicide-%C3%A0-la-saint-sylvestre/id1616146073?i=1000798978100"
+    }
+  ]
+}

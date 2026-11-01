@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 57,
+      "artistName": "Vénus s'épilait-elle la chatte ?",
+      "id": "1487375722",
+      "name": "Vénus s'épilait-elle la chatte ?",
+      "kind": "podcasts",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/37/3d/33/373d33d7-bdb9-a4b9-d57a-ad86af707f97/mza_8035126268758069898.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1301",
+          "name": "Arts",
+          "url": "https://itunes.apple.com/fr/genre/id1301"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/v%C3%A9nus-s%C3%A9pilait-elle-la-chatte/id1487375722"
+    }
+  ]
+}

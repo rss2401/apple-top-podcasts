@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "Le podcast BasketSession",
+      "id": "1000799026995",
+      "name": "CQFR : Qui est le joueur le plus \"caillera\" de NBA ?",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/89/24/3b8924f3-9d5e-2468-e64d-9a266bed0559/mza_16928379163935184205.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualités sportives"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/cqfr-qui-est-le-joueur-le-plus-caillera-de-nba/id1574177142?i=1000799026995"
+    }
+  ]
+}

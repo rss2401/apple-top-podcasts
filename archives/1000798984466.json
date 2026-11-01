@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "wave.audio",
+      "id": "1000798984466",
+      "name": "Bonus : Jean-Christophe Piot, l’entretien",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/ea/b5/adeab56e-a624-3431-237f-d1cf4100f69c/mza_3506295893100426123.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bonus-jean-christophe-piot-lentretien/id1523441357?i=1000798984466"
+    }
+  ]
+}

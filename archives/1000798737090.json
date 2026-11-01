@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "Little Foolmen",
+      "id": "1000798737090",
+      "name": "049. 艺术离我很远了，只记得最近买了啥",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/c1/37/7fc13725-5cef-4b6b-e8b0-6877971e2c8f/mza_10280149745968285742.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "喜剧",
+          "url": "https://itunes.apple.com/cn/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/049-%E8%89%BA%E6%9C%AF%E7%A6%BB%E6%88%91%E5%BE%88%E8%BF%9C%E4%BA%86-%E5%8F%AA%E8%AE%B0%E5%BE%97%E6%9C%80%E8%BF%91%E4%B9%B0%E4%BA%86%E5%95%A5/id1738930373?i=1000798737090"
+    }
+  ]
+}

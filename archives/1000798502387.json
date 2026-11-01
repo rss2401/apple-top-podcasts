@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "Guillaume Pley",
+      "id": "1000798502387",
+      "name": "L’EAU QUE VOUS BUVEZ EST DANGEREUSE ! TOUT CE QUE VOUS NE SAVIEZ PAS SUR L’EAU !",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/a8/d8/47a8d8cf-8e77-b2e6-520c-eb7b629e47f8/mza_512720953042198830.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/leau-que-vous-buvez-est-dangereuse-tout-ce-que-vous/id1691740320?i=1000798502387"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 43,
+      "artistName": "KQED and Snap Studios",
+      "id": "1000798872593",
+      "name": "First Contact",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/48/04/2448048d-102b-246a-dfdf-b77aba3b9cf2/mza_9896965588465752015.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Performing Arts"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/first-contact/id1279361017?i=1000798872593"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Caroline Dublanche",
+      "id": "1000798803757",
+      "name": "L'intégrale du 29 octobre 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/83/a4/eb83a413-d7d0-317a-b173-afd8ca271fd8/mza_2727720806592429309.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Journaux personnels"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-du-29-octobre-2026/id1434411118?i=1000798803757"
+    }
+  ]
+}

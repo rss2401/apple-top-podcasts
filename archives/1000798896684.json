@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 6,
+      "artistName": "Fabrice Drouelle",
+      "id": "1000798896684",
+      "name": "Jimmy Savile l'ogre de la BBC",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/26/11/5f261137-bcc8-281c-2f26-5f5fa6975f85/mza_4691667719871108252.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jimmy-savile-logre-de-la-bbc/id912451024?i=1000798896684"
+    }
+  ]
+}

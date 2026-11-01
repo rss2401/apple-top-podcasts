@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "Nicolas Poincaré",
+      "id": "1000799028656",
+      "name": "Les personnalités émergeantes de la campagne des élections de mi-mandat aux Etats-Unis",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/36/10/aa36106b-6de1-5705-0533-84c7f73ac1ea/mza_2244717809744262382.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-personnalit%C3%A9s-%C3%A9mergeantes-de-la-campagne-des/id115156820?i=1000799028656"
+    }
+  ]
+}

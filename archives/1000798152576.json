@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 41,
+      "artistName": "Louie Media",
+      "id": "1000798152576",
+      "name": "La grande soeur",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/3c/cf/443ccf6c-4656-ff9c-197c-7ae313724a41/mza_13671876591682211151.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-grande-soeur/id1534412600?i=1000798152576"
+    }
+  ]
+}

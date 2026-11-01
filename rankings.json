@@ -208,5 +208,65 @@
     "Name": "us_podcasts_top-subscriber-podcasts.json",
     "RelativePath": "rankings/202610/us_podcasts_top-subscriber-podcasts.json",
     "Length": 70926
+  },
+  {
+    "Name": "cn_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/cn_podcasts_top-podcast-episodes.json",
+    "Length": 77498
+  },
+  {
+    "Name": "cn_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/cn_podcasts_top-podcasts.json",
+    "Length": 70102
+  },
+  {
+    "Name": "fr_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/fr_podcasts_top-podcast-episodes.json",
+    "Length": 68497
+  },
+  {
+    "Name": "fr_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/fr_podcasts_top-podcasts.json",
+    "Length": 68079
+  },
+  {
+    "Name": "gb_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/gb_podcasts_top-podcast-episodes.json",
+    "Length": 65721
+  },
+  {
+    "Name": "gb_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/gb_podcasts_top-podcasts.json",
+    "Length": 69663
+  },
+  {
+    "Name": "gb_podcasts_top-subscriber-podcast-channels.json",
+    "RelativePath": "rankings/202611/gb_podcasts_top-subscriber-podcast-channels.json",
+    "Length": 41531
+  },
+  {
+    "Name": "gb_podcasts_top-subscriber-podcasts.json",
+    "RelativePath": "rankings/202611/gb_podcasts_top-subscriber-podcasts.json",
+    "Length": 71034
+  },
+  {
+    "Name": "us_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/us_podcasts_top-podcast-episodes.json",
+    "Length": 66618
+  },
+  {
+    "Name": "us_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/us_podcasts_top-podcasts.json",
+    "Length": 68392
+  },
+  {
+    "Name": "us_podcasts_top-subscriber-podcast-channels.json",
+    "RelativePath": "rankings/202611/us_podcasts_top-subscriber-podcast-channels.json",
+    "Length": 41510
+  },
+  {
+    "Name": "us_podcasts_top-subscriber-podcasts.json",
+    "RelativePath": "rankings/202611/us_podcasts_top-subscriber-podcasts.json",
+    "Length": 70105
   }
 ]

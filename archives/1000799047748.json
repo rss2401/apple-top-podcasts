@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 17,
+      "artistName": "The New York Times",
+      "id": "1000799047748",
+      "name": "Martin McDonagh Has a Vision for Hope. It's Not for the Faint of Heart.",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/fd/e0/10fde0fe-78d8-ac89-7f8a-a4f54f7ca527/mza_10212672479811095857.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/martin-mcdonagh-has-a-vision-for-hope-its-not-for/id1200361736?i=1000799047748"
+    }
+  ]
+}

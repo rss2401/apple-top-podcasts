@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 3,
+      "artistName": "France Télévisions",
+      "id": "1000799107290",
+      "name": "Les manifs s'élancent, la colère s'installe... jusqu'à quand ? -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/af/80/38af8076-e58a-ebb9-3965-274aee773635/mza_12243517076610582792.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-manifs-s%C3%A9lancent-la-col%C3%A8re-sinstalle-jusqu%C3%A0-quand/id1438726711?i=1000799107290"
+    }
+  ]
+}

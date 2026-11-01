@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 56,
+      "artistName": "André Dussollier, Isabelle Choquet",
+      "id": "1000798993163",
+      "name": "L'INTÉGRALE - \"L'Exorciste\", l'histoire d'un tournage maudit",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/ca/db/b3cadbbf-880e-c95e-704f-624e7df9ff4a/mza_4495797799511283350.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-lexorciste-lhistoire-dun-tournage-maudit/id1834670628?i=1000798993163"
+    }
+  ]
+}

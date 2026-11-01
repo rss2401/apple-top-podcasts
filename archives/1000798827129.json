@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 42,
+      "artistName": "Bababam",
+      "id": "1000798827129",
+      "name": "L'affaire Moulinas, parents d'un criminel",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/6c/e4/5c6ce48f-886a-661e-fdd6-a31267fb2d8b/mza_1106977771291709609.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-moulinas-parents-dun-criminel/id1546899313?i=1000798827129"
+    }
+  ]
+}

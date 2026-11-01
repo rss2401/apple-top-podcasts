@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 34,
+      "artistName": "Le Monde",
+      "id": "1000799003237",
+      "name": "Présidentielle 2027 : une campagne sous le signe de la colère",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/4b/38/c44b3861-cd4a-9052-f3e2-43452bfa7862/mza_14708836986913735524.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actus du jour"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/pr%C3%A9sidentielle-2027-une-campagne-sous-le-signe-de-la-col%C3%A8re/id1704984604?i=1000799003237"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "Anne Ghesquière",
+      "id": "1000798999644",
+      "name": "Enfin bien dormir : ce qui marche vraiment !",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/db/4f/37db4f5e-f403-59f6-d9c3-2871c53e74d1/mza_13161436011349380391.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/enfin-bien-dormir-ce-qui-marche-vraiment/id1448632119?i=1000798999644"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 49,
+      "artistName": "Bababam",
+      "id": "1000799009717",
+      "name": "BABABAM ORIGINALS | Nicolas Flamel, l'énigmatique alchimiste",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/2c/56/402c5621-eb57-91b2-1410-dbb1c72977bf/mza_8151691344545843747.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bababam-originals-nicolas-flamel-l%C3%A9nigmatique-alchimiste/id1546899313?i=1000799009717"
+    }
+  ]
+}

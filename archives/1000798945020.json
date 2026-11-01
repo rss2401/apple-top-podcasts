@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "The Ringer",
+      "id": "1000798945020",
+      "name": "Loves and Loathes: Vintage Steph Curry, the Unbeaten Grizzlies, and Coaching in Quarter-Zips",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d8/42/dd/d842ddeb-2f88-9883-57d5-b936a11b85fb/mza_17922313683333318568.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Basketball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/loves-and-loathes-vintage-steph-curry-the/id1317853625?i=1000798945020"
+    }
+  ]
+}

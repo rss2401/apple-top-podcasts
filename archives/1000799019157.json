@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 53,
+      "artistName": "France Télévisions",
+      "id": "1000799019157",
+      "name": "Gilles Gressani - J-4 avant les midterms: Trump a-t-il déjà perdu?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/12/4a/68124a80-3ddf-e9f5-2296-ee8e4eb596a4/mza_14710876565034654672.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/gilles-gressani-j-4-avant-les-midterms-trump-a-t-il-d%C3%A9j%C3%A0-perdu/id1438726711?i=1000799019157"
+    }
+  ]
+}

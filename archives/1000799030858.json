@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "爱否科技",
+      "id": "1000799030858",
+      "name": "苹果高管如何回应 iPad Mini 60Hz：显示体验不取决于单一参数",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/ff/d6/4fffd637-aa01-add9-42c1-11806281a6c0/mza_12791057488633656287.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "科技",
+          "url": "https://itunes.apple.com/cn/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E5%A6%82%E4%BD%95%E5%9B%9E%E5%BA%94-ipad-mini-60hz-%E6%98%BE%E7%A4%BA%E4%BD%93%E9%AA%8C%E4%B8%8D%E5%8F%96%E5%86%B3%E4%BA%8E%E5%8D%95%E4%B8%80%E5%8F%82%E6%95%B0/id1532702429?i=1000799030858"
+    }
+  ]
+}

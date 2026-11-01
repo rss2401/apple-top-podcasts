@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 86,
+      "artistName": "NPR",
+      "id": "1000798880372",
+      "name": "OpenAI’s Latest Discoveries Spark a Backlash + Help! My Kid Hates AI",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/18/c4/3918c4c6-524f-4622-3360-144ea36892b5/mza_1564318283460105538.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "Technology",
+          "url": "https://itunes.apple.com/us/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/openais-latest-discoveries-spark-a-backlash-help-my/id6812430636?i=1000798880372"
+    }
+  ]
+}

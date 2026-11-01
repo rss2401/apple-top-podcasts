@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 25,
+      "artistName": "Europe 1",
+      "id": "1000799009272",
+      "name": "Elisabeth Bathory, la comtesse sanglante",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/f8/8d/05f88d2f-2e5c-e9c6-f47b-41aad460e3dd/mza_4668642064518046957.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/elisabeth-bathory-la-comtesse-sanglante/id423534806?i=1000799009272"
+    }
+  ]
+}

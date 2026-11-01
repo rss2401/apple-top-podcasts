@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 46,
+      "artistName": "WNYC Studios and The New Yorker",
+      "id": "1000798935079",
+      "name": "Democrats Might Take Back the House. Then What?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/16/6f/32166f62-05fd-c370-fca4-97cddd6c4a55/mza_9020033984177583003.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/democrats-might-take-back-the-house-then-what/id1050430296?i=1000798935079"
+    }
+  ]
+}

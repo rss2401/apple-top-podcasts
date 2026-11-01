@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 10,
+      "artistName": "Kyan Khojandi & Navo",
+      "id": "1000799008389",
+      "name": "Marina Rollman et Thomas Wiesel : contents Suisses (Un Bon Moment, S6-E7)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/aa/7e/6daa7eba-954f-6a48-cb40-53675e2c441d/mza_2301089045885908306.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/marina-rollman-et-thomas-wiesel-contents-suisses-un/id1498725708?i=1000799008389"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "Tucker Carlson Network",
+      "id": "1000798933102",
+      "name": "Tucker Answers the Most Controversial Questions of 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/35/e8/5335e853-6da4-d59f-b1f1-3399b00b5c64/mza_6269485974286173832.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "News Commentary"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/tucker-answers-the-most-controversial-questions-of-2026/id1719657632?i=1000798933102"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "Winamax",
+      "id": "1000799089157",
+      "name": "CLUTCH - Risacher x Dallas : début de saison satisfaisant ? (Basket)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/8a/10/808a10c7-381c-ae48-26b8-2d58c83f6bef/mza_817798883317659186.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Basketball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/clutch-risacher-x-dallas-d%C3%A9but-de-saison/id1653312345?i=1000799089157"
+    }
+  ]
+}

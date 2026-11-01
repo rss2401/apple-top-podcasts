@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 11,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000798981288",
+      "name": "INCONTOURNABLE - Affaire Elisa Lam : les fantômes du Cecil Hôtel",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/fb/ce/bdfbce31-7adb-4ac0-af41-a844edb8ba73/mza_112809290730339743.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/incontournable-affaire-elisa-lam-les-fant%C3%B4mes-du-cecil/id389542173?i=1000798981288"
+    }
+  ]
+}

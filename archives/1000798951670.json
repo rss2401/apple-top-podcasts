@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 59,
+      "artistName": "NPR",
+      "id": "1000798951670",
+      "name": "Answering your questions before Election Day",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8d/7b/a8/8d7ba8d4-daec-d54b-da2f-73714f539e5a/mza_11194276862086011559.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/answering-your-questions-before-election-day/id1057255460?i=1000798951670"
+    }
+  ]
+}

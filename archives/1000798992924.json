@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "RTL",
+      "id": "1000798992924",
+      "name": "BEST OF - Nuñez, Farandou, Lescure... P. Caverivière face aux membres du Gouvernement",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/31/97/3431971d-35ba-687b-4681-804b6d7f3634/mza_9845651593416234609.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-nu%C3%B1ez-farandou-lescure-p-caverivi%C3%A8re-face/id1477882043?i=1000798992924"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 70,
+      "artistName": "真相尽头",
+      "id": "1000799010205",
+      "name": "罪案新闻串烧02|丈夫出轨男友&“梦想”坠海之后&水下生存15天",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/14/ea/9f14ea57-30be-3be8-9b61-86b077813e70/mza_4992336661632355144.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E7%BD%AA%E6%A1%88%E6%96%B0%E9%97%BB%E4%B8%B2%E7%83%A702-%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E7%94%B7%E5%8F%8B-%E6%A2%A6%E6%83%B3-%E5%9D%A0%E6%B5%B7%E4%B9%8B%E5%90%8E-%E6%B0%B4%E4%B8%8B%E7%94%9F%E5%AD%9815%E5%A4%A9/id1795292155?i=1000799010205"
+    }
+  ]
+}

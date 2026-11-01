@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "Nora Hamzawi",
+      "id": "1000798627607",
+      "name": "Jennifer Ayache de Superbus, la fille cool du collège",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/9f/c7/6c9fc7cd-77a2-4a03-3862-e1d127d0746e/mza_8187262446993816118.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jennifer-ayache-de-superbus-la-fille-cool-du-coll%C3%A8ge/id1877628982?i=1000798627607"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 8,
+      "artistName": "Guillaume Pley",
+      "id": "1000798872656",
+      "name": "HÉRITAGES, MAISONS VOLÉES, TESTAMENTS CACHÉS : LES PIÈGES QUI PEUVENT VOUS RUINER !",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/e4/56/96e4563c-876c-b9d1-0c53-e60b42e1b9fc/mza_12587621203219305817.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/h%C3%A9ritages-maisons-vol%C3%A9es-testaments-cach%C3%A9s-les-pi%C3%A8ges/id1691740320?i=1000798872656"
+    }
+  ]
+}

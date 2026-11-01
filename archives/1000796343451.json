@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 100,
+      "artistName": "携隐Melody",
+      "id": "1000796343451",
+      "name": "EP29 消费陷阱：为什么我们花钱这么浪费？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "职业"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/ep29-%E6%B6%88%E8%B4%B9%E9%99%B7%E9%98%B1-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%8A%B1%E9%92%B1%E8%BF%99%E4%B9%88%E6%B5%AA%E8%B4%B9/id1756425668?i=1000796343451"
+    }
+  ]
+}

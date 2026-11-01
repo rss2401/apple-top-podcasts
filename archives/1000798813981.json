@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 75,
+      "artistName": "赵艾文",
+      "id": "1000798813981",
+      "name": "《害群之马》老师把同学囚禁在地下室，全班同学家长居然...",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/e2/66/b2e266f8-184e-a653-20f1-e954f7ccefd7/mza_17835647246413759392.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "节目漫谈"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E5%AE%B3%E7%BE%A4%E4%B9%8B%E9%A9%AC-%E8%80%81%E5%B8%88%E6%8A%8A%E5%90%8C%E5%AD%A6%E5%9B%9A%E7%A6%81%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%AE%A4-%E5%85%A8%E7%8F%AD%E5%90%8C%E5%AD%A6%E5%AE%B6%E9%95%BF%E5%B1%85%E7%84%B6/id1078007055?i=1000798813981"
+    }
+  ]
+}
