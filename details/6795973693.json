@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 6795973693,
+      "trackId": 6795973693,
+      "artistName": "Akim Omiri",
+      "collectionName": "CLICHÉ \"S\" - Akim Omiri",
+      "trackName": "CLICHÉ \"S\" - Akim Omiri",
+      "collectionCensoredName": "CLICHÉ \"S\" - Akim Omiri",
+      "trackCensoredName": "CLICHÉ \"S\" - Akim Omiri",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/clich%C3%A9-s-akim-omiri/id6795973693?uo=4",
+      "feedUrl": "https://media.rss.com/cliche-s-akim-omiri/feed.xml",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/clich%C3%A9-s-akim-omiri/id6795973693?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/b2/8f/fbb28f87-48fe-76e2-48e2-2fca9f83005e/mza_9409765381914549751.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/b2/8f/fbb28f87-48fe-76e2-48e2-2fca9f83005e/mza_9409765381914549751.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/b2/8f/fbb28f87-48fe-76e2-48e2-2fca9f83005e/mza_9409765381914549751.png/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-27T17:11:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 4,
+      "trackTimeMillis": 7640,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Culture et société",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/b2/8f/fbb28f87-48fe-76e2-48e2-2fca9f83005e/mza_9409765381914549751.png/600x600bb.jpg",
+      "genreIds": [
+        "1324",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "genres": [
+        "Culture et société",
+        "Podcasts",
+        "Actualités",
+        "Politique"
+      ]
+    }
+  ]
+}

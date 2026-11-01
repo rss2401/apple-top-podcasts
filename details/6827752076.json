@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 6827752076,
+      "trackId": 6827752076,
+      "artistName": "Les Affranchis Talk",
+      "collectionName": "Les Affranchis Talk",
+      "trackName": "Les Affranchis Talk",
+      "collectionCensoredName": "Les Affranchis Talk",
+      "trackCensoredName": "Les Affranchis Talk",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/les-affranchis-talk/id6827752076?uo=4",
+      "feedUrl": "https://anchor.fm/s/119436f4c/podcast/rss",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/les-affranchis-talk/id6827752076?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/4f/57/e64f573d-cfb3-5b6f-a7a0-99fd1fc19049/mza_13205913450115796278.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/4f/57/e64f573d-cfb3-5b6f-a7a0-99fd1fc19049/mza_13205913450115796278.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/4f/57/e64f573d-cfb3-5b6f-a7a0-99fd1fc19049/mza_13205913450115796278.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-27T21:35:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 1,
+      "trackTimeMillis": 3423,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Football",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/4f/57/e64f573d-cfb3-5b6f-a7a0-99fd1fc19049/mza_13205913450115796278.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1546",
+        "26",
+        "1545"
+      ],
+      "genres": [
+        "Football",
+        "Podcasts",
+        "Sports"
+      ]
+    }
+  ]
+}

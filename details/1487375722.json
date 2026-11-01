@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1487375722,
+      "trackId": 1487375722,
+      "artistName": "Vénus s'épilait-elle la chatte ?",
+      "collectionName": "Vénus s'épilait-elle la chatte ?",
+      "trackName": "Vénus s'épilait-elle la chatte ?",
+      "collectionCensoredName": "Vénus s'épilait-elle la chatte ?",
+      "trackCensoredName": "Vénus s'épilait-elle la chatte ?",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/v%C3%A9nus-s%C3%A9pilait-elle-la-chatte/id1487375722?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/db25d8b6-819f-585d-b1f0-5a4bd55c8c32",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/v%C3%A9nus-s%C3%A9pilait-elle-la-chatte/id1487375722?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/37/3d/33/373d33d7-bdb9-a4b9-d57a-ad86af707f97/mza_8035126268758069898.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/37/3d/33/373d33d7-bdb9-a4b9-d57a-ad86af707f97/mza_8035126268758069898.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/37/3d/33/373d33d7-bdb9-a4b9-d57a-ad86af707f97/mza_8035126268758069898.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2023-10-18T02:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 13,
+      "trackTimeMillis": 2972,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Arts",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/37/3d/33/373d33d7-bdb9-a4b9-d57a-ad86af707f97/mza_8035126268758069898.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "genres": [
+        "Arts",
+        "Podcasts"
+      ]
+    }
+  ]
+}

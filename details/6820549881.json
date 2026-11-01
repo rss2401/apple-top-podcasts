@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 6820549881,
+      "trackId": 6820549881,
+      "artistName": "Emmanuelle Chaumont Rey",
+      "collectionName": "WIDE SPIRIT, le podcast qui vous donne la parole sur vos expériences inexpliquées",
+      "trackName": "WIDE SPIRIT, le podcast qui vous donne la parole sur vos expériences inexpliquées",
+      "collectionCensoredName": "WIDE SPIRIT, le podcast qui vous donne la parole sur vos expériences inexpliquées",
+      "trackCensoredName": "WIDE SPIRIT, le podcast qui vous donne la parole sur vos expériences inexpliquées",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/wide-spirit-le-podcast-qui-vous-donne-la-parole-sur/id6820549881?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/6aa2c13eff74edfd001711a6",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/wide-spirit-le-podcast-qui-vous-donne-la-parole-sur/id6820549881?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/7b/f1/127bf1db-d9ab-1682-478b-13e7bdb5c5ed/mza_11126997098733702472.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/7b/f1/127bf1db-d9ab-1682-478b-13e7bdb5c5ed/mza_11126997098733702472.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/7b/f1/127bf1db-d9ab-1682-478b-13e7bdb5c5ed/mza_11126997098733702472.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-19T04:05:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 7,
+      "trackTimeMillis": 1768,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Documentaire",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/7b/f1/127bf1db-d9ab-1682-478b-13e7bdb5c5ed/mza_11126997098733702472.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1314",
+        "1444"
+      ],
+      "genres": [
+        "Documentaire",
+        "Podcasts",
+        "Culture et société",
+        "Religion et spiritualité",
+        "Spiritualité"
+      ]
+    }
+  ]
+}

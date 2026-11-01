@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 140150150,
+      "collectionId": 1543149275,
+      "trackId": 1543149275,
+      "artistName": "RTL",
+      "collectionName": "Symptômes",
+      "trackName": "Symptômes",
+      "collectionCensoredName": "Symptômes",
+      "trackCensoredName": "Symptômes",
+      "artistViewUrl": "https://podcasts.apple.com/fr/artist/rtl/140150150?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/sympt%C3%B4mes/id1543149275?uo=4",
+      "feedUrl": "https://feeds.audiomeans.fr/feed/f46dfea4-6a19-4cae-ba23-be0f14b4f1bd.xml",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/sympt%C3%B4mes/id1543149275?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/be/95/79/be95795c-9171-82c5-6151-1472460335c5/mza_5187026361280577733.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/be/95/79/be95795c-9171-82c5-6151-1472460335c5/mza_5187026361280577733.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/be/95/79/be95795c-9171-82c5-6151-1472460335c5/mza_5187026361280577733.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-30T01:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 100,
+      "trackTimeMillis": 474,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Médecine",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/be/95/79/be95795c-9171-82c5-6151-1472460335c5/mza_5187026361280577733.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "genres": [
+        "Médecine",
+        "Podcasts",
+        "Forme et santé"
+      ]
+    }
+  ]
+}
