@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1517396087,
+      "trackId": 1517396087,
+      "artistName": "NDR",
+      "collectionName": "eat.READ.sleep. Der Podcast, der das Lesen feiert.",
+      "trackName": "eat.READ.sleep. Der Podcast, der das Lesen feiert.",
+      "collectionCensoredName": "eat.READ.sleep. Der Podcast, der das Lesen feiert.",
+      "trackCensoredName": "eat.READ.sleep. Der Podcast, der das Lesen feiert.",
+      "collectionViewUrl": "https://podcasts.apple.com/de/podcast/eat-read-sleep-der-podcast-der-das-lesen-feiert/id1517396087?uo=4",
+      "feedUrl": "https://www.ndr.de/podcast4732.xml",
+      "trackViewUrl": "https://podcasts.apple.com/de/podcast/eat-read-sleep-der-podcast-der-das-lesen-feiert/id1517396087?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-16T04:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 199,
+      "trackTimeMillis": 3775,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Bücher",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "genres": [
+        "Bücher",
+        "Podcasts",
+        "Kunst"
+      ]
+    }
+  ]
+}

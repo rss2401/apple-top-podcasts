@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1819789897,
+      "trackId": 1819789897,
+      "artistName": "ARTE Radio",
+      "collectionName": "Quand l’histoire fait dates",
+      "trackName": "Quand l’histoire fait dates",
+      "collectionCensoredName": "Quand l’histoire fait dates",
+      "trackCensoredName": "Quand l’histoire fait dates",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/quand-lhistoire-fait-dates/id1819789897?uo=4",
+      "feedUrl": "https://www.arteradio.com/xml_sound_emission?emissionname=quand-l-histoire-fait-dates",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/quand-lhistoire-fait-dates/id1819789897?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/34/17/5534179d-7343-5255-c755-5e177e702984/mza_13090336420930825840.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/34/17/5534179d-7343-5255-c755-5e177e702984/mza_13090336420930825840.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/34/17/5534179d-7343-5255-c755-5e177e702984/mza_13090336420930825840.png/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-04-14T04:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 45,
+      "trackTimeMillis": 1600,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Histoire",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/34/17/5534179d-7343-5255-c755-5e177e702984/mza_13090336420930825840.png/600x600bb.jpg",
+      "genreIds": [
+        "1487",
+        "26",
+        "1324"
+      ],
+      "genres": [
+        "Histoire",
+        "Podcasts",
+        "Culture et société"
+      ]
+    }
+  ]
+}

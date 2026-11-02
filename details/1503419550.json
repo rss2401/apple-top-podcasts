@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 140064169,
+      "collectionId": 1503419550,
+      "trackId": 1503419550,
+      "artistName": "France Inter",
+      "collectionName": "Le meilleur de l'histoire",
+      "trackName": "Le meilleur de l'histoire",
+      "collectionCensoredName": "Le meilleur de l'histoire",
+      "trackCensoredName": "Le meilleur de l'histoire",
+      "artistViewUrl": "https://podcasts.apple.com/fr/artist/france-inter/140064169?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-lhistoire/id1503419550?uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-lhistoire/id1503419550?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/86/87/dd868700-79c7-c7fe-d0ff-ef8157145898/mza_13493133559783932301.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/86/87/dd868700-79c7-c7fe-d0ff-ef8157145898/mza_13493133559783932301.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/86/87/dd868700-79c7-c7fe-d0ff-ef8157145898/mza_13493133559783932301.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-08-28T18:09:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 26,
+      "trackTimeMillis": 2342,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Histoire",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/86/87/dd868700-79c7-c7fe-d0ff-ef8157145898/mza_13493133559783932301.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "genres": [
+        "Histoire",
+        "Podcasts"
+      ]
+    }
+  ]
+}

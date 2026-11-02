@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 1484882351,
+      "collectionId": 1495072403,
+      "trackId": 1495072403,
+      "artistName": "The Athletic",
+      "collectionName": "Talk of the Devils: The Athletic FC's Manchester United show",
+      "trackName": "Talk of the Devils: The Athletic FC's Manchester United show",
+      "collectionCensoredName": "Talk of the Devils: The Athletic FC's Manchester United show",
+      "trackCensoredName": "Talk of the Devils: The Athletic FC's Manchester United show",
+      "artistViewUrl": "https://podcasts.apple.com/gb/artist/the-athletic/1484882351?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/talk-of-the-devils-the-athletic-fcs-manchester-united-show/id1495072403?uo=4",
+      "feedUrl": "https://feeds.acast.com/public/shows/6819aed5eb146d8e3506a450",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/talk-of-the-devils-the-athletic-fcs-manchester-united-show/id1495072403?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/e7/83/0ae78339-2a3c-04a6-d75a-e5feeaa46c48/mza_17119678854744264349.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/e7/83/0ae78339-2a3c-04a6-d75a-e5feeaa46c48/mza_17119678854744264349.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/e7/83/0ae78339-2a3c-04a6-d75a-e5feeaa46c48/mza_17119678854744264349.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-29T17:30:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 554,
+      "trackTimeMillis": 3181,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Sport",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/e7/83/0ae78339-2a3c-04a6-d75a-e5feeaa46c48/mza_17119678854744264349.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1545",
+        "26"
+      ],
+      "genres": [
+        "Sport",
+        "Podcasts"
+      ]
+    }
+  ]
+}

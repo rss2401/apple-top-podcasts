@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 1105338114,
+      "collectionId": 1503485287,
+      "trackId": 1503485287,
+      "artistName": "Binge Audio / Inrap",
+      "collectionName": "Rappelle-toi demain",
+      "trackName": "Rappelle-toi demain",
+      "collectionCensoredName": "Rappelle-toi demain",
+      "trackCensoredName": "Rappelle-toi demain",
+      "artistViewUrl": "https://podcasts.apple.com/fr/artist/binge-audio/1105338114?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/rappelle-toi-demain/id1503485287?uo=4",
+      "feedUrl": "https://feeds.audiomeans.fr/feed/ed358556-5ec4-42c3-9592-1cdf4bb3a78e.xml",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/rappelle-toi-demain/id1503485287?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/92/14/65921476-9f72-6c9a-f2ae-4a7a3f311171/mza_7690273923363059528.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/92/14/65921476-9f72-6c9a-f2ae-4a7a3f311171/mza_7690273923363059528.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/92/14/65921476-9f72-6c9a-f2ae-4a7a3f311171/mza_7690273923363059528.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2025-01-21T15:18:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 10,
+      "trackTimeMillis": 1861,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Histoire",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/92/14/65921476-9f72-6c9a-f2ae-4a7a3f311171/mza_7690273923363059528.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "genres": [
+        "Histoire",
+        "Podcasts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1658590594,
+      "trackId": 1658590594,
+      "artistName": "France Télévisions",
+      "collectionName": "C politique",
+      "trackName": "C politique",
+      "collectionCensoredName": "C politique",
+      "trackCensoredName": "C politique",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/c-politique/id1658590594?uo=4",
+      "feedUrl": "https://api.octopus.saooti.com/rss/emission/14548.rss",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/c-politique/id1658590594?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/b5/ef/74b5ef73-8988-9783-9656-be9262d23785/mza_1847924054344246627.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/b5/ef/74b5ef73-8988-9783-9656-be9262d23785/mza_1847924054344246627.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/b5/ef/74b5ef73-8988-9783-9656-be9262d23785/mza_1847924054344246627.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-02T03:48:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 145,
+      "trackTimeMillis": 3719,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Politique",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/b5/ef/74b5ef73-8988-9783-9656-be9262d23785/mza_1847924054344246627.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1527",
+        "26",
+        "1489",
+        "1530"
+      ],
+      "genres": [
+        "Politique",
+        "Podcasts",
+        "Actualités",
+        "Actualité : analyses"
+      ]
+    }
+  ]
+}

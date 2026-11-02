@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1550998864,
+      "trackId": 1550998864,
+      "artistName": "Keep It Light Media / Travesty Media",
+      "collectionName": "Alan Carr's 'Life's a Beach'",
+      "trackName": "Alan Carr's 'Life's a Beach'",
+      "collectionCensoredName": "Alan Carr's 'Life's a Beach'",
+      "trackCensoredName": "Alan Carr's 'Life's a Beach'",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/GLT3251662520",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-02T01:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 318,
+      "trackTimeMillis": 2364,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Comedy Interviews",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324",
+        "1320"
+      ],
+      "genres": [
+        "Comedy Interviews",
+        "Podcasts",
+        "Comedy",
+        "Society & Culture",
+        "Places & Travel"
+      ]
+    }
+  ]
+}

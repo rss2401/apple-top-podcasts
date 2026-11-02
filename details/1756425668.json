@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1756425668,
+      "trackId": 1756425668,
+      "artistName": "携隐Melody",
+      "collectionName": "慢速生长",
+      "trackName": "慢速生长",
+      "collectionCensoredName": "慢速生长",
+      "trackCensoredName": "慢速生长",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%85%A2%E9%80%9F%E7%94%9F%E9%95%BF/id1756425668?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/82563021.xml",
+      "trackViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%85%A2%E9%80%9F%E7%94%9F%E9%95%BF/id1756425668?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-10-14T16:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 31,
+      "trackTimeMillis": 3023,
+      "country": "CHN",
+      "currency": "CNY",
+      "primaryGenreName": "职业",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "genres": [
+        "职业",
+        "播客",
+        "商务"
+      ]
+    }
+  ]
+}
