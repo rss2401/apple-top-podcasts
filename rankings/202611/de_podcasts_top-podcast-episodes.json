@@ -1,0 +1,1482 @@
+{
+  "feed": {
+    "title": "Angesagte Folgen",
+    "id": "https://rss.marketingtools.apple.com/api/v2/de/podcasts/top/100/podcast-episodes.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.marketingtools.apple.com/api/v2/de/podcasts/top/100/podcast-episodes.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "de",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Mon, 2 Nov 2026 11:26:55 +0000",
+    "results": [
+      {
+        "artistName": "Paul Ronzheimer",
+        "id": "1000799154023",
+        "name": "Trumps Amerika ist ganz anders als viele denken. Mit Markus Lanz",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/fd/4b/c7fd4b8f-f7e6-527f-a66f-cd71ba88aead/mza_16896977820960449884.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/trumps-amerika-ist-ganz-anders-als-viele-denken-mit/id1700432142?i=1000799154023"
+      },
+      {
+        "artistName": "Philip Banse & Ulf Buermeyer",
+        "id": "1000799072029",
+        "name": "LdN500 Angst vor Terroristen: Kann Elif Eralp regieren? (Gast: Robert Habeck)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/da/72/0b/da720b3e-9cb3-0239-fad9-0f80d5daff10/mza_7473842586054974690.png/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ldn500-angst-vor-terroristen-kann-elif-eralp-regieren/id1092957894?i=1000799072029"
+      },
+      {
+        "artistName": "Jan Böhmermann & Olli Schulz",
+        "id": "1000799129746",
+        "name": "Meine erste Freundin war ein Pferd",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/77/85/e9778533-f348-71eb-3489-a54cb2e62013/mza_11784869099577483663.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/meine-erste-freundin-war-ein-pferd/id1765742605?i=1000799129746"
+      },
+      {
+        "artistName": "RTL+ / Philipp Fleiter",
+        "id": "1000798961235",
+        "name": "Nebenan Weltweit 10: Die Mädchen von Alcàsser",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/3e/aa/f93eaa43-953b-2aa8-da00-fadee2f28fa8/mza_13433477212529773225.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/nebenan-weltweit-10-die-m%C3%A4dchen-von-alc%C3%A0sser/id1449598446?i=1000798961235"
+      },
+      {
+        "artistName": "ZDF, Markus Lanz & Richard David Precht",
+        "id": "1000798800661",
+        "name": "#269 (Krawalle in Frankreich: Demokratie am Abgrund?)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/269-krawalle-in-frankreich-demokratie-am-abgrund/id1582828457?i=1000798800661"
+      },
+      {
+        "artistName": "Klaas Heufer-Umlauf, Thomas Schmitt, Jakob Lundt & Studio Bummens",
+        "id": "1000798793590",
+        "name": "Der Bub war back in town",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/68/db/3368dbfd-8fb2-7d4e-f842-5821ebb6b6aa/mza_9517713184253614948.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/der-bub-war-back-in-town/id1488376434?i=1000798793590"
+      },
+      {
+        "artistName": "WDR 5",
+        "id": "1000799222713",
+        "name": "Der Fall Elif Eralp: Was wird aus Berlin?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0a/27/98/0a279860-4d7b-9118-6214-33e93b5cb678/mza_11883710419354645416.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/der-fall-elif-eralp-was-wird-aus-berlin/id164775707?i=1000799222713"
+      },
+      {
+        "artistName": "Edeltalk",
+        "id": "1000799244031",
+        "name": "Die große Halloween Folge (#427)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/3a/c3/1a3ac3a3-c190-ae54-1b05-12f317814348/mza_11018582303534992726.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/die-gro%C3%9Fe-halloween-folge-427/id1444619566?i=1000799244031"
+      },
+      {
+        "artistName": "Michael Maske",
+        "id": "1000799177643",
+        "name": "Folge 77: Digitale Spuren – das Handy, die ZEIT und ein Urteil aus Dänemark",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/f9/a6/0cf9a6b1-cd42-9cf5-9716-1de5a89b67f1/mza_2747360045843242445.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/folge-77-digitale-spuren-das-handy-die-zeit-und-ein/id1729564560?i=1000799177643"
+      },
+      {
+        "artistName": "SPORT1, Florian König, Ruth Hofmann und Katharina Kleinfeldt",
+        "id": "1000799225367",
+        "name": "Der SPORT1 DOPPELPASS vom 01.11.2026 mit Carsten Cramer & Stefan Effenberg",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/4a/fe/a24afed2-7a66-38e5-0b69-77b54d2db90a/mza_9537526212584984809.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Fußball"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/der-sport1-doppelpass-vom-01-11-2026-mit-carsten-cramer/id1434821010?i=1000799225367"
+      },
+      {
+        "artistName": "Ben Berndt",
+        "id": "1000799038452",
+        "name": "#347 - Genforschung: Das Tabu, über das keiner spricht (Ghostwriter)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/2e/a8/462ea801-30ac-431d-7cdc-7b19e5a5d25c/mza_7478545872300486383.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Selbstverwirklichung"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/347-genforschung-das-tabu-%C3%BCber-das-keiner-spricht-ghostwriter/id1623077169?i=1000799038452"
+      },
+      {
+        "artistName": "RTL+ / Stefanie Stahl",
+        "id": "1000799186396",
+        "name": "Mein negatives Selbstbild prägt mich in jeder Lebenslage – wie verändere ich das?",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/4b/c8/bb4bc851-5a61-d4f1-f984-a1c547ada417/mza_2323138645097383529.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Mentale Gesundheit"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/mein-negatives-selbstbild-pr%C3%A4gt-mich-in-jeder-lebenslage/id1545894332?i=1000799186396"
+      },
+      {
+        "artistName": "Christian Weiss",
+        "id": "1000799185317",
+        "name": "Ist nett wirklich die kleine Schwester von scheiße? - Die Wissenschaft von der Freundlichkeit",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/73/d3/6373d322-13ac-eaab-3236-de0bdaecbaed/mza_4423546548701806524.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Mentale Gesundheit"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ist-nett-wirklich-die-kleine-schwester-von-schei%C3%9Fe/id1332049198?i=1000799185317"
+      },
+      {
+        "artistName": "SWR",
+        "id": "1000799183454",
+        "name": "7 Jahre Angst vor meinem Stalker",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/e2/68/85e2683a-8129-413f-2dd3-ef8a6fc45ebf/mza_7072313079887802818.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Dokumentation"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/7-jahre-angst-vor-meinem-stalker/id1506781810?i=1000799183454"
+      },
+      {
+        "artistName": "FOCUS",
+        "id": "1000799274938",
+        "name": "#79 Vor wem fürchtet sich Elif Eralp?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/e0/e9/b8e0e948-3e48-137d-53f4-909a1fe6053f/mza_9253461461507709118.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Kommentare"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/79-vor-wem-f%C3%BCrchtet-sich-elif-eralp/id1797704653?i=1000799274938"
+      },
+      {
+        "artistName": "Joachim Telgenbüscher, Nils Minkmar",
+        "id": "1000798793865",
+        "name": "Queen Victoria & Prince Albert - Die mächtigste Ehe der Welt (mit TRUE LOVE)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/41/27/5e4127a2-16d2-e5ed-d102-0ebee36a677b/mza_10394024390826351097.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/queen-victoria-prince-albert-die-m%C3%A4chtigste-ehe-der/id1733559978?i=1000798793865"
+      },
+      {
+        "artistName": "Laura Larsson & Simon Dömer",
+        "id": "1000799130969",
+        "name": "Nichts als Nippes",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/d0/e2/33d0e22b-8821-bd70-52b9-d9dffc9ca07a/mza_5019333429929823531.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/nichts-als-nippes/id1589803295?i=1000799130969"
+      },
+      {
+        "artistName": "Sky Sport",
+        "id": "1000799264963",
+        "name": "#267 mit Sammer, Hamann, Fuss und Maceri",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/04/54/43/045443dc-b12a-0216-4f5e-de3d8c1f3ea2/mza_17614275445162651036.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Fußball"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/267-mit-sammer-hamann-fuss-und-maceri/id1431442903?i=1000799264963"
+      },
+      {
+        "artistName": "Jacqueline Belle, Dr. Alexander Stevens",
+        "id": "1000798793453",
+        "name": "#55 Die unschuldige Mörderin",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/b7/d8/2eb7d812-b02f-1bdf-7ed1-91a16303aad8/mza_8038845640550261719.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/55-die-unschuldige-m%C3%B6rderin/id1837481313?i=1000798793453"
+      },
+      {
+        "artistName": "Matze Hielscher & Mit Vergnügen",
+        "id": "1000798551220",
+        "name": "Stefanie Kloß – Wer bist du, wenn du nicht funktionieren musst?",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/53/03/745303cb-9410-2cc0-bdfe-8ec4ae064baa/mza_15871283421650368234.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/stefanie-klo%C3%9F-wer-bist-du-wenn-du-nicht-funktionieren-musst/id1168045239?i=1000798551220"
+      },
+      {
+        "artistName": "Malte Kirchner & Jean-Claude Frick",
+        "id": "1000799131055",
+        "name": "562: Herbstleuchten",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/6b/f1/7c/6bf17c7b-bdeb-f93b-b88d-1606a182726c/mza_7758731218418145213.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1318",
+            "name": "Technologie",
+            "url": "https://itunes.apple.com/de/genre/id1318"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/562-herbstleuchten/id1081146940?i=1000799131055"
+      },
+      {
+        "artistName": "Schønlein Media",
+        "id": "1000799248516",
+        "name": "Assyrisches Reich",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/7c/74/e5/7c74e56d-6e7f-631b-6571-f5f6e70b7e9d/mza_12865023742038149639.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/assyrisches-reich/id1617596175?i=1000799248516"
+      },
+      {
+        "artistName": "Tim Gabel",
+        "id": "1000799214023",
+        "name": "EX-OBAMA BERATER: Das korrupte System hinter Trumps Präsidentschaft",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/1b/fc/b81bfc5b-0200-e8db-fd12-5170ff42a7a3/mza_7567439877905954348.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ex-obama-berater-das-korrupte-system-hinter-trumps/id1526833054?i=1000799214023"
+      },
+      {
+        "artistName": "radioeins (rbb)",
+        "id": "1000799221929",
+        "name": "Paula Lambert",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/e4/63/4de46377-2c67-94e2-7c37-fc22088e545f/mza_4406991964259520201.png/100x100bb.png",
+        "genres": [
+          {
+            "name": "Tagebücher"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/paula-lambert/id162372493?i=1000799221929"
+      },
+      {
+        "artistName": "Philipp Westermeyer - OMR",
+        "id": "1000799148318",
+        "name": "Mit Bio zum Milliardenumsatz: Alnatura-Gründer Götz Rehn (#954)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/2f/7e/b12f7e81-fe84-f0d0-3a92-26b8ec9262c7/mza_4940953468547489667.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Marketing"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/mit-bio-zum-milliardenumsatz-alnatura-gr%C3%BCnder-g%C3%B6tz/id1056312052?i=1000799148318"
+      },
+      {
+        "artistName": "Bastian Bielendorfer und Reinhard Remfort",
+        "id": "1000799130864",
+        "name": "AAA404 - \"Reinis Roller\"",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/b3/b7/03b3b748-dab6-4077-8103-e89b12611604/mza_3238888055064915029.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Stand-Up-Comedy"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/aaa404-reinis-roller/id1425596102?i=1000799130864"
+      },
+      {
+        "artistName": "Herwig Katzer",
+        "id": "1000799182075",
+        "name": "Österreich: Von Habsburg, Sisi und der Suche nach Identität",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/ff/bd/47ffbd4c-d7ee-b079-cbfd-e644e981c1b3/mza_18443013463541963713.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/%C3%B6sterreich-von-habsburg-sisi-und-der-suche-nach-identit%C3%A4t/id206817194?i=1000799182075"
+      },
+      {
+        "artistName": "Spotify, Rezo & Julien Bam",
+        "id": "1000798977796",
+        "name": "Halloween Special: Einer wird immer verrückt...🙃",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/01/91/bc0191a6-65d2-0fd7-3881-f0241df1843d/mza_18409587808151072656.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/halloween-special-einer-wird-immer-verr%C3%BCckt/id1749309634?i=1000798977796"
+      },
+      {
+        "artistName": "Deutschlandfunk Nova",
+        "id": "1000798906724",
+        "name": "1054 - Das Morgenländische Schisma spaltet die Kirche in Ost und West",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/9e/52/1b9e524b-f1ee-596b-e99f-3df400c33e66/mza_10215663682020021233.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1304",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/1054-das-morgenl%C3%A4ndische-schisma-spaltet-die-kirche/id1111594074?i=1000798906724"
+      },
+      {
+        "artistName": "Anne Will",
+        "id": "1000798977832",
+        "name": "Wie fatal ist ein Linksbündnis für die Grünen? Mit Felix Banaszak",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/16/5a/f1165a4d-65e0-d1e3-7720-60a8faa4f017/mza_151760305741104944.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wie-fatal-ist-ein-linksb%C3%BCndnis-f%C3%BCr-die-gr%C3%BCnen-mit-felix/id1740744367?i=1000798977832"
+      },
+      {
+        "artistName": "Micky Beisenherz & Studio Bummens",
+        "id": "1000799176615",
+        "name": "Heimspiel: \"Die gewaltsamste Erntesaison, die das Westjordanland je gesehen hat\" (mit Pia Steckelbach)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b1/dd/cab1dd02-ce20-4d0c-618c-de6efc5e269b/mza_14849305162979499774.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Nachrichten des Tages"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/heimspiel-die-gewaltsamste-erntesaison-die-das-westjordanland/id1505993848?i=1000799176615"
+      },
+      {
+        "artistName": "Laura & Sarah",
+        "id": "1000799150814",
+        "name": "Der Spalt unter der Tür - Eine Mutter gegen das System (April Holt)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/e5/4c/e4e54cb9-c8c4-405e-e28d-e9e3a263dbe1/mza_338448153996051952.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/der-spalt-unter-der-t%C3%BCr-eine-mutter-gegen-das-system/id1513808835?i=1000799150814"
+      },
+      {
+        "artistName": "EinfachGustaf",
+        "id": "1000799196031",
+        "name": "GamingGuidesDE über die Zukunft von Minecraft, das End Update und geheime Infos... | Folge 27",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/de/40/a4de4034-5423-ded5-1ce2-d822f7758934/mza_14148023701694611473.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Videospiele"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/gamingguidesde-%C3%BCber-die-zukunft-von-minecraft-das-end/id1896225916?i=1000799196031"
+      },
+      {
+        "artistName": "Schønlein Media",
+        "id": "1000799247557",
+        "name": "Mariah Carey",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/85/59/4d8559d4-4d89-bec3-30fc-4344f6df35b8/mza_7539035431015831400.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/mariah-carey/id1795899553?i=1000799247557"
+      },
+      {
+        "artistName": "rbb",
+        "id": "1000798978406",
+        "name": "Crime History: Königin der Ladendiebe - Die Geschichte der Dora Röber",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1c/ee/7e/1cee7ebc-54e5-59fd-f0ad-6bbd29324e01/mza_12538361921044037685.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/crime-history-k%C3%B6nigin-der-ladendiebe-die-geschichte/id1534270867?i=1000798978406"
+      },
+      {
+        "artistName": "Spotify & Bill und Tom Kaulitz",
+        "id": "1000798435308",
+        "name": "Lachs-Sperma für alle",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/8e/f4/e48ef47b-1b45-8c90-52d9-b7c8a969e8e0/mza_6955658718956005231.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/lachs-sperma-f%C3%BCr-alle/id1694338196?i=1000798435308"
+      },
+      {
+        "artistName": "Dr. Daniel Stelter",
+        "id": "1000799183529",
+        "name": "Schulden werden teurer",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/73/0f/89730fa7-a359-6903-6968-04393a8dcd13/mza_683417463807740129.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/de/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/schulden-werden-teurer/id1561142763?i=1000799183529"
+      },
+      {
+        "artistName": "May, Philipp",
+        "id": "1000799008027",
+        "name": "Midterms: Macht der Kongress Donald Trump zur Lame Duck?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/45/ce/6045ceab-add0-72ea-49ba-e7163c87b0fe/mza_5917658101435482752.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/midterms-macht-der-kongress-donald-trump-zur-lame-duck/id1868374245?i=1000799008027"
+      },
+      {
+        "artistName": "Hanna Heim",
+        "id": "1000799181359",
+        "name": "Hat Gen Z geregelt?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/4c/15/4f4c153d-b67a-4382-de92-07b5833d5f62/mza_9588800763383016553.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Nachrichten",
+            "url": "https://itunes.apple.com/de/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/hat-gen-z-geregelt/id1279335230?i=1000799181359"
+      },
+      {
+        "artistName": "Stefan Schulz und Wolfgang M. Schmitt",
+        "id": "1000798780850",
+        "name": "Linksregierung in Berlin, Wählen ohne Pass, Dieter Stein, Die AfD und Europa, Ledio Albani, Deutschlandtag der JU",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/e9/1e/3be91e05-e728-bb59-d9c1-0c560e09c1bc/mza_8147881213428958090.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/linksregierung-in-berlin-w%C3%A4hlen-ohne-pass-dieter-stein/id1492969533?i=1000798780850"
+      },
+      {
+        "artistName": "Ina Karabasz, Solveig Gode, Sönke Iwersen",
+        "id": "1000799175141",
+        "name": "Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/0a/a4/050aa40b-f385-9e4b-4a40-45c3729c6eb0/mza_10987328889592053311.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/de/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wie-ein-versuchskaninchen-das-tesla-experiment-mit/id1600273318?i=1000799175141"
+      },
+      {
+        "artistName": "Lottie & Studio Bummens",
+        "id": "1000798651915",
+        "name": "#60 Balloon-Boy (mit Levi Penell)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/b3/01/97b30174-1e39-640c-a30a-4b529c668431/mza_14145830276899952355.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/60-balloon-boy-mit-levi-penell/id1775202581?i=1000798651915"
+      },
+      {
+        "artistName": "Felix Lobrecht & Tommi Schmitt",
+        "id": "1000798435769",
+        "name": "#368 RUHE",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/c1/9a/6fc19a90-f02a-a71b-4d73-df285c8142c0/mza_4791704519221245654.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/368-ruhe/id1292709842?i=1000798435769"
+      },
+      {
+        "artistName": "Wikipedia & Schønlein Media",
+        "id": "1000799247847",
+        "name": "Hinkelstein",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/ef/b1/8aefb1f2-51f8-042e-9d8c-9aada2c47f61/mza_5126803854106158702.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1304",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/hinkelstein/id1484969338?i=1000799247847"
+      },
+      {
+        "artistName": "Gunnar Lott; Fabian Käufer",
+        "id": "1000799058681",
+        "name": "God of War (SSF 101)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/b6/2c/5ab62c83-508f-fe3b-a7ce-a2a3bae86d1f/mza_18429981826781582635.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Videospiele"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/god-of-war-ssf-101/id461077931?i=1000799058681"
+      },
+      {
+        "artistName": "Richard Hemmer und Daniel Meßner",
+        "id": "1000798383771",
+        "name": "GAG579: Als 1900 die Taxis schon elektrisch fuhren",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4f/d9/8e/4fd98e92-e512-0fc4-eeb4-f32f71f932d9/mza_5366335181841610919.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/gag579-als-1900-die-taxis-schon-elektrisch-fuhren/id1044844618?i=1000798383771"
+      },
+      {
+        "artistName": "Moritz Neumeier und Till Reiners | ARD",
+        "id": "1000798793501",
+        "name": "Persönlicher Hausfriedensbruch",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/4f/11/794f11a8-6807-ffc1-11cc-c368b57da87f/mza_2328490058482161942.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/pers%C3%B6nlicher-hausfriedensbruch/id1371996866?i=1000798793501"
+      },
+      {
+        "artistName": "Paul Ronzheimer",
+        "id": "1000799004107",
+        "name": "Wenn wir diese Revolution verschlafen, war's das. Mit Sascha Lobo",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/a1/0a/05a10a1b-69a9-2eba-edf5-cb7f7e0b509f/mza_3852988606068629948.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wenn-wir-diese-revolution-verschlafen-wars-das-mit/id1700432142?i=1000799004107"
+      },
+      {
+        "artistName": "Unknown",
+        "id": "1000799208966",
+        "name": "Mamas Exfreund 😳💕 -Muttersöhnchen #196",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/b3/f8/73b3f8c6-e196-083f-a11d-cce0e9443970/mza_5130420001698280264.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1502",
+            "name": "Freizeit",
+            "url": "https://itunes.apple.com/de/genre/id1502"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/mamas-exfreund-mutters%C3%B6hnchen-196/id1662266946?i=1000799208966"
+      },
+      {
+        "artistName": "Stern / RTL+",
+        "id": "1000798800000",
+        "name": "Er las aus den Sternen und die Frauen folgten ihm",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/f6/08/31f608f8-6f9f-d8c6-4d5c-f98a0e981c8a/mza_13512142458564264955.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/er-las-aus-den-sternen-und-die-frauen-folgten-ihm/id1461762141?i=1000798800000"
+      },
+      {
+        "artistName": "Ehrenwort",
+        "id": "1000799130725",
+        "name": "René Benko: König der Baulöwen (Teil 1)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/d7/f6/dbd7f6f4-6b7a-4bdc-c7ce-d03347f14227/mza_15683628705819853998.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ren%C3%A9-benko-k%C3%B6nig-der-baul%C3%B6wen-teil-1/id1579165362?i=1000799130725"
+      },
+      {
+        "artistName": "WELT",
+        "id": "1000799007460",
+        "name": "Anthropic, Nvidia, Skorpion-Gift. Die Geheimnisse des KI-Insiders",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/58/51/b25851aa-8d3c-e07c-32ca-6448fd13ae58/mza_17262563778469826471.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Geldanlage"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/anthropic-nvidia-skorpion-gift-die-geheimnisse-des/id1549709271?i=1000799007460"
+      },
+      {
+        "artistName": "ZDF - Aktenzeichen XY",
+        "id": "1000798559971",
+        "name": "#118 Die Lüge vom schnellen Geld",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/49/a6/b549a6ec-1527-2705-54b4-bbb509ade9cc/mza_7981797998314273825.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/118-die-l%C3%BCge-vom-schnellen-geld/id1644661277?i=1000798559971"
+      },
+      {
+        "artistName": "Philipp Glöckler, Philipp Klöckner",
+        "id": "1000798979584",
+        "name": "Google, Microsoft, Amazon Earnings: Cloud boomt, Aktien fallen #610",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Marketing"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/google-microsoft-amazon-earnings-cloud-boomt-aktien/id1519234952?i=1000798979584"
+      },
+      {
+        "artistName": "Linn Schütze, Leonie Bartsch & Auf Ex Production",
+        "id": "1000798793688",
+        "name": "#76 Queen Victoria & Prince Albert: Die mächtigste Ehe der Welt (mit WAS BISHER GESCHAH)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/ec/e4/42ece49d-adc5-86b0-1c76-3d78e6a51dcd/mza_8135663474879681082.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/76-queen-victoria-prince-albert-die-m%C3%A4chtigste-ehe/id1711017443?i=1000798793688"
+      },
+      {
+        "artistName": "Chenoa & Saskia",
+        "id": "1000799130045",
+        "name": "#177 Wettschulden sind Blutschulden",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a3/34/e2/a334e20f-8298-e23d-2873-8a8613bba232/mza_13548291598562955199.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/177-wettschulden-sind-blutschulden/id1537234211?i=1000799130045"
+      },
+      {
+        "artistName": "Lars Erichsen, Sebastian Hell, Timo Baudzus",
+        "id": "1000799180281",
+        "name": "Tech-Crash, Midterm-Angst, Brasilien-Absturz + die wichtigsten KI-Aktien im Fakten-Check!",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/33/7e/81337e0f-9b63-9a80-ef02-86221ffbf763/mza_1691199723100638609.png/100x100bb.png",
+        "genres": [
+          {
+            "name": "Geldanlage"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/tech-crash-midterm-angst-brasilien-absturz-die-wichtigsten/id1708718437?i=1000799180281"
+      },
+      {
+        "artistName": "Paulina Krasa & Laura Wohlers",
+        "id": "1000798461533",
+        "name": "#257 In blinder Wut",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/fd/32/33fd32f2-d7ab-c1c8-07d8-e9453cfb960a/mza_15001598499224287928.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/257-in-blinder-wut/id1413425371?i=1000798461533"
+      },
+      {
+        "artistName": "Tommi Schmitt & Studio Bummens",
+        "id": "1000798794463",
+        "name": "#146: Copa TalkS mit Kevin Trapp - \"Handschuhe auf dem Schoß\"",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/9a/f6/8b9af64f-4f3f-93cb-1f3c-84c246025366/mza_12111084424534413778.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Fußball"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/146-copa-talks-mit-kevin-trapp-handschuhe-auf-dem-scho%C3%9F/id1703052768?i=1000798794463"
+      },
+      {
+        "artistName": "DIE ZEIT",
+        "id": "1000799013505",
+        "name": "Kann der Mensch eine Maschine bauen, die er nicht mehr beherrscht?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/a5/f5/24a5f555-ac70-988c-5721-8bb2fb9e75f1/mza_16679161454358795572.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/kann-der-mensch-eine-maschine-bauen-die-er-nicht-mehr/id1584833927?i=1000799013505"
+      },
+      {
+        "artistName": "Stefan Titze, Florentin Will",
+        "id": "1000799081931",
+        "name": "UFO540 Tief",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/90/88/4f/90884fa8-70f1-dd2c-cb73-e5c77b193027/mza_10315453205819727260.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ufo540-tief/id950054472?i=1000799081931"
+      },
+      {
+        "artistName": "barba radio, Barbara Schöneberger",
+        "id": "1000798833223",
+        "name": "David Garrett",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/ac/a7/fbaca751-19d7-129d-4f00-7d168552e78e/mza_12565741274819659550.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/david-garrett/id1481054140?i=1000798833223"
+      },
+      {
+        "artistName": "Schønlein Media",
+        "id": "1000799246508",
+        "name": "Schloss Hogwarts",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f6/30/d1/f630d153-e735-72c0-17c8-e4e83f58c20e/mza_7771361498723366993.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1483",
+            "name": "Fiktion",
+            "url": "https://itunes.apple.com/de/genre/id1483"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/schloss-hogwarts/id1600937200?i=1000799246508"
+      },
+      {
+        "artistName": "Burkhard Müller-Ullrich",
+        "id": "1000799175668",
+        "name": "Die Sonntagsrunde mit Burkhard Müller-Ullrich: Polen widersteht der EU",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/af/5a/7baf5a51-fb52-e342-8558-e184814931a8/mza_9945799706924014244.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Kommentare"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/die-sonntagsrunde-mit-burkhard-m%C3%BCller-ullrich-polen/id1612024603?i=1000799175668"
+      },
+      {
+        "artistName": "Tina Hildebrandt, Heinrich Wefing, Amrai Coen, Paul Middelhoff",
+        "id": "1000798831981",
+        "name": "Midterms in Texas: Der Mann, den Trump fürchtet",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/06/86/700686f8-eab4-05dd-6d94-22dc06df5389/mza_1531918669163599599.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/midterms-in-texas-der-mann-den-trump-f%C3%BCrchtet/id1501725808?i=1000798831981"
+      },
+      {
+        "artistName": "Bettina Rust & Studio Bummens",
+        "id": "1000799008812",
+        "name": "Jessica Schwarz",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/fe/09/97fe09c0-5fc4-4d6c-b7c3-d62af2711c65/mza_13745028135523765572.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/jessica-schwarz/id1545116354?i=1000799008812"
+      },
+      {
+        "artistName": "Daniel Messling, Patrick von Rosen",
+        "id": "1000799180258",
+        "name": "Batterien halbieren absurde Strompreis-Spitzen - Leonhard Gandhi",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/14/66/ba146611-a596-4407-726c-182020b28031/mza_6289504862008128083.png/100x100bb.png",
+        "genres": [
+          {
+            "name": "Chemie"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/batterien-halbieren-absurde-strompreis-spitzen-leonhard/id1535601147?i=1000799180258"
+      },
+      {
+        "artistName": "Kimisinamood & Studio Bummens",
+        "id": "1000799101559",
+        "name": "Gay Halloween mit styledbyniclas",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/30/d3/6430d3fb-7f79-6c79-ae19-db606c3a4b45/mza_353281279367523392.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comedy-Interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/gay-halloween-mit-styledbyniclas/id1818584366?i=1000799101559"
+      },
+      {
+        "artistName": "Kai Küstner und Peter Hornung",
+        "id": "1000798906433",
+        "name": "Kann die Nato Trump überleben? (mit Carlo Masala)",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/e3/4c/c7e34cb5-8bfe-05d1-3141-7471094cae06/mza_10032715661228243628.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/kann-die-nato-trump-%C3%BCberleben-mit-carlo-masala/id252792204?i=1000798906433"
+      },
+      {
+        "artistName": "WDR 5 Satire Deluxe",
+        "id": "1000799019298",
+        "name": "Satire Deluxe Live vom Cologne Comedy Festival 2026 (547)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/9a/d6/449ad6c4-bf67-f9d4-086e-b29c4a40068f/mza_2485946689304965951.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/satire-deluxe-live-vom-cologne-comedy-festival-2026-547/id279150827?i=1000799019298"
+      },
+      {
+        "artistName": "hopfundkettner",
+        "id": "1000799202952",
+        "name": "#72 | Comedian packt aus: Warum ich Deutschland wieder verlassen habe!",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/6e/36/176e3675-1595-ac05-018e-bfc7f886fb18/mza_10763045705524380296.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1304",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/72-comedian-packt-aus-warum-ich-deutschland-wieder/id1875674108?i=1000799202952"
+      },
+      {
+        "artistName": "Blutrausch",
+        "id": "1000799239052",
+        "name": "Kollegen (#188)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/86/0b/c7/860bc7ce-f0ea-28af-a724-e71f51ec424e/mza_9019164313322026425.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "Wahre Kriminalfälle",
+            "url": "https://itunes.apple.com/de/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/kollegen-188/id1726812547?i=1000799239052"
+      },
+      {
+        "artistName": "Toby Baier",
+        "id": "1000798418342",
+        "name": "Polaris 2026 und Goethe",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/71/da/d671da06-1364-8c8b-9563-f3d71c310939/mza_17933225886199900996.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1512",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id1512"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/polaris-2026-und-goethe/id404463014?i=1000798418342"
+      },
+      {
+        "artistName": "tagesschau",
+        "id": "1000799265524",
+        "name": "tagesschau 20:00 Uhr, 01.11.2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/df/07/ecdf075b-c158-adb3-b9d8-dc33a5518b01/mza_17864003101634814089.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Nachrichten des Tages"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/tagesschau-20-00-uhr-01-11-2026/id78518945?i=1000799265524"
+      },
+      {
+        "artistName": "Pod Save America",
+        "id": "1000799213086",
+        "name": "What the Final Polls Tell Us",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/a7/76/53a7765c-cd15-d7bf-4b1e-4d6de94535d2/mza_6374497741317808507.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/what-the-final-polls-tell-us/id1192761536?i=1000799213086"
+      },
+      {
+        "artistName": "Mahrenholtz, Katharina; Kaiser, Daniel",
+        "id": "1000798832930",
+        "name": "(175) Bloody Mary und Pumpkin Spice Latte",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Bücher"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/175-bloody-mary-und-pumpkin-spice-latte/id1517396087?i=1000798832930"
+      },
+      {
+        "artistName": "Annette Dittert und Stefan Niggemeier",
+        "id": "1000798747441",
+        "name": "DB001 Prinzip Hoffnung: Führt Burnham Großbritannien wieder in die EU?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9a/4f/46/9a4f46b6-ef08-3b08-adaa-3902715fc971/mza_4304277564118737715.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "Nachrichten",
+            "url": "https://itunes.apple.com/de/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/db001-prinzip-hoffnung-f%C3%BChrt-burnham-gro%C3%9Fbritannien/id6819713654?i=1000798747441"
+      },
+      {
+        "artistName": "Julia Beautx & Joey's Jungle",
+        "id": "1000798794012",
+        "name": "#206 Live on Tour 2026",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/fc/ec/a2fcec40-e72c-5f2d-5e61-a03e794bf1e0/mza_4812834262135400751.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/206-live-on-tour-2026/id1631175275?i=1000798794012"
+      },
+      {
+        "artistName": "Tim Vollert & Maximilian Bensinger",
+        "id": "1000799248331",
+        "name": "(R+Z)³ | E48: Die krassesten Deals der Geschichte",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/04/68/16/04681635-24b6-f8ac-3f83-010e4bcd1d1f/mza_1163157709153578545.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Wissenschaft",
+            "url": "https://itunes.apple.com/de/genre/id1533"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/r-z-e48-die-krassesten-deals-der-geschichte/id1721330197?i=1000799248331"
+      },
+      {
+        "artistName": "DER SPIEGEL",
+        "id": "1000799008463",
+        "name": "Lulas Sieg ist Rubios Niederlage",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/a9/24/03a92498-a8ba-c51c-2202-b5379b48a260/mza_17168545323162094265.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/lulas-sieg-ist-rubios-niederlage/id1278835623?i=1000799008463"
+      },
+      {
+        "artistName": "Prof. Dr. Volker Busch",
+        "id": "1000799133240",
+        "name": "Noch ganz normal? Warum nicht jede Auffälligkeit eine psychische Störung ist",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d7/d2/66/d7d2666c-11b3-388c-d511-0665ced8bbc0/mza_14422068831330695443.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1304",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/noch-ganz-normal-warum-nicht-jede-auff%C3%A4lligkeit-eine/id1508018524?i=1000799133240"
+      },
+      {
+        "artistName": "Dreamwalk Audio & allnatura",
+        "id": "1000799203440",
+        "name": "Slowenien – Am Fuß der julischen Alpen",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/0a/1d/dd0a1dcb-1a52-bee3-a628-69aec0c13695/mza_2393395381133335302.png/100x100bb.png",
+        "genres": [
+          {
+            "name": "Reisen und Orte"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/slowenien-am-fu%C3%9F-der-julischen-alpen/id1561147735?i=1000799203440"
+      },
+      {
+        "artistName": "Micky Beisenherz, Oliver Polak & Acast Creative Studios Germany",
+        "id": "1000798793053",
+        "name": "Ja und Nein",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/37/3f/0c373f19-e4b8-3cd2-8fb9-709b4ca21021/mza_9634210233651716633.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/ja-und-nein/id1613702339?i=1000798793053"
+      },
+      {
+        "artistName": "Florian Freistetter",
+        "id": "1000798913825",
+        "name": "Sternengeschichten Spezial Oktober 2026",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/c4/c2/25c4c234-de14-b3a8-4a32-d65f86dea877/mza_10281616390159579106.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Wissenschaft",
+            "url": "https://itunes.apple.com/de/genre/id1533"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/sternengeschichten-spezial-oktober-2026/id583344780?i=1000798913825"
+      },
+      {
+        "artistName": "Paluten, Denno & Malte",
+        "id": "1000798479262",
+        "name": "Spielzeug gegen Job auf Baustelle eingetauscht",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/82/ee/a482ee84-c6a0-4b8c-4797-0f8ca634bcdb/mza_5558125487627952627.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/spielzeug-gegen-job-auf-baustelle-eingetauscht/id1744015941?i=1000798479262"
+      },
+      {
+        "artistName": "RTL+ / laserluca, selfiesandra",
+        "id": "1000798576395",
+        "name": "Best of: Lifeupdates",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/fd/4e/52fd4e74-8c13-9f6e-e5a4-c2bab1900740/mza_1026628676166290024.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/de/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/best-of-lifeupdates/id1475075289?i=1000798576395"
+      },
+      {
+        "artistName": "Studio Bummens",
+        "id": "1000798826355",
+        "name": "Kann man Influencerinnen hassen, ohne frauenfeindlich zu sein?",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/ef/47/6def47e5-b67a-781b-6c65-0662adea7a06/mza_7087549493904101574.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/kann-man-influencerinnen-hassen-ohne-frauenfeindlich/id1802900641?i=1000798826355"
+      },
+      {
+        "artistName": "Sara Arslan",
+        "id": "1000799213351",
+        "name": "Sido x Take Me Späti",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/80/54/83805468-bb41-eb0a-eb26-1b425ed86128/mza_11474602613685350795.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Comedy-Interviews"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/sido-x-take-me-sp%C3%A4ti/id1859956236?i=1000799213351"
+      },
+      {
+        "artistName": "Finanzfluss",
+        "id": "1000799205857",
+        "name": "Depot-Vergleich 2026: Neue #1? 56 Online-Broker im Test",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/89/e4/ff89e4be-4643-5e71-8b3b-842fb199fef9/mza_15613971960770510713.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Geldanlage"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/depot-vergleich-2026-neue-1-56-online-broker-im-test/id1489037467?i=1000799205857"
+      },
+      {
+        "artistName": "Gierlinger, Marisa",
+        "id": "1000798797274",
+        "name": "WENN RELIKTE SPRECHEN - Doggerland, das Atlantis der Nordsee",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/3b/c2/bb3bc24c-3210-bf70-decb-1a96d15d9a35/mza_11816406097167569044.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "Geschichte",
+            "url": "https://itunes.apple.com/de/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wenn-relikte-sprechen-doggerland-das-atlantis-der-nordsee/id1537934452?i=1000798797274"
+      },
+      {
+        "artistName": "Benjamin von Stuckrad-Barre, Podstars by OMR",
+        "id": "1000798626898",
+        "name": "Auch im Maybach fließen Tränen – mit Filiz Tasdan (#5)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/5a/62/f75a623a-6225-ea7e-05c4-7fc2af7f952e/mza_4370270637278021508.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/auch-im-maybach-flie%C3%9Fen-tr%C3%A4nen-mit-filiz-tasdan-5/id6815126083?i=1000798626898"
+      },
+      {
+        "artistName": "BILD",
+        "id": "1000799191598",
+        "name": "Drei Verletzte! Bayern-Sorgen nach dem Klassiker",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/e0/d7/cde0d7be-b2c8-855c-5d07-77ec11d823a7/mza_10121175669550119512.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Fußball"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/drei-verletzte-bayern-sorgen-nach-dem-klassiker/id1555269000?i=1000799191598"
+      },
+      {
+        "artistName": "Thomas Kehl, Prof. Dr. Holger Graf",
+        "id": "1000799009080",
+        "name": "Halloween-Earnings BLUTBAD 🎃 (#224)",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/4e/4a/584e4a6f-b7cd-c48f-93f8-ed61bb4d177c/mza_9030547847023172476.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Geldanlage"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/halloween-earnings-blutbad-224/id1639884311?i=1000799009080"
+      },
+      {
+        "artistName": "Guido Maria Kretschmer",
+        "id": "1000798606216",
+        "name": "Riccardo Simonetti - Der Mann von morgen",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/b0/a3/76b0a395-6d7f-a040-1c9e-a3d946161906/mza_10499808175925042598.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/riccardo-simonetti-der-mann-von-morgen/id1840106949?i=1000798606216"
+      },
+      {
+        "artistName": "Felix Bahlinger, Julian Völzke",
+        "id": "1000799018697",
+        "name": "Unsere ehrliche Meinung zum neuen „PROLED“-MacBook! - KREWKAST #324",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/86/9f/e3/869fe383-75a2-08dc-10cb-d4ac8290b4f9/mza_383832027263275797.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1318",
+            "name": "Technologie",
+            "url": "https://itunes.apple.com/de/genre/id1318"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/unsere-ehrliche-meinung-zum-neuen-proled-macbook-krewkast/id1245391611?i=1000799018697"
+      },
+      {
+        "artistName": "Schweizer Radio und Fernsehen (SRF)",
+        "id": "1000799050074",
+        "name": "Wie geht Abschied?",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/b5/70/4ab5707e-87e2-c5f7-17c4-8f568f0e3cb1/mza_14584593065643750817.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Philosophie"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wie-geht-abschied/id1532744254?i=1000799050074"
+      },
+      {
+        "artistName": "DIE ZEIT",
+        "id": "1000798645806",
+        "name": "Donald Trump, der Audi-Chef und ein umstrittener Auftritt",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/2f/4b/6b2f4ba5-d577-50c9-6d8e-6528a17aecda/mza_9610633569418055098.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Politik"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/donald-trump-der-audi-chef-und-ein-umstrittener-auftritt/id1500023595?i=1000798645806"
+      },
+      {
+        "artistName": "Hardy Zaubitzer, Yves Arievich & Marco Risch",
+        "id": "1000799175163",
+        "name": "Die Top 15 der herrlichsten Horror-Kills im Halloween-Special!",
+        "kind": "podcast-episodes",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/38/9b/e6389bb2-1d0d-7848-a8c6-82fd167ee117/mza_237715965877555698.jpg/100x100bb.png",
+        "genres": [
+          {
+            "name": "Filmrezensionen"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/die-top-15-der-herrlichsten-horror-kills-im-halloween/id1580088617?i=1000799175163"
+      },
+      {
+        "artistName": "Halbach, Frank",
+        "id": "1000798897381",
+        "name": "Wie die Vampire in die Welt kamen – Geschichte einer blutrünstigen Spezies",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/84/81/8284810f-a69e-ded9-7f9b-74bd529810ff/mza_16521579578897683266.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Wissenschaft",
+            "url": "https://itunes.apple.com/de/genre/id1533"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/wie-die-vampire-in-die-welt-kamen-geschichte-einer/id257719552?i=1000798897381"
+      },
+      {
+        "artistName": "Sebastian Sons",
+        "id": "1000799224816",
+        "name": "Dr. Sebastian Sons, Islamwissenschaftler",
+        "kind": "podcast-episodes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/15/57/121557dd-7e6b-71c4-c083-a470fddaf047/mza_15485777540832255225.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Gesellschaft und Kultur",
+            "url": "https://itunes.apple.com/de/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/de/podcast/dr-sebastian-sons-islamwissenschaftler/id100192412?i=1000799224816"
+      }
+    ]
+  }
+}
