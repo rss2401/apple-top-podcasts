@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "ARTE Radio",
+      "id": "1000798123188",
+      "name": "Un micro à la DGSE : Le risque (3/6)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2a/87/bd/2a87bd18-345a-3690-056d-7ea4c4635ae6/mza_900215447798226131.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/un-micro-%C3%A0-la-dgse-le-risque-3-6/id1093080425?i=1000798123188"
+    }
+  ]
+}

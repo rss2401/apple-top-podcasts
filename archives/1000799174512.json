@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "Europe1",
+      "id": "1000799174512",
+      "name": "Le siffleur - Le fugitif",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/b5/1a/17b51a1a-3794-99e5-8fa1-ec1989842e8a/mza_14889652394450230667.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-siffleur-le-fugitif/id1773924080?i=1000799174512"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Grip Tape",
+      "id": "1000799295166",
+      "name": "Episode 342 - Alaska Blacked Out - The Murder of Saria Hildabrand",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/a2/fb/05a2fb4f-659b-2bbe-d6d9-acb8d2e4de14/mza_110413281482931553.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/episode-342-alaska-blacked-out-the-murder-of/id1191274361?i=1000799295166"
+    }
+  ]
+}

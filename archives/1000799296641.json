@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "NPR",
+      "id": "1000799296641",
+      "name": "The Gulf states fear renewed war after the midterms",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/b9/67/9fb96769-e7e1-cdec-6ca1-461b25653657/mza_17552551658101942732.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-gulf-states-fear-renewed-war-after-the-midterms/id1503226625?i=1000799296641"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 38,
+      "artistName": "usutaku/gomichan",
+      "id": "1000799295792",
+      "name": "2026年11月2日: iPhone Duo発売、M5 Mac Studio、GPT 6.1 Terra、Anthropic上場準備などAI最新動向",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/30/c1/6230c199-e2ff-eb51-2644-73bb49dee8a3/mza_10389596047541796505.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "テクノロジー",
+          "url": "https://itunes.apple.com/jp/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2026%E5%B9%B411%E6%9C%882%E6%97%A5-iphone-duo%E7%99%BA%E5%A3%B2-m5-mac-studio-gpt-6-1-terra/id1795710724?i=1000799295792"
+    }
+  ]
+}

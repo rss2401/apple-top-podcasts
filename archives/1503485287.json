@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 51,
+      "artistName": "Binge Audio / Inrap",
+      "id": "1503485287",
+      "name": "Rappelle-toi demain",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/92/14/65921476-9f72-6c9a-f2ae-4a7a3f311171/mza_7690273923363059528.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/rappelle-toi-demain/id1503485287"
+    }
+  ]
+}

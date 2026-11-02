@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 94,
+      "artistName": "Frédéric Martel",
+      "id": "1000799263180",
+      "name": "Émission spéciale, l'Amérique de Trump avant les Midterms",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/04/e3/5504e3df-4c27-7780-2ab0-40f299758e27/mza_9222282450198529448.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/%C3%A9mission-sp%C3%A9ciale-lam%C3%A9rique-de-trump-avant-les-midterms/id263452503?i=1000799263180"
+    }
+  ]
+}

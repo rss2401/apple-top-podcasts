@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "ニッポン放送",
+      "id": "1000799204516",
+      "name": "第105杯目 あぺぺりてぃーぼ！！前夜",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/fd/5d/c2fd5d0e-5ac2-1495-5eb0-47885f2a7609/mza_7944613002223875211.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%AC%AC105%E6%9D%AF%E7%9B%AE-%E3%81%82%E3%81%BA%E3%81%BA%E3%82%8A%E3%81%A6%E3%81%83%E3%83%BC%E3%81%BC-%E5%89%8D%E5%A4%9C/id1777244794?i=1000799204516"
+    }
+  ]
+}

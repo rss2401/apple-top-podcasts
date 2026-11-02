@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 100,
+      "artistName": "携隐Melody",
+      "id": "1756425668",
+      "name": "慢速生长",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/77/e4/20/77e4201c-070b-e31a-dfae-0b8c656fb2e5/mza_13228340994254444215.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "商务",
+          "url": "https://itunes.apple.com/cn/genre/id1321"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E6%85%A2%E9%80%9F%E7%94%9F%E9%95%BF/id1756425668"
+    }
+  ]
+}

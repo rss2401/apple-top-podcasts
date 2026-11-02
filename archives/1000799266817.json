@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 75,
+      "artistName": "Caroline Broué",
+      "id": "1000799266817",
+      "name": "Dominique Méda, penser le travail 1/5 : Une élève brillante",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/12/b7/0012b7d1-7ad5-4a19-98b4-cf96ec8f0c4a/mza_3505650743501813380.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/dominique-m%C3%A9da-penser-le-travail-1-5-une-%C3%A9l%C3%A8ve-brillante/id300710791?i=1000799266817"
+    }
+  ]
+}

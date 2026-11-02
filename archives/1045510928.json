@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202607",
@@ -12,26 +12,6 @@
       "name": "L'humour d'Inter",
       "kind": "podcasts",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/2a/53/b12a538b-3dcd-3c42-80ff-fe99086bc026/mza_13759367640974990982.jpg/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "1303",
-          "name": "Humour",
-          "url": "https://itunes.apple.com/fr/genre/id1303"
-        }
-      ],
-      "url": "https://podcasts.apple.com/fr/podcast/lhumour-dinter/id1045510928"
-    },
-    {
-      "month": "202611",
-      "country": "fr",
-      "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 91,
-      "artistName": "France Inter",
-      "id": "1045510928",
-      "name": "L'humour d'Inter",
-      "kind": "podcasts",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/12/0e/81120e38-4413-aae0-0fd0-025539706682/mza_15688386424981857180.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "1303",

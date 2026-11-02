@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "André Dussollier, Isabelle Choquet",
+      "id": "1000799143100",
+      "name": "L'INTÉGRALE - Tiger Woods, le come-back du siècle",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/a6/39/0ba63944-b3f8-2ab4-1426-acc47b3adc6f/mza_7095181518800243144.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-tiger-woods-le-come-back-du-si%C3%A8cle/id1834670628?i=1000799143100"
+    }
+  ]
+}

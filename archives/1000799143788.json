@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 36,
+      "artistName": "Justine Vignaux, Jean-Alphonse Richard",
+      "id": "1000799143788",
+      "name": "INÉDIT - Mort d'Iris Coëtmen, séquestration de Marie-Anne Colangelo... Découvrez le programme de la semaine",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/98/e1/8b98e1c2-731c-f9ab-21d7-40b48271edbb/mza_14441437408114926823.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/in%C3%A9dit-mort-diris-co%C3%ABtmen-s%C3%A9questration-de-marie/id389542173?i=1000799143788"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 42,
+      "artistName": "RFI",
+      "id": "1000799184967",
+      "name": "Les midterms face au monde",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/ee/ea/98eeea22-85e5-5c6f-217f-fb7c4e286d05/mza_16645382511020718594.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-midterms-face-au-monde/id1500236219?i=1000799184967"
+    }
+  ]
+}

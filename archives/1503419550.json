@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 30,
+      "artistName": "France Inter",
+      "id": "1503419550",
+      "name": "Le meilleur de l'histoire",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/86/87/dd868700-79c7-c7fe-d0ff-ef8157145898/mza_13493133559783932301.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-lhistoire/id1503419550"
+    }
+  ]
+}

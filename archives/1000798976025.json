@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202611",
@@ -19,25 +19,6 @@
         }
       ],
       "url": "https://podcasts.apple.com/gb/podcast/the-count-of-mar-a-lago-with-jonathan-martin/id1467297559?i=1000798976025"
-    },
-    {
-      "month": "202611",
-      "country": "us",
-      "mediaType": "podcasts",
-      "feed": "top-podcast-episodes",
-      "rank": 28,
-      "artistName": "Vox Media",
-      "id": "1000798976025",
-      "name": "The Count of Mar-a-Lago (With Jonathan Martin)",
-      "kind": "podcast-episodes",
-      "contentAdvisoryRating": "Explict",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/43/1e/1f/431e1fc3-e9d9-92ba-77c8-4ee07d5caac5/mza_4049853093869590479.jpeg/100x100bb.png",
-      "genres": [
-        {
-          "name": "Politics"
-        }
-      ],
-      "url": "https://podcasts.apple.com/us/podcast/the-count-of-mar-a-lago-with-jonathan-martin/id1467297559?i=1000798976025"
     }
   ]
 }

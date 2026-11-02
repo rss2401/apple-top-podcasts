@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "Europe 1",
+      "id": "1000799180863",
+      "name": "Découvrez le programme !",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/ea/54/a3ea5448-6d38-cc35-a422-98f45861f625/mza_11391698203538099239.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/d%C3%A9couvrez-le-programme/id423534806?i=1000799180863"
+    }
+  ]
+}

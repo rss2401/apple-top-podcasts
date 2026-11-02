@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 70,
+      "artistName": "Bérengère Bonte",
+      "id": "1000799214462",
+      "name": "Lula réélu, et après ? / Lula est-il le champion environnemental qu'il rêvait d'être ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d7/76/5f/d7765f91-e7a9-756f-14d6-3914fff8b551/mza_9986668256656062375.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lula-r%C3%A9%C3%A9lu-et-apr%C3%A8s-lula-est-il-le-champion/id114880097?i=1000799214462"
+    }
+  ]
+}

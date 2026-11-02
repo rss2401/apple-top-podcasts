@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 35,
+      "artistName": "Europe 1",
+      "id": "1000799175275",
+      "name": "Les évadés de Fontevraud - Le récit (2/2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/d2/a9/80d2a9d9-2f75-bae5-123b-f88c6a429508/mza_13944812819937072684.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-%C3%A9vad%C3%A9s-de-fontevraud-le-r%C3%A9cit-2-2/id1146402624?i=1000799175275"
+    }
+  ]
+}

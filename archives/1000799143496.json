@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 40,
+      "artistName": "RTL",
+      "id": "1000799143496",
+      "name": "ARCHIVE - La chronique du 22 avril 2021",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/25/3f/7b253fd5-79a4-6324-0670-b146bca23dc0/mza_16938287512067546172.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/archive-la-chronique-du-22-avril-2021/id1477882043?i=1000799143496"
+    }
+  ]
+}

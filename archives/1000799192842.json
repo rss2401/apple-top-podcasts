@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "Nicolas Poincaré",
+      "id": "1000799192842",
+      "name": "Les manifs lycéennes et étudiantes gagnent d'autres pays européens",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/5b/d5/a45bd52c-7bca-6887-6a94-e2f26937a372/mza_6683958269288978325.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-manifs-lyc%C3%A9ennes-et-%C3%A9tudiantes-gagnent-dautres/id115156820?i=1000799192842"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "The Solomonster",
+      "id": "1000799277504",
+      "name": "Sound Off 987 - Creative SHAKEUP In WWE, Vince Russo News And TERRIBLE TAMMY Is Back!",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/93/34/bd93343b-9dcc-faa9-4256-18a3ef851b71/mza_4123993798056619583.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Wrestling"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/sound-off-987-creative-shakeup-in-wwe-vince-russo-news/id313139609?i=1000799277504"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "Laurent Gerra",
+      "id": "1000799210051",
+      "name": "L'INTÉGRALE - Le Best of de Laurent Gerra du 1er novembre 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/20/71/bf207172-f1c1-95ad-8a05-df596ab7a869/mza_3525895629420404684.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-le-best-of-de-laurent-gerra-du-1er-novembre-2026/id290152576?i=1000799210051"
+    }
+  ]
+}

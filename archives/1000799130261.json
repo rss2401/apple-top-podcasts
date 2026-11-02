@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 77,
+      "artistName": "France Culture",
+      "id": "1000799130261",
+      "name": "[BEST OF] La République, un jeu d’enfant ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/8d/ff/6c8dff1b-2264-1c21-8fd6-400762308c27/mza_6563696990196848007.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-la-r%C3%A9publique-un-jeu-denfant/id390164336?i=1000799130261"
+    }
+  ]
+}

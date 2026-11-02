@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 84,
+      "artistName": "Christophe Hondelatte",
+      "id": "1000798472091",
+      "name": "Chantal Croiset : le squelette dans la poubelle … - Episode 1",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b4/00/2f/b4002f1a-48f7-defe-ac53-883994abeb05/mza_1365085901059294329.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/chantal-croiset-le-squelette-dans-la-poubelle-episode-1/id1866982143?i=1000798472091"
+    }
+  ]
+}

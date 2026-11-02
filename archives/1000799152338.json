@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "Matthieu Stefani | Collision Productions",
+      "id": "1000799152338",
+      "name": "#575 - David Foenkinos - Écrivain - S’en foutre, la définition du bonheur",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/10/40/ca1040ed-73d6-5a30-e13a-9293c0d81140/mza_16048063488842827258.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Entrepreneuriat"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/575-david-foenkinos-%C3%A9crivain-sen-foutre-la-d%C3%A9finition/id1209142994?i=1000799152338"
+    }
+  ]
+}

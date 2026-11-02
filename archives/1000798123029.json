@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "ARTE Radio",
+      "id": "1000798123029",
+      "name": "Un micro à la DGSE : La folle routine (4/6)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/31/20/6e3120bb-a862-5d3f-d1a7-48cb20e63b35/mza_10714186874529471393.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/un-micro-%C3%A0-la-dgse-la-folle-routine-4-6/id1093080425?i=1000798123029"
+    }
+  ]
+}

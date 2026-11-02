@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 28,
+      "artistName": "Bababam",
+      "id": "1000799176936",
+      "name": "BABABAM ORIGINALS | Les meurtres de Leslie Hoorelbeke et Kevin Trompat",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/a7/14/80a7148f-6dda-cd41-8261-849c394ad4f6/mza_13198370276573929385.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bababam-originals-les-meurtres-de-leslie-hoorelbeke/id1675024215?i=1000799176936"
+    }
+  ]
+}

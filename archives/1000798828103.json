@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "Benoît Collombat, Cellule investigation de Radio France",
+      "id": "1000798828103",
+      "name": "Patients en détresse. Médecins critiqués. Après la mort de l'acteur Arnaud Denis, enquête sur les prothèses de hernies",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/19/16/60191612-19b5-45ff-a049-1eca9bddda03/mza_12389132658642163740.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/patients-en-d%C3%A9tresse-m%C3%A9decins-critiqu%C3%A9s-apr%C3%A8s-la-mort/id914113485?i=1000798828103"
+    }
+  ]
+}

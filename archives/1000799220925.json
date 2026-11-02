@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 61,
+      "artistName": "Winamax",
+      "id": "1000799220925",
+      "name": "WFC - Manchester City 0-1 Brighton : peur sur le titre ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/cf/cd/fd/cfcdfdd1-0f1f-ce55-b4de-35b4b8371f43/mza_15510037799317435524.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/wfc-manchester-city-0-1-brighton-peur-sur-le-titre/id1531278198?i=1000799220925"
+    }
+  ]
+}

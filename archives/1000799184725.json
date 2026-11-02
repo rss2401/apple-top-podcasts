@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 15,
+      "artistName": "France Télévisions",
+      "id": "1000799184725",
+      "name": "Corentin Sellin - Quels scenarios en cas de défaite de Donald Trump?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/c4/5e/c1c45e02-4912-56a5-59d1-1d0bfbc534f0/mza_8155353880329381145.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/corentin-sellin-quels-scenarios-en-cas-de-d%C3%A9faite/id1438726711?i=1000799184725"
+    }
+  ]
+}

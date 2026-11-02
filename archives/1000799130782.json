@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 55,
+      "artistName": "France Culture",
+      "id": "1000799130782",
+      "name": "[BEST OF 🔥] Rescapées (2019)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/3a/e6/b33ae6ec-180f-9787-ba7e-8f6fb37c9699/mza_7925810483407652663.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-rescap%C3%A9es-2019/id160879442?i=1000799130782"
+    }
+  ]
+}

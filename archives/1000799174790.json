@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "Europe1",
+      "id": "1000799174790",
+      "name": "Le prisonnier innocent",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3f/c8/3e/3fc83ebe-2a33-a5de-96df-2fb28b208798/mza_14448225426729875284.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-prisonnier-innocent/id1581950528?i=1000799174790"
+    }
+  ]
+}

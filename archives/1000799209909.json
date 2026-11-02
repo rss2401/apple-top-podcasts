@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 45,
+      "artistName": "Radio Classique",
+      "id": "1000799209909",
+      "name": "Une espionne de Staline au service de la bombe russe",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/67/34/c5673415-60a1-33b4-5ddc-5e11c8bb5ba1/mza_18272944997025992088.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/une-espionne-de-staline-au-service-de-la-bombe-russe/id1434297164?i=1000799209909"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "Radio Classique",
+      "id": "1000799225285",
+      "name": "Lady Chatterley : L'amour et le sexe au temps des tabous",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/b0/2c/3ab02cef-78c3-4fd9-f90f-fd4c7a8bc6c3/mza_15217571130828189169.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lady-chatterley-lamour-et-le-sexe-au-temps-des-tabous/id1434297164?i=1000799225285"
+    }
+  ]
+}

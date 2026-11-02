@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 7,
+      "artistName": "Radio Classique",
+      "id": "1000799268623",
+      "name": "Les amours interdites du tsar Alexandre II",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f6/bf/3b/f6bf3b52-4d2e-ddc8-9a7d-e9a539a2caf8/mza_9404826948940122535.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-amours-interdites-du-tsar-alexandre-ii/id1434297164?i=1000799268623"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 9,
+      "artistName": "Radio Nova",
+      "id": "1000799261566",
+      "name": "L’intégrale du 1er novembre 2026 – Best of",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/59/19/0d591970-37a6-a736-70bc-670753a3829f/mza_14366677655241093208.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-du-1er-novembre-2026-best-of/id1766744611?i=1000799261566"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 56,
+      "artistName": "Studio Biloba",
+      "id": "1000799275199",
+      "name": "1358 : La Grande Jacquerie, la convergence des luttes version médiévale ! 🔥",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/72/7f/6f727f96-f3f1-e93c-c3f8-2a8bfcd09203/mza_13123474578107882562.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/1358-la-grande-jacquerie-la-convergence-des-luttes/id1457991238?i=1000799275199"
+    }
+  ]
+}

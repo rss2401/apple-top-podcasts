@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "SKOR North",
+      "id": "1000799292521",
+      "name": "VENT LINE: Minnesota Vikings LOSE to the Detroit Lions",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/27/ea/4a27eafb-9b29-b496-fc87-e272a899eb6e/mza_5464791279999720844.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/vent-line-minnesota-vikings-lose-to-the-detroit-lions/id923544550?i=1000799292521"
+    }
+  ]
+}

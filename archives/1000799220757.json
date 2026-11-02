@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 13,
+      "artistName": "Olivier Bost",
+      "id": "1000799220757",
+      "name": "Le Grand Jury de Natacha Polony",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/02/ec/c702eccd-4a9d-30be-c01a-7d8b8edf1fd9/mza_9563059638216644860.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-grand-jury-de-natacha-polony/id81838419?i=1000799220757"
+    }
+  ]
+}

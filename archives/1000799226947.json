@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 4,
+      "artistName": "Rebecca Manzoni",
+      "id": "1000799226947",
+      "name": "Emma Marsantes, Jonathan Littell, Lilia Hassaine, Sonia Devillers, Gustavo Faveron Patriau : que lire cette semaine ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/2f/5f/512f5fe3-c5f5-9681-86b3-8fa8111b7a19/mza_17102861761128451248.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/emma-marsantes-jonathan-littell-lilia-hassaine-sonia/id115156841?i=1000799226947"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "Maghla",
+      "id": "1000798201811",
+      "name": "Sip & Gossip #34 avec Mayadorable",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/3a/b6/313ab6d4-5b33-4fe1-3e73-ed7f2ca45573/mza_3415299715614632341.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/sip-gossip-34-avec-mayadorable/id1713166190?i=1000798201811"
+    }
+  ]
+}

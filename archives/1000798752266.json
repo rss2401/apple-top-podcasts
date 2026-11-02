@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "TBS RADIO",
+      "id": "1000798752266",
+      "name": "#496【本編】キングオブコント振り返り",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1d/8c/2a/1d8c2ab2-d5f7-0056-491a-47a60cdc2725/mza_4529205469626092349.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/496-%E6%9C%AC%E7%B7%A8-%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%AA%E3%83%96%E3%82%B3%E3%83%B3%E3%83%88%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/id1651795950?i=1000798752266"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 60,
+      "artistName": "Mehdi Maïzi, Merwane Benlazar",
+      "id": "1000799250796",
+      "name": "Avec Walid Acherchour et Big Youss : \"Gérard Jugnot est un chauve d'utilité publique\"",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/ef/9c/22ef9cfc-a3a1-c2e4-385f-023bab9a144d/mza_15377046206254063786.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/avec-walid-acherchour-et-big-youss-g%C3%A9rard-jugnot-est/id6806973131?i=1000799250796"
+    }
+  ]
+}

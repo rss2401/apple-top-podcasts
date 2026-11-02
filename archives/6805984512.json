@@ -1,5 +1,5 @@
 {
-  "resultCount": 7,
+  "resultCount": 6,
   "results": [
     {
       "month": "202610",
@@ -109,34 +109,8 @@
       "month": "202611",
       "country": "gb",
       "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 95,
-      "artistName": "Apple TV / Plan B / Blanchard House",
-      "id": "6805984512",
-      "name": "Heart",
-      "kind": "podcasts",
-      "contentAdvisoryRating": "Explict",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/81/f7/1f81f746-1fb8-b395-fd5f-c14c253d7215/mza_8858033765122678180.jpeg/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "1488",
-          "name": "True Crime",
-          "url": "https://itunes.apple.com/gb/genre/id1488"
-        },
-        {
-          "genreId": "1324",
-          "name": "Society & Culture",
-          "url": "https://itunes.apple.com/gb/genre/id1324"
-        }
-      ],
-      "url": "https://podcasts.apple.com/gb/podcast/heart/id6805984512"
-    },
-    {
-      "month": "202611",
-      "country": "gb",
-      "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 74,
+      "rank": 72,
       "artistName": "Apple TV / Plan B / Blanchard House",
       "id": "6805984512",
       "name": "Heart",
@@ -162,7 +136,7 @@
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 62,
+      "rank": 59,
       "artistName": "Apple TV / Plan B / Blanchard House",
       "id": "6805984512",
       "name": "Heart",

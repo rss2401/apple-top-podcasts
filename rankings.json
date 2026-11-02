@@ -212,22 +212,32 @@
   {
     "Name": "cn_podcasts_top-podcast-episodes.json",
     "RelativePath": "rankings/202611/cn_podcasts_top-podcast-episodes.json",
-    "Length": 77498
+    "Length": 76745
   },
   {
     "Name": "cn_podcasts_top-podcasts.json",
     "RelativePath": "rankings/202611/cn_podcasts_top-podcasts.json",
-    "Length": 70102
+    "Length": 69500
+  },
+  {
+    "Name": "de_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/de_podcasts_top-podcast-episodes.json",
+    "Length": 67044
+  },
+  {
+    "Name": "de_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/de_podcasts_top-podcasts.json",
+    "Length": 69525
   },
   {
     "Name": "fr_podcasts_top-podcast-episodes.json",
     "RelativePath": "rankings/202611/fr_podcasts_top-podcast-episodes.json",
-    "Length": 68497
+    "Length": 68546
   },
   {
     "Name": "fr_podcasts_top-podcasts.json",
     "RelativePath": "rankings/202611/fr_podcasts_top-podcasts.json",
-    "Length": 68079
+    "Length": 68523
   },
   {
     "Name": "gb_podcasts_top-podcast-episodes.json",
@@ -237,36 +247,46 @@
   {
     "Name": "gb_podcasts_top-podcasts.json",
     "RelativePath": "rankings/202611/gb_podcasts_top-podcasts.json",
-    "Length": 69663
+    "Length": 69134
   },
   {
     "Name": "gb_podcasts_top-subscriber-podcast-channels.json",
     "RelativePath": "rankings/202611/gb_podcasts_top-subscriber-podcast-channels.json",
-    "Length": 41531
+    "Length": 41527
   },
   {
     "Name": "gb_podcasts_top-subscriber-podcasts.json",
     "RelativePath": "rankings/202611/gb_podcasts_top-subscriber-podcasts.json",
-    "Length": 71034
+    "Length": 70539
+  },
+  {
+    "Name": "jp_podcasts_top-podcast-episodes.json",
+    "RelativePath": "rankings/202611/jp_podcasts_top-podcast-episodes.json",
+    "Length": 80403
+  },
+  {
+    "Name": "jp_podcasts_top-podcasts.json",
+    "RelativePath": "rankings/202611/jp_podcasts_top-podcasts.json",
+    "Length": 74450
   },
   {
     "Name": "us_podcasts_top-podcast-episodes.json",
     "RelativePath": "rankings/202611/us_podcasts_top-podcast-episodes.json",
-    "Length": 66618
+    "Length": 66203
   },
   {
     "Name": "us_podcasts_top-podcasts.json",
     "RelativePath": "rankings/202611/us_podcasts_top-podcasts.json",
-    "Length": 68392
+    "Length": 69005
   },
   {
     "Name": "us_podcasts_top-subscriber-podcast-channels.json",
     "RelativePath": "rankings/202611/us_podcasts_top-subscriber-podcast-channels.json",
-    "Length": 41510
+    "Length": 41544
   },
   {
     "Name": "us_podcasts_top-subscriber-podcasts.json",
     "RelativePath": "rankings/202611/us_podcasts_top-subscriber-podcasts.json",
-    "Length": 70105
+    "Length": 71124
   }
 ]
