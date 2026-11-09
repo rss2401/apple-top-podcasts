@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1728636856,
+      "trackId": 1728636856,
+      "artistName": "ARTE Radio",
+      "collectionName": "La Chute de Lapinville - Une fiction quotidienne",
+      "trackName": "La Chute de Lapinville - Une fiction quotidienne",
+      "collectionCensoredName": "La Chute de Lapinville - Une fiction quotidienne",
+      "trackCensoredName": "La Chute de Lapinville - Une fiction quotidienne",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/la-chute-de-lapinville-une-fiction-quotidienne/id1728636856?uo=4",
+      "feedUrl": "https://www.arteradio.com/xml_sound_emission?emissionname=%22La%20Chute%20de%20Lapinville%22&partner=applepodcast",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/la-chute-de-lapinville-une-fiction-quotidienne/id1728636856?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7e/44/517e448b-5063-edef-ed56-af71c37a319f/mza_4448504950932210596.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7e/44/517e448b-5063-edef-ed56-af71c37a319f/mza_4448504950932210596.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7e/44/517e448b-5063-edef-ed56-af71c37a319f/mza_4448504950932210596.png/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-09T04:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 549,
+      "trackTimeMillis": 338,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Humour",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7e/44/517e448b-5063-edef-ed56-af71c37a319f/mza_4448504950932210596.png/600x600bb.jpg",
+      "genreIds": [
+        "1303",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "Humour",
+        "Podcasts",
+        "Romans et nouvelles"
+      ]
+    }
+  ]
+}

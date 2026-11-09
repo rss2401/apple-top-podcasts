@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1745363926,
+      "trackId": 1745363926,
+      "artistName": "POLITICO",
+      "collectionName": "POLITICO Berlin Playbook",
+      "trackName": "POLITICO Berlin Playbook",
+      "collectionCensoredName": "POLITICO Berlin Playbook",
+      "trackCensoredName": "POLITICO Berlin Playbook",
+      "collectionViewUrl": "https://podcasts.apple.com/de/podcast/politico-berlin-playbook/id1745363926?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/ASD3449434491",
+      "trackViewUrl": "https://podcasts.apple.com/de/podcast/politico-berlin-playbook/id1745363926?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/3c/65/6d3c6584-813b-ebee-d14e-882654d97169/mza_8167131161014631985.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/3c/65/6d3c6584-813b-ebee-d14e-882654d97169/mza_8167131161014631985.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/3c/65/6d3c6584-813b-ebee-d14e-882654d97169/mza_8167131161014631985.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-09T04:04:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 793,
+      "trackTimeMillis": 1238,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Nachrichten des Tages",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/3c/65/6d3c6584-813b-ebee-d14e-882654d97169/mza_8167131161014631985.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "genres": [
+        "Nachrichten des Tages",
+        "Podcasts",
+        "Nachrichten",
+        "Politik"
+      ]
+    }
+  ]
+}

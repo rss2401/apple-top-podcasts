@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 1514187895,
+      "collectionId": 1508202790,
+      "trackId": 1508202790,
+      "artistName": "The Daily Beast, Joanna Coles",
+      "collectionName": "The Daily Beast Podcast",
+      "trackName": "The Daily Beast Podcast",
+      "collectionCensoredName": "The Daily Beast Podcast",
+      "trackCensoredName": "The Daily Beast Podcast",
+      "artistViewUrl": "https://podcasts.apple.com/gb/artist/the-daily-beast/1514187895?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/the-daily-beast-podcast/id1508202790?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/QCD5580850161",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/the-daily-beast-podcast/id1508202790?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-09T04:30:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 1315,
+      "trackTimeMillis": 1936,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "News",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "genres": [
+        "News",
+        "Podcasts"
+      ]
+    }
+  ]
+}

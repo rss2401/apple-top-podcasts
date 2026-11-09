@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1731934400,
+      "trackId": 1731934400,
+      "artistName": "FM大阪",
+      "collectionName": "TENGA presents Midnight World Cafe ～TENGA茶屋～**",
+      "trackName": "TENGA presents Midnight World Cafe ～TENGA茶屋～**",
+      "collectionCensoredName": "TENGA presents Midnight World Cafe ～TENGA茶屋～**",
+      "trackCensoredName": "TENGA presents Midnight World Cafe ～TENGA茶屋～**",
+      "collectionViewUrl": "https://podcasts.apple.com/jp/podcast/tenga-presents-midnight-world-cafe-tenga%E8%8C%B6%E5%B1%8B/id1731934400?uo=4",
+      "feedUrl": "https://feed.sonicbowl.cloud/rss/c9efdf20-a543-4db4-bc5b-fe1d42323a0b/",
+      "trackViewUrl": "https://podcasts.apple.com/jp/podcast/tenga-presents-midnight-world-cafe-tenga%E8%8C%B6%E5%B1%8B/id1731934400?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/b7/96/deb796f9-f13e-4e2d-cce2-877dbc2d190a/mza_8537365384567978735.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/b7/96/deb796f9-f13e-4e2d-cce2-877dbc2d190a/mza_8537365384567978735.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/b7/96/deb796f9-f13e-4e2d-cce2-877dbc2d190a/mza_8537365384567978735.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-02T04:30:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 80,
+      "trackTimeMillis": 3458,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "コメディ",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/b7/96/deb796f9-f13e-4e2d-cce2-877dbc2d190a/mza_8537365384567978735.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1303",
+        "26",
+        "1512"
+      ],
+      "genres": [
+        "コメディ",
+        "ポッドキャスト",
+        "健康／フィットネス"
+      ]
+    }
+  ]
+}
