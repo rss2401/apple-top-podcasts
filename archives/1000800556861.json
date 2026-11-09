@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "哎哟嚯Radio",
+      "id": "1000800556861",
+      "name": "312 和同事交朋友像在谈恋爱，和Rapper谈恋爱像在当赞助商？「哎哟嚯！爱，死亡与搋子【29】」",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/d0/c9/4dd0c981-9dd7-ffd3-98cb-d5f3aeefe3ea/mza_4103513145973745482.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "喜剧",
+          "url": "https://itunes.apple.com/cn/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/312-%E5%92%8C%E5%90%8C%E4%BA%8B%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%83%8F%E5%9C%A8%E8%B0%88%E6%81%8B%E7%88%B1-%E5%92%8Crapper%E8%B0%88%E6%81%8B%E7%88%B1%E5%83%8F%E5%9C%A8%E5%BD%93%E8%B5%9E%E5%8A%A9%E5%95%86-%E5%93%8E%E5%93%9F%E5%9A%AF-%E7%88%B1-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E6%90%8B%E5%AD%90-29/id1543609716?i=1000800556861"
+    }
+  ]
+}

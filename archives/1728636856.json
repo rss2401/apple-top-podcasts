@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 87,
+      "artistName": "ARTE Radio",
+      "id": "1728636856",
+      "name": "La Chute de Lapinville - Une fiction quotidienne",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7e/44/517e448b-5063-edef-ed56-af71c37a319f/mza_4448504950932210596.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        },
+        {
+          "genreId": "1483",
+          "name": "Romans et nouvelles",
+          "url": "https://itunes.apple.com/fr/genre/id1483"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-chute-de-lapinville-une-fiction-quotidienne/id1728636856"
+    }
+  ]
+}

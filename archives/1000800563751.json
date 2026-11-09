@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "BFM",
+      "id": "1000800563751",
+      "name": "After rugby - Les Français s'imposent largement face aux Fidji malgré la blessure de Ntamack",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/7f/68/347f68e8-62d3-15d3-1cb6-d945ecf7e2ea/mza_4635851364240984194.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Rugby"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/after-rugby-les-fran%C3%A7ais-simposent-largement-face-aux/id1085539213?i=1000800563751"
+    }
+  ]
+}

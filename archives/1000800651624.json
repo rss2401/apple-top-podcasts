@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "文化放送PodcastQR",
+      "id": "1000800651624",
+      "name": "2026年10月31日 森島豊（神学者：『天皇と人権　戦前戦後を貫く「日本的歪み」の正体』著者）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/3f/c6/683fc686-5871-f796-9d0a-7832a6cff332/mza_9215696514165307032.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id1321"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2026%E5%B9%B410%E6%9C%8831%E6%97%A5-%E6%A3%AE%E5%B3%B6%E8%B1%8A-%E7%A5%9E%E5%AD%A6%E8%80%85-%E5%A4%A9%E7%9A%87%E3%81%A8%E4%BA%BA%E6%A8%A9-%E6%88%A6%E5%89%8D%E6%88%A6%E5%BE%8C%E3%82%92%E8%B2%AB%E3%81%8F-%E6%97%A5%E6%9C%AC%E7%9A%84%E6%AD%AA%E3%81%BF-%E3%81%AE%E6%AD%A3%E4%BD%93-%E8%91%97%E8%80%85/id1525845035?i=1000800651624"
+    }
+  ]
+}

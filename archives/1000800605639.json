@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "tagesschau",
+      "id": "1000800605639",
+      "name": "tagesschau 20:00 Uhr, 08.11.2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/f9/c2/3cf9c280-b7f1-5749-e3f0-913e75c7d2fe/mza_1062428150756653331.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/tagesschau-20-00-uhr-08-11-2026/id340159582?i=1000800605639"
+    }
+  ]
+}

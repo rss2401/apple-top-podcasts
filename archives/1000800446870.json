@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 28,
+      "artistName": "Hugo Décrypte",
+      "id": "1000800446870",
+      "name": "Trump prend une raclée, Poutine est inquiet",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/19/c3/0f19c3c0-33b8-913d-cb84-25441a601a84/mza_3206646173135923431.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/trump-prend-une-racl%C3%A9e-poutine-est-inquiet/id1552365367?i=1000800446870"
+    }
+  ]
+}

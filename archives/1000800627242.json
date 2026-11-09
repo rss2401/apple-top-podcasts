@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "ZDFde",
+      "id": "1000800627242",
+      "name": "heute journal vom 8. November 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/80/24/57/802457ef-1cf3-32f5-0998-7239d52ce3de/mza_8136312009511111886.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1309",
+          "name": "TV und Film",
+          "url": "https://itunes.apple.com/de/genre/id1309"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/heute-journal-vom-8-november-2026/id187624695?i=1000800627242"
+    }
+  ]
+}

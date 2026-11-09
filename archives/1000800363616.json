@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 79,
+      "artistName": "Bababam",
+      "id": "1000800363616",
+      "name": "BABABAM ORIGINALS | Gilles Bertin, un punk en cavale",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/25/24/76252482-2703-b126-7b7a-09151c16a822/mza_2952868377354073911.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/bababam-originals-gilles-bertin-un-punk-en-cavale/id1546899313?i=1000800363616"
+    }
+  ]
+}

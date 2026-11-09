@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 38,
+      "artistName": "Nicolas Poincaré",
+      "id": "1000800525950",
+      "name": "La question du voile à l'école déchire la Turquie et l'Azerbaïdjan",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/9a/91/4d9a9106-f83f-9ab7-4004-b7d289b5f596/mza_14678473813703780661.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-question-du-voile-%C3%A0-l%C3%A9cole-d%C3%A9chire-la-turquie-et/id115156820?i=1000800525950"
+    }
+  ]
+}

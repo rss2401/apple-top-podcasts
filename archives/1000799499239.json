@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "Ming,严艺家",
+      "id": "1000799499239",
+      "name": "为什么你赚钱总是很辛苦？突破金钱剧本里的限制性信念｜和严艺家聊「金钱心理学」",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/66/8b/f2668b19-09d6-bba3-6772-676cad84a5da/mza_5844020192062850393.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会与文化",
+          "url": "https://itunes.apple.com/cn/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B5%9A%E9%92%B1%E6%80%BB%E6%98%AF%E5%BE%88%E8%BE%9B%E8%8B%A6-%E7%AA%81%E7%A0%B4%E9%87%91%E9%92%B1%E5%89%A7%E6%9C%AC%E9%87%8C%E7%9A%84%E9%99%90%E5%88%B6%E6%80%A7%E4%BF%A1%E5%BF%B5-%E5%92%8C%E4%B8%A5%E8%89%BA%E5%AE%B6%E8%81%8A-%E9%87%91%E9%92%B1%E5%BF%83%E7%90%86%E5%AD%A6/id1719934586?i=1000799499239"
+    }
+  ]
+}

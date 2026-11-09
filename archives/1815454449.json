@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 99,
+      "artistName": "米球",
+      "id": "1815454449",
+      "name": "灯下黑radio",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/9c/f0/339cf07c-94c3-8f78-3554-7bbee9a926b6/mza_3209842164421267872.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E7%81%AF%E4%B8%8B%E9%BB%91radio/id1815454449"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 9,
+  "resultCount": 10,
   "results": [
     {
       "month": "202607",
@@ -126,7 +126,7 @@
       "country": "gb",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 40,
+      "rank": 38,
       "artistName": "History Hit",
       "id": "1520403988",
       "name": "The Ancients",
@@ -146,7 +146,7 @@
       "country": "gb",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 13,
+      "rank": 16,
       "artistName": "History Hit",
       "id": "1520403988",
       "name": "The Ancients",
@@ -165,8 +165,28 @@
       "month": "202611",
       "country": "us",
       "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 93,
+      "artistName": "History Hit",
+      "id": "1520403988",
+      "name": "The Ancients",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6c/94/31/6c943113-5484-a41d-5cb7-bf606ff289ef/mza_6401313720037127611.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "History",
+          "url": "https://itunes.apple.com/us/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/the-ancients/id1520403988"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 41,
+      "rank": 44,
       "artistName": "History Hit",
       "id": "1520403988",
       "name": "The Ancients",

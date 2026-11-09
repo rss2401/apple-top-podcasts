@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "丸山ゴンザレス",
+      "id": "1000800626456",
+      "name": "第149回　ブリーダー",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b9/3c/b5/b93cb523-c214-8bac-96e4-705a44b82f53/mza_4697971391327560833.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "事件／犯罪",
+          "url": "https://itunes.apple.com/jp/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%AC%AC149%E5%9B%9E-%E3%83%96%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/id1722019292?i=1000800626456"
+    }
+  ]
+}

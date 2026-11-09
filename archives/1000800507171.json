@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 37,
+      "artistName": "Europe1",
+      "id": "1000800507171",
+      "name": "Le siffleur - Le crime de la nuit de Noël",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/45/80/00458030-b3c0-2678-2bb2-750425f7d285/mza_5742593712542506625.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-siffleur-le-crime-de-la-nuit-de-no%C3%ABl/id1773924080?i=1000800507171"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 26,
+      "artistName": "France Télévisions",
+      "id": "1000800520239",
+      "name": "Barbara Stec et Stéphane Lopez - Immersion dans l'Amérique qui ne veut plus de Trump",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/bc/dc/ecbcdc94-93c9-0e37-82a1-d9311bb23755/mza_17087391881136116458.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/barbara-stec-et-st%C3%A9phane-lopez-immersion-dans-lam%C3%A9rique/id1438726711?i=1000800520239"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 51,
+      "artistName": "Radio Nova",
+      "id": "1000800563941",
+      "name": "Les grands remplaçants - L'intégrale du 7 novembre avec Amine le Conquérant",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/27/03/4e270319-0431-93eb-8e74-69ca379b23ea/mza_3789360174535065316.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-grands-rempla%C3%A7ants-lint%C3%A9grale-du-7-novembre-avec/id1806613696?i=1000800563941"
+    }
+  ]
+}

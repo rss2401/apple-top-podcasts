@@ -1,5 +1,5 @@
 {
-  "resultCount": 15,
+  "resultCount": 14,
   "results": [
     {
       "month": "202604",
@@ -246,7 +246,7 @@
       "country": "cn",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 12,
+      "rank": 91,
       "artistName": "BBC Radio",
       "id": "262026947",
       "name": "6 Minute English",
@@ -263,30 +263,10 @@
     },
     {
       "month": "202611",
-      "country": "fr",
-      "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 66,
-      "artistName": "BBC Radio",
-      "id": "262026947",
-      "name": "6 Minute English",
-      "kind": "podcasts",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/98/35/ba9835eb-1ef3-60e4-bf05-3d141b8d1c7a/mza_3844641997714022659.jpg/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "1304",
-          "name": "Éducation",
-          "url": "https://itunes.apple.com/fr/genre/id1304"
-        }
-      ],
-      "url": "https://podcasts.apple.com/fr/podcast/6-minute-english/id262026947"
-    },
-    {
-      "month": "202611",
       "country": "jp",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 19,
+      "rank": 42,
       "artistName": "BBC Radio",
       "id": "262026947",
       "name": "6 Minute English",

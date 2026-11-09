@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 84,
+      "artistName": "Philippe Bouvard",
+      "id": "1000800586798",
+      "name": "50 ANS DES GROSSES TÊTES - L'archive du 1er septembre 1987",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/53/69/b153693a-9c87-f525-7018-a6da90901bb0/mza_13026556511306670338.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/50-ans-des-grosses-t%C3%AAtes-larchive-du-1er-septembre-1987/id1653946628?i=1000800586798"
+    }
+  ]
+}

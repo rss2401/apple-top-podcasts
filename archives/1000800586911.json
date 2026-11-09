@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 10,
+      "artistName": "Stéphanie Duncan",
+      "id": "1000800586911",
+      "name": "Jean-Paul Sartre, un intellectuel engagé pour la liberté ou dans les pires utopies de son siècle ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/87/98/77879874-d2fc-bdd8-e67c-bb2dc960f0b9/mza_9603346155958602811.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/jean-paul-sartre-un-intellectuel-engag%C3%A9-pour-la/id1035249857?i=1000800586911"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "Jean-Noël Jeanneney",
+      "id": "1000800394606",
+      "name": "Kaspar Hauser : un enfant et un mystère",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/b1/54/bab154ee-e9e4-4778-67a3-2175eea83ed1/mza_6951335014968126028.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/kaspar-hauser-un-enfant-et-un-myst%C3%A8re/id114879499?i=1000800394606"
+    }
+  ]
+}

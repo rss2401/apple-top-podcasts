@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 100,
+      "artistName": "宇宙模特公司",
+      "id": "1000800595098",
+      "name": "VOL 241 - 打工人月报/OCT：如来的外卖，忽左忽右的巴西，祖宗飘忽的土耳其",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/09/d5/47/09d54716-6a3e-2052-6d8f-e1a0d3865a50/mza_10408430091291723448.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "即兴表演"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/vol-241-%E6%89%93%E5%B7%A5%E4%BA%BA%E6%9C%88%E6%8A%A5-oct-%E5%A6%82%E6%9D%A5%E7%9A%84%E5%A4%96%E5%8D%96-%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3%E7%9A%84%E5%B7%B4%E8%A5%BF-%E7%A5%96%E5%AE%97%E9%A3%98%E5%BF%BD%E7%9A%84%E5%9C%9F%E8%80%B3%E5%85%B6/id1580036852?i=1000800595098"
+    }
+  ]
+}

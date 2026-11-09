@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 82,
+      "artistName": "Radio Nova",
+      "id": "1000800070265",
+      "name": "ManAttal Kaboul Trappes - L'intégrale de “La Riposte” du 2 novembre",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/09/89/6d098926-6fd4-6a49-d74b-91b58b8c6436/mza_11275663345185166243.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/manattal-kaboul-trappes-lint%C3%A9grale-de-la-riposte-du/id1802654473?i=1000800070265"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 61,
+      "artistName": "Olivier Bost",
+      "id": "1000800559471",
+      "name": "Le Grand Jury de Jean-Noël Barrot, ministre des Affaires étrangères",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/c8/9f/dfc89fc0-982f-2e07-f099-53fab482c61a/mza_14664854946449083670.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-grand-jury-de-jean-no%C3%ABl-barrot-ministre-des/id81838419?i=1000800559471"
+    }
+  ]
+}

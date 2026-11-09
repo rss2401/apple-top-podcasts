@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 24,
+      "artistName": "Guillaume Pley",
+      "id": "1000799782717",
+      "name": "MÉDIUM ET CROQUE-MORT : ELLE PARLE AUX MORTS DONT ELLE S’OCCUPE ET NOUS RACONTE LEURS PIRES SECRETS",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/c1/1d/37c11df8-dc91-4538-72ea-0c41f7a75406/mza_7784716303974014240.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/m%C3%A9dium-et-croque-mort-elle-parle-aux-morts-dont-elle/id1691740320?i=1000799782717"
+    }
+  ]
+}

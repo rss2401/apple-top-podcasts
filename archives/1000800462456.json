@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 76,
+      "artistName": "France Culture",
+      "id": "1000800462456",
+      "name": "[BEST OF] Race et République, histoire d'un tabou français",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/c5/1a/e5c51a6c-fbbd-e52c-0743-8be2c08b48d7/mza_6717287003861698153.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-race-et-r%C3%A9publique-histoire-dun-tabou-fran%C3%A7ais/id390164336?i=1000800462456"
+    }
+  ]
+}

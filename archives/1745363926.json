@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 76,
+      "artistName": "POLITICO",
+      "id": "1745363926",
+      "name": "POLITICO Berlin Playbook",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/3c/65/6d3c6584-813b-ebee-d14e-882654d97169/mza_8167131161014631985.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/politico-berlin-playbook/id1745363926"
+    }
+  ]
+}

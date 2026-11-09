@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 44,
+      "artistName": "Maik Nöcker, Lena Cassel, MML",
+      "id": "1000800657333",
+      "name": "100 % Lena - Wagner unter Druck!",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/15/f9/ba15f9e7-0782-96af-4b52-369b19d1ce18/mza_15326602747389104572.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Fußball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/100-lena-wagner-unter-druck/id1562709592?i=1000800657333"
+    }
+  ]
+}

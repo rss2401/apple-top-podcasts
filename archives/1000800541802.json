@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 2,
+      "artistName": "Guillaume Pley",
+      "id": "1000800541802",
+      "name": "CE HACKER TRAQUE ET RETROUVE LES PIRES ESCROCS DU NET ! CHANTAGE S*XUEL, CÉLÉBRITÉS ESCROQUÉES...",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/62/58/8b625871-929d-da84-e4ea-ec8333cdd978/mza_8729465983396047758.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/ce-hacker-traque-et-retrouve-les-pires-escrocs-du-net/id1691740320?i=1000800541802"
+    }
+  ]
+}

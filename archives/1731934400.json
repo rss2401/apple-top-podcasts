@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 99,
+      "artistName": "FM大阪",
+      "id": "1731934400",
+      "name": "TENGA presents Midnight World Cafe ～TENGA茶屋～**",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/b7/96/deb796f9-f13e-4e2d-cce2-877dbc2d190a/mza_8537365384567978735.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        },
+        {
+          "genreId": "1512",
+          "name": "健康／フィットネス",
+          "url": "https://itunes.apple.com/jp/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/tenga-presents-midnight-world-cafe-tenga%E8%8C%B6%E5%B1%8B/id1731934400"
+    }
+  ]
+}

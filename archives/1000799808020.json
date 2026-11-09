@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "Fabrice Drouelle",
+      "id": "1000799808020",
+      "name": "Renaud Van Ruymbeke, le magistrat des affaires sensibles - L'intégrale",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/8c/e0/e48ce047-2e66-8fa6-6286-868be2c44afe/mza_12197084482688538035.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/renaud-van-ruymbeke-le-magistrat-des-affaires-sensibles/id912451024?i=1000799808020"
+    }
+  ]
+}

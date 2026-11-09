@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Bérengère Bonte",
+      "id": "1000800548755",
+      "name": "Lendemain de claque électorale pour Donald Trump",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/24/d7/c324d718-50d5-11b6-51fc-b5d0cd9f593a/mza_900993536339812824.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lendemain-de-claque-%C3%A9lectorale-pour-donald-trump/id114880097?i=1000800548755"
+    }
+  ]
+}

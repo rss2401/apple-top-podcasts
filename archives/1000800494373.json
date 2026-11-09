@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 59,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000800494373",
+      "name": "Eric Peugeot : un rapt d'enfant au golf de Saint-Cloud",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/81/4c/2d814c90-7053-0279-e74c-8043eb7caae7/mza_1778156370857320086.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/eric-peugeot-un-rapt-denfant-au-golf-de-saint-cloud/id1593842944?i=1000800494373"
+    }
+  ]
+}

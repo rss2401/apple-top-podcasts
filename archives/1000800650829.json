@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 21,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000800650829",
+      "name": "Affaire Thierry Métayer : la ferme aux mystères",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f6/6a/26/f66a2656-54a8-4214-9be1-ebcc12e76e96/mza_9512083734940008365.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/affaire-thierry-m%C3%A9tayer-la-ferme-aux-myst%C3%A8res/id1593842944?i=1000800650829"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 90,
+      "artistName": "Kugel und Niere",
+      "id": "1000800635530",
+      "name": "Die Blut-Lüge",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/f6/ee/60f6ee21-3c92-b8f6-fc2f-a29641bae08b/mza_7971504018706376350.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Geschichte",
+          "url": "https://itunes.apple.com/de/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/die-blut-l%C3%BCge/id1645244877?i=1000800635530"
+    }
+  ]
+}

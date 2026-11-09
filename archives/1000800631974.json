@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "Schäfer/Kropff",
+      "id": "1000800631974",
+      "name": "Nmecha-Winner! BVB siegt und bleibt an Bayern dran!",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/af/fd/5caffda4-e042-3776-4ae1-07c76fbac79f/mza_11387519308398974090.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Fußball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/nmecha-winner-bvb-siegt-und-bleibt-an-bayern-dran/id1571118125?i=1000800631974"
+    }
+  ]
+}

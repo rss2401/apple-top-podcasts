@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 16,
+      "artistName": "Radio Classique",
+      "id": "1000800566495",
+      "name": "Les secrets de la campagne présidentielle de 1981",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/2e/0b/a12e0b6f-753d-dc80-e517-e470bcb50ca4/mza_8162942730068062942.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-secrets-de-la-campagne-pr%C3%A9sidentielle-de-1981/id1434297164?i=1000800566495"
+    }
+  ]
+}

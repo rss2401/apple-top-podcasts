@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "MyBetterSelf",
+      "id": "1000800508178",
+      "name": "Les idées reçues sur l’alimentation qui sont fausses",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/20/d8/8920d866-da30-8dc0-4b47-402bf8b7acda/mza_15747828388185499324.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/les-id%C3%A9es-re%C3%A7ues-sur-lalimentation-qui-sont-fausses/id1373863417?i=1000800508178"
+    }
+  ]
+}

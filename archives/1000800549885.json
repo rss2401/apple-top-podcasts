@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 34,
+      "artistName": "Benjamin Brillaud",
+      "id": "1000800549885",
+      "name": "Pourquoi il y a des tensions entre Wallons et Flamands ? - NOTA BENE",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/6e/19/356e19c0-5a87-d817-3e19-a328ea4e1e8e/mza_2293562589923714809.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/pourquoi-il-y-a-des-tensions-entre-wallons-et/id1573434643?i=1000800549885"
+    }
+  ]
+}

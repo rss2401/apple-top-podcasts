@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 81,
+      "artistName": "小烘、王王",
+      "id": "1000799604428",
+      "name": "E84.《全部施剑翘》：天津居士林刺杀案",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/4a/98/2b4a9843-9842-07c7-ef0c-0b6e33f419ed/mza_166688845814195033.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/e84-%E5%85%A8%E9%83%A8%E6%96%BD%E5%89%91%E7%BF%98-%E5%A4%A9%E6%B4%A5%E5%B1%85%E5%A3%AB%E6%9E%97%E5%88%BA%E6%9D%80%E6%A1%88/id1770731694?i=1000799604428"
+    }
+  ]
+}

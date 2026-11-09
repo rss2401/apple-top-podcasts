@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 5,
   "results": [
     {
       "month": "202607",
@@ -55,23 +55,10 @@
     },
     {
       "month": "202611",
-      "country": "gb",
-      "mediaType": "podcasts",
-      "feed": "top-subscriber-podcast-channels",
-      "rank": 91,
-      "id": "6670555235",
-      "name": "The Free Press",
-      "kind": "podcast-channels",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/3a/b1/ba/3ab1badb-2410-5f6b-5cfc-9d28b28b8c23/3f64cc52-1afa-497a-86df-a3fb35e2f93d.png/100x100bb.png",
-      "genres": [],
-      "url": "https://podcasts.apple.com/gb/channel/the-free-press/id6670555235"
-    },
-    {
-      "month": "202611",
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcast-channels",
-      "rank": 78,
+      "rank": 60,
       "id": "6670555235",
       "name": "The Free Press",
       "kind": "podcast-channels",

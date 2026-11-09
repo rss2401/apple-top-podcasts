@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 64,
+      "artistName": "SPORT1, Florian König, Ruth Hofmann und Katharina Kleinfeldt",
+      "id": "1434821010",
+      "name": "Der SPORT1 DOPPELPASS",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/4a/fe/a24afed2-7a66-38e5-0b69-77b54d2db90a/mza_9537526212584984809.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1545",
+          "name": "Sport",
+          "url": "https://itunes.apple.com/de/genre/id1545"
+        },
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/der-sport1-doppelpass/id1434821010"
+    }
+  ]
+}

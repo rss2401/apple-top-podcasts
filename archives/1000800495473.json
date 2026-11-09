@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 18,
+      "artistName": "Lorànt Deutsch",
+      "id": "1000800495473",
+      "name": "Néfertiti : la Joconde des rives du Nil",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/23/3b/40233bfc-b255-e08f-102a-ea9f94673006/mza_2253111271099098561.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/n%C3%A9fertiti-la-joconde-des-rives-du-nil/id1583548883?i=1000800495473"
+    }
+  ]
+}

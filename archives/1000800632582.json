@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 83,
+      "artistName": "backspace.fm",
+      "id": "1000800632582",
+      "name": "DANBO-side #092 MacBook Pro Touch and A20 iPad mini",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e7/16/ff/e716ff5d-f02e-5a20-e7ae-a633db93ec13/mza_6747962940494780924.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "テクノロジー",
+          "url": "https://itunes.apple.com/jp/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/danbo-side-092-macbook-pro-touch-and-a20-ipad-mini/id830709730?i=1000800632582"
+    }
+  ]
+}

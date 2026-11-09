@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 54,
+      "artistName": "RTL",
+      "id": "1000800496631",
+      "name": "ARCHIVE - La chronique du 27 avril 2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/b0/47/30b04760-5758-bea9-0f38-1ca2f82c25d9/mza_12873122394008543196.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/archive-la-chronique-du-27-avril-2026/id1477882043?i=1000800496631"
+    }
+  ]
+}

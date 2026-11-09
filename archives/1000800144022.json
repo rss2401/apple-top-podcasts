@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "许知远漫游记",
+      "id": "1000800144022",
+      "name": "Vol.102 费孝通与流亡中的俄国导师｜与王传闲谈",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/91/a7/9091a7a0-bcfb-2a72-0f0c-29fd684d6cca/mza_10143249266931605468.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会与文化",
+          "url": "https://itunes.apple.com/cn/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/vol-102-%E8%B4%B9%E5%AD%9D%E9%80%9A%E4%B8%8E%E6%B5%81%E4%BA%A1%E4%B8%AD%E7%9A%84%E4%BF%84%E5%9B%BD%E5%AF%BC%E5%B8%88-%E4%B8%8E%E7%8E%8B%E4%BC%A0%E9%97%B2%E8%B0%88/id1742948147?i=1000800144022"
+    }
+  ]
+}

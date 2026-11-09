@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 73,
+      "artistName": "Tim Cocker, Jonathan Beardmore, Phil Largan",
+      "id": "1000800618950",
+      "name": "S14 Ep09: 9th November 2026 - NATIONS CHAMPIONSHIP ROUND 1",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b8/e9/b2/b8e9b226-2294-f988-5b2b-f45c4f79d473/mza_5430000270440592154.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Rugby"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/s14-ep09-9th-november-2026-nations-championship-round-1/id703611884?i=1000800618950"
+    }
+  ]
+}

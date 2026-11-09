@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 91,
+      "artistName": "INA",
+      "id": "1000799662260",
+      "name": "[Parties de chasse] - Le Crime de Rothbury",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/fc/d6/cafcd675-51c8-9a6a-b32e-a9d235334020/mza_2242927366723854257.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Drame"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/parties-de-chasse-le-crime-de-rothbury/id1672297528?i=1000799662260"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 19,
+      "artistName": "Kyan Khojandi & Navo",
+      "id": "1000800366822",
+      "name": "Maxime Gasteuil et Charlotte Gabris découvrent le jeu anti-strike ! (Un Bon Moment, S6-E8)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/b9/a0/ceb9a0f5-64ec-eac8-1686-ad49ab28f53c/mza_11896116056949853931.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/maxime-gasteuil-et-charlotte-gabris-d%C3%A9couvrent-le-jeu/id1498725708?i=1000800366822"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 72,
+      "artistName": "Europe 1",
+      "id": "1000800507324",
+      "name": "Henriette d'Angleterre, la princesse au destin tragique",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/5f/5e/c75f5efa-2899-8c14-12f1-b5ca09bfbb5d/mza_3827391877891676957.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/henriette-dangleterre-la-princesse-au-destin-tragique/id423534806?i=1000800507324"
+    }
+  ]
+}

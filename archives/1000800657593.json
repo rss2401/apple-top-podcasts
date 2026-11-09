@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 38,
+      "artistName": "CBS News",
+      "id": "1000800657593",
+      "name": "11/28/2026: President Trump, France on Fire",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/b6/14/acb61454-a46a-62f0-5181-b9cbd66dd5ac/mza_14031988003683139313.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/11-28-2026-president-trump-france-on-fire/id81210923?i=1000800657593"
+    }
+  ]
+}

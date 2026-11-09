@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 5,
+      "artistName": "Rebecca Manzoni",
+      "id": "1000800572033",
+      "name": "\"Moulin\", \"L’affaire Marie-Claire\", \"Hope\", \"Wild Horse Nine\"... Quels films aller voir au cinéma cette semaine ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/5e/63/875e638e-87e8-ba6d-1acb-63e9d166fe90/mza_6040732739137213186.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/moulin-laffaire-marie-claire-hope-wild-horse-nine-quels/id115156841?i=1000800572033"
+    }
+  ]
+}

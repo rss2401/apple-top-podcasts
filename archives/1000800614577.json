@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 32,
+      "artistName": "Radio Nova",
+      "id": "1000800614577",
+      "name": "Vous êtes trop durs avec moi - La chronique d'Aymeric Lompret",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/61/79/ec/6179ecb5-577d-9eb1-37d3-54bef0c2b496/mza_2382116655493767294.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/vous-%C3%AAtes-trop-durs-avec-moi-la-chronique-daymeric-lompret/id1766751816?i=1000800614577"
+    }
+  ]
+}

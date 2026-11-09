@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 44,
+      "artistName": "Radio Classique",
+      "id": "1000800536730",
+      "name": "Mona Lisa : quelle femme se cache derrière la Joconde ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/df/b7/5edfb748-b00a-ed20-0d48-f8c919595522/mza_2487001565823561425.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/mona-lisa-quelle-femme-se-cache-derri%C3%A8re-la-joconde/id1434297164?i=1000800536730"
+    }
+  ]
+}

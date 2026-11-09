@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 85,
+      "artistName": "France Télévisions",
+      "id": "1000800287112",
+      "name": "Trump après la défaite : c'est OK Corral à la Maison Blanche ! - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/ed/0e/4eed0e47-f985-0eef-2c28-75d81c721eb0/mza_2408288946836118614.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/trump-apr%C3%A8s-la-d%C3%A9faite-cest-ok-corral-%C3%A0-la-maison-blanche/id1438726711?i=1000800287112"
+    }
+  ]
+}

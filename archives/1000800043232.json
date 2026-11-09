@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "Fabrice Drouelle",
+      "id": "1000800043232",
+      "name": "L’incendie des Nouvelles Galeries à Marseille en 1938 - L'intégrale",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/3f/d9/df3fd936-9651-96b3-b130-20390619071b/mza_10076017527889864580.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lincendie-des-nouvelles-galeries-%C3%A0-marseille-en-1938/id912451024?i=1000800043232"
+    }
+  ]
+}

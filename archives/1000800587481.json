@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 71,
+      "artistName": "/influx",
+      "id": "1000800587481",
+      "name": "Vos questions, nos réponses !",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/95/5b/1c/955b1cfb-8704-490d-4d17-b666d70f52e2/mza_12696879920408476138.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Comédie : les interviews"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/vos-questions-nos-r%C3%A9ponses/id1752843346?i=1000800587481"
+    }
+  ]
+}

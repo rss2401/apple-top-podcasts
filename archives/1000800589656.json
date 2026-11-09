@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "Eric Demuth und Christian Wolf",
+      "id": "1000800589656",
+      "name": "Wie Superreiche WIRKLICH feiern | Christoph von Preysing",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/26/a0/ad26a05f-64b8-33f3-8226-b37c859b018c/mza_16766643238381004200.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Firmengründung"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/wie-superreiche-wirklich-feiern-christoph-von-preysing/id1801209563?i=1000800589656"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 53,
+      "artistName": "Alain Finkielkraut",
+      "id": "1000800388172",
+      "name": "Le 7-Octobre et ses suites",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/06/a2/8c06a209-0099-d9c3-5499-5b809b619eae/mza_10750027408394877976.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-7-octobre-et-ses-suites/id114880560?i=1000800388172"
+    }
+  ]
+}

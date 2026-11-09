@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "Anne Ghesquière",
+      "id": "1000800347612",
+      "name": "Fabien Olicard : Votre idée va devenir une réalité",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/96/7c/e0967c7a-abab-f7bf-a77a-3c523ed0978e/mza_6614386604419311242.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/fabien-olicard-votre-ide-e-va-devenir-une-re-alite/id1448632119?i=1000800347612"
+    }
+  ]
+}

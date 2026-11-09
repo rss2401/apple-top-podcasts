@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 30,
+      "artistName": "Radio Nova",
+      "id": "1000800612350",
+      "name": "Je suis CNews ! - La chronique de Guillaume Meurice",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/c4/36/e8c436ba-8949-44f3-a087-c1f182a76161/mza_17912684160681718602.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/je-suis-cnews-la-chronique-de-guillaume-meurice/id1766740666?i=1000800612350"
+    }
+  ]
+}

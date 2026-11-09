@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 1,
+      "artistName": "Laurent Ruquier",
+      "id": "1000800588685",
+      "name": "L'INTÉGRALE - Le Best of du dimanche 8 novembre 2026",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/73/df/7c73dffa-251d-11df-a5ed-ba7f4ad32680/mza_6874075166598145464.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-le-best-of-du-dimanche-8-novembre-2026/id369369012?i=1000800588685"
+    }
+  ]
+}

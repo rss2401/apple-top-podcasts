@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 27,
+      "artistName": "Radio Nova",
+      "id": "1000800611889",
+      "name": "La police des polices - La grosse semaine de Pierre-Emmanuel Barré",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/63/2d/7d632d38-1b60-0a9b-321a-3ff0fb5833b3/mza_12289339410624250229.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/la-police-des-polices-la-grosse-semaine-de-pierre/id1766755265?i=1000800611889"
+    }
+  ]
+}

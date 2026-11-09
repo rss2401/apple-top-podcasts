@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 31,
+      "artistName": "Bérengère Bonte",
+      "id": "1000800550269",
+      "name": "Lendemain de claque électorale pour Donald Trump / France, peut-on relancer le dialogue social avec des caisses vides ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/cc/1b/e0cc1bf9-6eb6-9bae-01a5-a19209747227/mza_1161688958182494927.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lendemain-de-claque-%C3%A9lectorale-pour-donald-trump/id114880097?i=1000800550269"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 67,
+      "artistName": "Louie Media",
+      "id": "1000799888144",
+      "name": "L’amour au bout du pré",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/30/2e/32/302e32db-b56b-dcf7-e897-6e2604ec2d0d/mza_10998851698560130328.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Documentaire"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lamour-au-bout-du-pr%C3%A9/id1534412600?i=1000799888144"
+    }
+  ]
+}

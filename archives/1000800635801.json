@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 26,
+      "artistName": "Tichys Einblick",
+      "id": "1000800635801",
+      "name": "Seitenwechsel: Aufstand gegen betreutes Denken: Klartext von Roland Tichy & Susanne Dagen -TE Wecker am 09.11.2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/d0/b1/71d0b124-cf46-0460-613b-090afdccbe70/mza_4804369414419852856.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/seitenwechsel-aufstand-gegen-betreutes-denken-klartext/id1473344115?i=1000800635801"
+    }
+  ]
+}

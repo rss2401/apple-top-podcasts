@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "Europe1",
+      "id": "1000800507557",
+      "name": "L'homme était dans l'arbre",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/aa/ff/65aaff1d-2033-f9b1-6545-134395f48332/mza_15157562769069015870.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lhomme-%C3%A9tait-dans-larbre/id1581950528?i=1000800507557"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 60,
+      "artistName": "Jacques Pradel",
+      "id": "1000800461650",
+      "name": "L'affaire Bettina Beau, jalousie mortelle",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b4/07/11/b40711b0-b8df-552a-0a7d-a5d7c7746469/mza_12933488136642914448.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-bettina-beau-jalousie-mortelle/id1616146073?i=1000800461650"
+    }
+  ]
+}

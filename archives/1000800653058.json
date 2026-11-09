@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "Initial Studio",
+      "id": "1000800653058",
+      "name": "[REDIFFUSION] Une enquête dans la peau - Un crime trop parfait (2/2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/a0/f2/d0a0f271-54b0-cfce-5b92-31a05b33d715/mza_3040540308096893793.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/rediffusion-une-enqu%C3%AAte-dans-la-peau-un-crime-trop/id1571491157?i=1000800653058"
+    }
+  ]
+}

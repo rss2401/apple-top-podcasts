@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 39,
+      "artistName": "Laurent Ruquier",
+      "id": "1000800651236",
+      "name": "LE MEILLEUR DE BOUVARD - Quand 2 chiens méchants règles bien des problèmes... La blague de Carlos",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/c0/37/80c03748-1330-2acf-1eec-20835a04cb98/mza_11849550534056992172.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-bouvard-quand-2-chiens-m%C3%A9chants/id369369012?i=1000800651236"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 41,
+      "artistName": "Frédéric Beigbeder",
+      "id": "1000800609250",
+      "name": "L'INTÉGRALE - \"Tous les goûts sont permis\" depuis la Foire du Livre de Brive",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/d1/bf/f5d1bff4-6bbd-939e-bbac-29ca214f0002/mza_13070056867236143853.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-tous-les-go%C3%BBts-sont-permis-depuis-la-foire/id6804628962?i=1000800609250"
+    }
+  ]
+}

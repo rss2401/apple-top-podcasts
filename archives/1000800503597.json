@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 49,
+      "artistName": "Matthieu Stefani | Collision Productions",
+      "id": "1000800503597",
+      "name": "#577 - Eloi Spinnler - Chef, Groupe Bonaloi - Viser l'excellence sans sacrifier l'humain",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/86/25/418625b7-a79c-cffc-c884-20a3477c7a89/mza_939044417680710767.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Entrepreneuriat"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/577-eloi-spinnler-chef-groupe-bonaloi-viser-lexcellence/id1209142994?i=1000800503597"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 20,
+      "artistName": "Jonathan Langlois",
+      "id": "1000800496264",
+      "name": "Pourquoi plus personne ne sait comment éduquer ses enfants ? Avec Caroline Goldman",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/6e/54/9f6e54d8-08fc-3d65-5bc2-d3d11116038a/mza_17106665317120054457.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Spiritualité"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/pourquoi-plus-personne-ne-sait-comment-%C3%A9duquer-ses/id1677352708?i=1000800496264"
+    }
+  ]
+}

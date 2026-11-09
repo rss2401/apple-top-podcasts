@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 89,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000800318059",
+      "name": "INCONTOURNABLE - Jim Jones : le révérend aux mains sanglantes",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/85/54/7d85542e-13b8-2a2a-f44b-c350962f03aa/mza_10529379052119948347.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/incontournable-jim-jones-le-r%C3%A9v%C3%A9rend-aux-mains-sanglantes/id389542173?i=1000800318059"
+    }
+  ]
+}

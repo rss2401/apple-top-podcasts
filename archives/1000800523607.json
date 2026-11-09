@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 23,
+      "artistName": "RTL",
+      "id": "1000800523607",
+      "name": "INÉDIT - Féminicide de masse, le meurtre de Christiane Commeau... Découvrez le programme de la semaine",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/92/17/5c92174b-7131-ef56-f947-dd873db7e7f9/mza_7430251760013451674.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/in%C3%A9dit-f%C3%A9minicide-de-masse-le-meurtre-de/id389542173?i=1000800523607"
+    }
+  ]
+}

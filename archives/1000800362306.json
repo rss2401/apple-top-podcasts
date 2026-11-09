@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "Europe 1",
+      "id": "1000800362306",
+      "name": "Une calzone et deux balles au dessert - Le récit [2/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/3b/bc/fc3bbc24-4dbb-9e86-2e9d-98297b4dbaca/mza_3933668679411969644.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/une-calzone-et-deux-balles-au-dessert-le-r%C3%A9cit-2-2/id1146402624?i=1000800362306"
+    }
+  ]
+}

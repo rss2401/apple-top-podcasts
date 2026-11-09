@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 17,
+      "artistName": "France Télévisions",
+      "id": "1000800440981",
+      "name": "Mobilisation, inflation : la France à cran - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8f/4e/c08f4eef-cfd1-2179-7d77-cf072e00c115/mza_7629550682721140889.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/mobilisation-inflation-la-france-%C3%A0-cran-lint%C3%A9grale/id1438726711?i=1000800440981"
+    }
+  ]
+}

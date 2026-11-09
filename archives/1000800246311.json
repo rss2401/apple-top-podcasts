@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 98,
+      "artistName": "France Télévisions",
+      "id": "1000800246311",
+      "name": "Ils ne peuvent pas s'empêcher de séduire ! - L'intégrale -",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/d6/dc/acd6dc49-b8f5-d5d7-84af-8f2e86e67891/mza_762443988006223419.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/ils-ne-peuvent-pas-semp%C3%AAcher-de-s%C3%A9duire-lint%C3%A9grale/id1561370616?i=1000800246311"
+    }
+  ]
+}

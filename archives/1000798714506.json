@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "Louie Media",
+      "id": "1000798714506",
+      "name": "Pourquoi est-ce insupportable d’attendre ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/76/b4/0c76b4a1-c486-fbe0-0d71-00bc18b1eb94/mza_9657013631236551609.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Santé mentale"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/pourquoi-est-ce-insupportable-dattendre/id1447653027?i=1000798714506"
+    }
+  ]
+}

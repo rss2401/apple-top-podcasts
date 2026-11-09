@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 9,
+      "artistName": "Laurent Ruquier",
+      "id": "1000800276711",
+      "name": "L'INTÉGRALE - Émission spéciale à Brive-la-Gaillarde pour la Foire du Livre !",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/a6/fc/b9a6fc66-cbac-dfb2-5b31-f9933de0c371/mza_663050557027647100.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-sp%C3%A9ciale-%C3%A0-brive-la-gaillarde-pour/id369369012?i=1000800276711"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 57,
+      "artistName": "France Culture",
+      "id": "1000800461800",
+      "name": "[BEST OF 🔥]  L'esprit de mai 2/2 : tout changer ! (2018)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/ce/92/05ce9245-93a7-e740-5c08-853f239b01a9/mza_8789895655786354368.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "Culture et société",
+          "url": "https://itunes.apple.com/fr/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/best-of-lesprit-de-mai-2-2-tout-changer-2018/id160879442?i=1000800461800"
+    }
+  ]
+}

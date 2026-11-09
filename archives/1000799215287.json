@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 26,
+      "artistName": "Goalhanger",
+      "id": "1000799215287",
+      "name": "Watergate: The Spies Who Went Rogue (Ep 2)",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/36/3b/5e363be2-b0db-a846-1e84-49b1ef352e43/mza_17544319900546903854.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/watergate-the-spies-who-went-rogue-ep-2/id1780384916?i=1000799215287"
+    }
+  ]
+}

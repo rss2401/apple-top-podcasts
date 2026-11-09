@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 25,
+      "artistName": "Europe 1",
+      "id": "1000800508154",
+      "name": "Christian Iacono, le mensonge - Le récit [2/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/b4/36/71b43625-809d-8397-4d0a-3cbdf621e001/mza_3764693716578015145.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/christian-iacono-le-mensonge-le-r%C3%A9cit-2-2/id1146402624?i=1000800508154"
+    }
+  ]
+}

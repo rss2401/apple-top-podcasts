@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 4,
+      "artistName": "Radio Nova",
+      "id": "1000800619925",
+      "name": "L'intégrale : \"La dernière\" du 08 novembre 2026 avec Fleur Breteau",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/d8/e0/10d8e010-f7b2-ef53-8ac2-48da0197d523/mza_10938015288383652419.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "Humour",
+          "url": "https://itunes.apple.com/fr/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-la-derni%C3%A8re-du-08-novembre-2026-avec-fleur/id1766744611?i=1000800619925"
+    }
+  ]
+}

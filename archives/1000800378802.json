@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 56,
+      "artistName": "Le Parisien",
+      "id": "1000800378802",
+      "name": "[2/2] En 1978, le procès qui a fait du viol un vrai crime",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/bd/f3/bdbdf386-0439-4c08-4fbd-bd82e8bbd0f8/mza_1982277198371360427.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/2-2-en-1978-le-proc%C3%A8s-qui-a-fait-du-viol-un-vrai-crime/id1658362786?i=1000800378802"
+    }
+  ]
+}

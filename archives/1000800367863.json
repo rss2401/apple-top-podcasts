@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 100,
+      "artistName": "Agathe Lecaron",
+      "id": "1000800367863",
+      "name": "Yann : \"Je suis un miraculé du cancer du pancréas de stade 4\"",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e3/ce/07/e3ce0721-53b3-2676-1c11-2e4375ab67b5/mza_7929782416397863091.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Journaux personnels"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/yann-je-suis-un-miracul%C3%A9-du-cancer-du-pancr%C3%A9as-de-stade-4/id1678013081?i=1000800367863"
+    }
+  ]
+}

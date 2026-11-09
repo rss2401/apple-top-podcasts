@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 40,
+      "artistName": "Laurent Ruquier",
+      "id": "1000800075932",
+      "name": "L'INTÉGRALE - Émission du jeudi 5 novembre 2026",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/ab/a3/b0aba3d8-857c-a136-876a-a78b59921132/mza_6903746644130915229.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lint%C3%A9grale-%C3%A9mission-du-jeudi-5-novembre-2026/id369369012?i=1000800075932"
+    }
+  ]
+}

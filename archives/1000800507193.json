@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 65,
+      "artistName": "Europe 1",
+      "id": "1000800507193",
+      "name": "Christian Iacono, le mensonge - Le débrief",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/37/99/303799f5-cebd-6070-f534-9a226cf8d2df/mza_6514312660109702470.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/christian-iacono-le-mensonge-le-d%C3%A9brief/id1146402624?i=1000800507193"
+    }
+  ]
+}

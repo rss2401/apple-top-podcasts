@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 8,
+      "artistName": "Philippe Meyer",
+      "id": "1000800539955",
+      "name": "Après la vague démocrate, les suites du mandat Trump / Vers la liquéfaction du « bloc central » ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/24/a0/a824a00d-c82b-9d7a-51bb-76a7e942e2ed/mza_513484927330489177.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/apr%C3%A8s-la-vague-d%C3%A9mocrate-les-suites-du-mandat-trump/id1279728744?i=1000800539955"
+    }
+  ]
+}

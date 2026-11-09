@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 12,
+      "artistName": "Radio Classique",
+      "id": "1000800610867",
+      "name": "Olympe de Gouges, auteur de la Déclaration des droits de la femme",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/29/7e/13297e4b-f6d0-fab6-a0cf-127d9124c679/mza_14645075515471929879.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/olympe-de-gouges-auteur-de-la-d%C3%A9claration-des-droits/id1434297164?i=1000800610867"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 34,
+      "artistName": "燕外之意",
+      "id": "1000800651314",
+      "name": "燕外之意｜我画地为牢啊厉娜",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/11/00/19110005-c82b-bd1f-1bf7-2cb207d15475/mza_14311037904270360428.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "情感与人际关系"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E7%87%95%E5%A4%96%E4%B9%8B%E6%84%8F-%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E5%95%8A%E5%8E%89%E5%A8%9C/id1620123449?i=1000800651314"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 7,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000800461776",
+      "name": "INCONTOURNABLE - Affaire Marie-France Dambry : la maison des mensonges",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/f2/9c/e4f29c49-d9e7-47e5-0a27-440fe0fdb0d9/mza_9090799311165788685.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/incontournable-affaire-marie-france-dambry-la-maison/id389542173?i=1000800461776"
+    }
+  ]
+}

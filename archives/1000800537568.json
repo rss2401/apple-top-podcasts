@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 94,
+      "artistName": "Fabrice Midal",
+      "id": "1000800537568",
+      "name": "L’extase et la joie - Benjamin Couchot -  Dialogue #286",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/76/72/ee7672e4-9be3-d067-7d64-b5575ff6269f/mza_512881735600178552.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Développement personnel"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/lextase-et-la-joie-benjamin-couchot-dialogue-286/id1542543989?i=1000800537568"
+    }
+  ]
+}

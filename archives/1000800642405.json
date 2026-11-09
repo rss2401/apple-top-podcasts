@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 53,
+      "artistName": "usutaku/gomichan",
+      "id": "1000800642405",
+      "name": "2026年11月9日: ChatGPT Gif生成、Claude Ultra制限撤廃、CodexとChatGPT使用量統合",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/30/c1/6230c199-e2ff-eb51-2644-73bb49dee8a3/mza_10389596047541796505.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "テクノロジー",
+          "url": "https://itunes.apple.com/jp/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/2026%E5%B9%B411%E6%9C%889%E6%97%A5-chatgpt-gif%E7%94%9F%E6%88%90-claude-ultra%E5%88%B6%E9%99%90%E6%92%A4%E5%BB%83-codex%E3%81%A8chatgpt%E4%BD%BF%E7%94%A8%E9%87%8F%E7%B5%B1%E5%90%88/id1795710724?i=1000800642405"
+    }
+  ]
+}

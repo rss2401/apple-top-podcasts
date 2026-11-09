@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 94,
+      "artistName": "The Daily Beast, Joanna Coles",
+      "id": "1508202790",
+      "name": "The Daily Beast Podcast",
+      "kind": "podcasts",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/the-daily-beast-podcast/id1508202790"
+    }
+  ]
+}

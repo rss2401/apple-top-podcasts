@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202604",
@@ -83,10 +83,30 @@
     },
     {
       "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 95,
+      "artistName": "The Bulwark",
+      "id": "1794450472",
+      "name": "Bulwark Takes",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/45/d3/3c45d370-be2e-2324-9c77-ffab1b7d6a8c/mza_5731835704910824301.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/bulwark-takes/id1794450472"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 78,
+      "rank": 32,
       "artistName": "The Bulwark",
       "id": "1794450472",
       "name": "Bulwark Takes",
@@ -106,7 +126,7 @@
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 28,
+      "rank": 24,
       "artistName": "The Bulwark",
       "id": "1794450472",
       "name": "Bulwark Takes",

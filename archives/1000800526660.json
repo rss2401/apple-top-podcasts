@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "畑芽育&齊藤なぎさ",
+      "id": "1000800526660",
+      "name": "人生のでっけえイベントは全部タイミング",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/94/db/7394db0d-30ff-9f6e-81d9-895f074cc485/mza_11208527935247517752.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E4%BA%BA%E7%94%9F%E3%81%AE%E3%81%A7%E3%81%A3%E3%81%91%E3%81%88%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AF%E5%85%A8%E9%83%A8%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0/id1794487657?i=1000800526660"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 68,
+      "artistName": "Europe 1",
+      "id": "1000800547877",
+      "name": "Le grand rendez-vous avec Henri Guaino, ancien conseiller spécial de Nicolas Sarkozy",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/70/c7/a670c7f0-0829-9cb5-ef3a-53ebf158cb18/mza_10176405322697375272.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politique"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-grand-rendez-vous-avec-henri-guaino-ancien-conseiller/id290598365?i=1000800547877"
+    }
+  ]
+}

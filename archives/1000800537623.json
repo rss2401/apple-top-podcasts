@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "ニッポン放送",
+      "id": "1000800537623",
+      "name": "第106杯目 感謝のあぺぺりてぃーぼ！！",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/8e/75/bc8e755d-7c64-12f3-e11e-7b679d7dde2a/mza_14064934445396274130.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%AC%AC106%E6%9D%AF%E7%9B%AE-%E6%84%9F%E8%AC%9D%E3%81%AE%E3%81%82%E3%81%BA%E3%81%BA%E3%82%8A%E3%81%A6%E3%81%83%E3%83%BC%E3%81%BC/id1777244794?i=1000800537623"
+    }
+  ]
+}

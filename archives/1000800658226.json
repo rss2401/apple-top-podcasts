@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "Anne Ghesquière",
+      "id": "1000800658226",
+      "name": "Indomptable : choisir enfin sa propre vie",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/1b/41/001b4127-94c6-517e-c7c4-d6f39cd9b3b5/mza_15316632590177523680.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/indomptable-choisir-enfin-sa-propre-vie/id1448632119?i=1000800658226"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 99,
+      "artistName": "tagesschau",
+      "id": "1000800631052",
+      "name": "tagesthemen 22:45 Uhr, 08.11.2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/a3/cf/80a3cfb3-208e-16d8-0b8b-39ecf67f6e12/mza_14929429591292276471.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Nachrichten des Tages"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/tagesthemen-22-45-uhr-08-11-2026/id253185144?i=1000800631052"
+    }
+  ]
+}

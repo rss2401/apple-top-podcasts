@@ -3,10 +3,10 @@
   "results": [
     {
       "month": "202611",
-      "country": "us",
+      "country": "gb",
       "mediaType": "podcasts",
       "feed": "top-podcast-episodes",
-      "rank": 22,
+      "rank": 33,
       "artistName": "Goalhanger",
       "id": "1000797637935",
       "name": "Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
@@ -16,10 +16,10 @@
         {
           "genreId": "1487",
           "name": "History",
-          "url": "https://itunes.apple.com/us/genre/id1487"
+          "url": "https://itunes.apple.com/gb/genre/id1487"
         }
       ],
-      "url": "https://podcasts.apple.com/us/podcast/revolution-in-the-soviet-empire-the-hungarian/id1537788786?i=1000797637935"
+      "url": "https://podcasts.apple.com/gb/podcast/revolution-in-the-soviet-empire-the-hungarian/id1537788786?i=1000797637935"
     }
   ]
 }

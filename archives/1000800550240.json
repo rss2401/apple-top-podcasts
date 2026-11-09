@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 66,
+      "artistName": "Bérengère Bonte",
+      "id": "1000800550240",
+      "name": "En France, peut-on relancer le dialogue social avec des caisses vides ?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/9d/83/e59d830a-7d33-7805-2251-496ab84a78ba/mza_7446197530865069972.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/en-france-peut-on-relancer-le-dialogue-social-avec/id114880097?i=1000800550240"
+    }
+  ]
+}
