@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 99,
+      "artistName": "TBS RADIO",
+      "id": "1681009732",
+      "name": "爆笑問題の日曜サンデー",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/34/c9/7534c933-c277-0c54-882e-ae30d19b1f08/mza_8568160176698554961.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        },
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%81%AE%E6%97%A5%E6%9B%9C%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC/id1681009732"
+    }
+  ]
+}

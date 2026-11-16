@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 94,
+      "artistName": "Steven Godfrey, Andy Staples",
+      "id": "1000802114707",
+      "name": "Arch Manning & Texas survive LSU + Lane Kiffin’s Year 1 failure + Hot seat dread for Dabo & Riley",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/3f/cb/a43fcb98-4512-bf99-b9d2-da2625fb258f/mza_12170522148473994824.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/arch-manning-texas-survive-lsu-lane-kiffins-year-1/id1423417914?i=1000802114707"
+    }
+  ]
+}

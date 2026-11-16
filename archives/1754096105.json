@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcasts",
+      "rank": 85,
+      "artistName": "WeMynd & Philipp Fleiter",
+      "id": "1754096105",
+      "name": "Dieser eine Moment – Der Podcast mit Philipp Fleiter",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1304",
+          "name": "Bildung",
+          "url": "https://itunes.apple.com/de/genre/id1304"
+        },
+        {
+          "genreId": "1324",
+          "name": "Gesellschaft und Kultur",
+          "url": "https://itunes.apple.com/de/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/dieser-eine-moment-der-podcast-mit-philipp-fleiter/id1754096105"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "The Guardian",
+      "id": "1000802168528",
+      "name": "Grand Theft Auto VI: the cultural event of the decade?",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/67/be/ff/67beff2a-6aad-314e-caff-4ced146c59ba/mza_9284723196196458426.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/grand-theft-auto-vi-the-cultural-event-of-the-decade/id1440133626?i=1000802168528"
+    }
+  ]
+}

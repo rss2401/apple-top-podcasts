@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 62,
+      "artistName": "The Pioneer",
+      "id": "1000802174192",
+      "name": "Nvidia: Kampf um Chefposten entbrannt",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/40/de/4240def9-8342-1b3e-5b9d-9c28d9728938/mza_13972839921219174515.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1321",
+          "name": "Wirtschaft",
+          "url": "https://itunes.apple.com/de/genre/id1321"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/nvidia-kampf-um-chefposten-entbrannt/id6789546684?i=1000802174192"
+    }
+  ]
+}

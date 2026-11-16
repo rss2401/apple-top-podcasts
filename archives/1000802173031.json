@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 39,
+      "artistName": "Table.Briefings",
+      "id": "1000802173031",
+      "name": "Ist die Globalisierung vorbei? Mit KUKA-Chef Christoph Schell",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/91/b8/6891b80d-497b-2eeb-c364-92d8237fd52d/mza_2216460014652897754.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Nachrichten des Tages"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/ist-die-globalisierung-vorbei-mit-kuka-chef-christoph/id1725152123?i=1000802173031"
+    }
+  ]
+}

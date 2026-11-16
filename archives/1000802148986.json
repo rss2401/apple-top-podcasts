@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "悦读烩",
+      "id": "1000802148986",
+      "name": "518 运动鞋设计的创意天才",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/ea/3c/0dea3cec-4c6a-3c7e-ff39-127e7f83951f/mza_9976114262049904548.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "语言学习"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/518-%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%88%9B%E6%84%8F%E5%A4%A9%E6%89%8D/id1852255002?i=1000802148986"
+    }
+  ]
+}

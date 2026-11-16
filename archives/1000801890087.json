@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 86,
+      "artistName": "TBS RADIO",
+      "id": "1000801890087",
+      "name": "＃３３　祝いに来たのか、占われに来たのか（ゲスト：ミライズ矯正歯科南青山院長・富田大介さん）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a9/e8/91/a9e89178-6230-56c2-f1f5-487ad6f7e179/mza_14930628814314042648.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/%EF%BC%93%EF%BC%93-%E7%A5%9D%E3%81%84%E3%81%AB%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%8B-%E5%8D%A0%E3%82%8F%E3%82%8C%E3%81%AB%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%8B-%E3%82%B2%E3%82%B9%E3%83%88-%E3%83%9F%E3%83%A9%E3%82%A4%E3%82%BA%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91%E5%8D%97%E9%9D%92%E5%B1%B1%E9%99%A2%E9%95%B7-%E5%AF%8C%E7%94%B0%E5%A4%A7%E4%BB%8B%E3%81%95%E3%82%93/id1560299989?i=1000801890087"
+    }
+  ]
+}

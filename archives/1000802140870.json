@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 70,
+      "artistName": "WeMynd & Philipp Fleiter",
+      "id": "1000802140870",
+      "name": "\"Vom Kinderwunsch zur Pflegefamilie\" mit Papa und Papi",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Selbstverwirklichung"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/vom-kinderwunsch-zur-pflegefamilie-mit-papa-und-papi/id1754096105?i=1000802140870"
+    }
+  ]
+}

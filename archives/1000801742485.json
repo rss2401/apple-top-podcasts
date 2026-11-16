@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 98,
+      "artistName": "ニッポン放送",
+      "id": "1000801742485",
+      "name": "#293 ゆめっちさん（後編）",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/75/eb/6475eb36-71b6-80a7-3b09-15694c1c8a7e/mza_4158363506295058799.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/293-%E3%82%86%E3%82%81%E3%81%A3%E3%81%A1%E3%81%95%E3%82%93-%E5%BE%8C%E7%B7%A8/id1561323848?i=1000801742485"
+    }
+  ]
+}

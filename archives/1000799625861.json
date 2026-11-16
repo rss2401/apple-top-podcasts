@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 88,
+      "artistName": "蒸汽萝卜",
+      "id": "1000799625861",
+      "name": "vol.9跟着Michael大麦哥继续聊聊爱情那些事儿",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/14/4e/48144ef3-a26f-f9ba-4e58-3def1940fb3f/mza_9196737223462607406.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1502",
+          "name": "休闲",
+          "url": "https://itunes.apple.com/cn/genre/id1502"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/vol-9%E8%B7%9F%E7%9D%80michael%E5%A4%A7%E9%BA%A6%E5%93%A5%E7%BB%A7%E7%BB%AD%E8%81%8A%E8%81%8A%E7%88%B1%E6%83%85%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1822217477?i=1000799625861"
+    }
+  ]
+}

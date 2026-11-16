@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 22,
+      "artistName": "Tichys Einblick",
+      "id": "1000802146760",
+      "name": "Stahlgipfel der Verzweiflung: Die Fünf-Cent-Illusion  - TE Wecker am 16.11.2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/d7/70/e6d770ee-574d-05fc-e5c4-488181a7ea33/mza_11707426762677866766.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/stahlgipfel-der-verzweiflung-die-f%C3%BCnf-cent-illusion/id1473344115?i=1000802146760"
+    }
+  ]
+}

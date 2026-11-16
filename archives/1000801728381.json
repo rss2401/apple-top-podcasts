@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 96,
+      "artistName": "Kugel und Niere",
+      "id": "1000801728381",
+      "name": "Die Raupen sind los",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6b/45/b4/6b45b425-60a3-5d1c-e852-6e0eb4cf4018/mza_16897818749207311914.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Geschichte",
+          "url": "https://itunes.apple.com/de/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/die-raupen-sind-los/id1645244877?i=1000801728381"
+    }
+  ]
+}

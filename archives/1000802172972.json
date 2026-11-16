@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 33,
+      "artistName": "Europe 1",
+      "id": "1000802172972",
+      "name": "L’affaire Mestorino - Le récit [1/2]",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/29/3d/3d293dae-f764-6f8a-4e5d-d3082c3a6142/mza_15587149937400415861.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/laffaire-mestorino-le-r%C3%A9cit-1-2/id1146402624?i=1000802172972"
+    }
+  ]
+}

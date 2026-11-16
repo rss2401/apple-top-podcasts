@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 23,
+      "artistName": "DER SPIEGEL",
+      "id": "1000802174697",
+      "name": "Merz zu Besuch bei der CSU. Heil will SPD-Chef werden. Anthropic drängt an die Börse.",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/2e/4c/a62e4cbc-eb72-d28a-6bcc-f6cfadb9cd1d/mza_11177150656881292492.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Nachrichten des Tages"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/merz-zu-besuch-bei-der-csu-heil-will-spd-chef-werden/id1477821441?i=1000802174697"
+    }
+  ]
+}

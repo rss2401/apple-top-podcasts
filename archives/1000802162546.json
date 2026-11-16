@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 71,
+      "artistName": "Anne Ghesquière",
+      "id": "1000802162546",
+      "name": "Boris Cyrulnik, la peur du rejet nous rend vulnérable aux escrocs affectifs",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/70/4b/c5704ba3-ed76-4d87-8b0a-894e57c72b2a/mza_17418253583996932511.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1512",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id1512"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/boris-cyrulnik-la-peur-du-rejet-nous-rend-vuln%C3%A9rable/id1448632119?i=1000802162546"
+    }
+  ]
+}

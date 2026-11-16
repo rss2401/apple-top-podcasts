@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 15,
+      "artistName": "NPR",
+      "id": "1000801806014",
+      "name": "What universal free childcare is costing New Mexico",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/83/73/1e/83731e21-78ff-c55b-b8c9-0e7d2158a735/mza_10195312314768341147.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Daily News"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/what-universal-free-childcare-is-costing-new-mexico/id1222114325?i=1000801806014"
+    }
+  ]
+}

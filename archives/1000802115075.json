@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "tagesschau",
+      "id": "1000802115075",
+      "name": "tagesschau 20:00 Uhr, 15.11.2026",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/06/8f/a4068f03-1596-25b5-58d7-008bfdcc249b/mza_2514830346801098500.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1489",
+          "name": "Nachrichten",
+          "url": "https://itunes.apple.com/de/genre/id1489"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/tagesschau-20-00-uhr-15-11-2026/id340159582?i=1000802115075"
+    }
+  ]
+}

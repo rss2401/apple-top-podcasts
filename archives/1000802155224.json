@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 26,
+      "artistName": "Jean-Alphonse Richard",
+      "id": "1000802155224",
+      "name": "François Darcy : dans les flammes du soupçon",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/2c/80/4e2c8023-39f1-29c5-c413-ae92d409cf00/mza_15277505358832997405.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "Criminologie",
+          "url": "https://itunes.apple.com/fr/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/fran%C3%A7ois-darcy-dans-les-flammes-du-soup%C3%A7on/id1593842944?i=1000802155224"
+    }
+  ]
+}

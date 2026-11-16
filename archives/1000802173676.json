@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 93,
+      "artistName": "Crowd Network",
+      "id": "1000802173676",
+      "name": "Wales Shock All Blacks, England Crush Japan & France Humble Boks",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/70/70/c9707063-df12-d0c7-898c-065ec54b8705/mza_14583960217106609809.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Rugby"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/wales-shock-all-blacks-england-crush-japan-france-humble/id1663549381?i=1000802173676"
+    }
+  ]
+}

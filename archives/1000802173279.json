@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "wave.audio",
+      "id": "1000802173279",
+      "name": "Non, les Français n’étaient pas tous pétainistes en 1940",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/71/b4/7d71b437-1d18-ca5a-4c81-679e0faadc8b/mza_5888083818336698316.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/non-les-fran%C3%A7ais-n%C3%A9taient-pas-tous-p%C3%A9tainistes-en-1940/id1523441357?i=1000802173279"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "不吱声的三多",
+      "id": "1000800799197",
+      "name": "EP98.迷失1993-冀F特大连环抢劫强奸杀人案",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/17/4b/99174bb0-ff64-4e06-1668-94a14cfb880b/mza_486936777968077276.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "犯罪纪实",
+          "url": "https://itunes.apple.com/cn/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/ep98-%E8%BF%B7%E5%A4%B11993-%E5%86%80f%E7%89%B9%E5%A4%A7%E8%BF%9E%E7%8E%AF%E6%8A%A2%E5%8A%AB%E5%BC%BA%E5%A5%B8%E6%9D%80%E4%BA%BA%E6%A1%88/id1771248028?i=1000800799197"
+    }
+  ]
+}

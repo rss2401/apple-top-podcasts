@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 78,
+      "artistName": "哎哟嚯Radio",
+      "id": "1000802004152",
+      "name": "313 从北海道回来后，我开始送外卖。",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/1f/df/bb1fdfb0-51f8-3a92-f93f-edb48399d84c/mza_3232641471230786866.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1303",
+          "name": "喜剧",
+          "url": "https://itunes.apple.com/cn/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/313-%E4%BB%8E%E5%8C%97%E6%B5%B7%E9%81%93%E5%9B%9E%E6%9D%A5%E5%90%8E-%E6%88%91%E5%BC%80%E5%A7%8B%E9%80%81%E5%A4%96%E5%8D%96/id1543609716?i=1000802004152"
+    }
+  ]
+}

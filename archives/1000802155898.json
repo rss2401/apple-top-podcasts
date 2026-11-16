@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 50,
+      "artistName": "WELT",
+      "id": "1000802155898",
+      "name": "Wenn aus Lust eine Bringschuld wird",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/d1/54/c8d15437-f151-1557-24f4-344d6dc0932e/mza_6809520615909607286.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1533",
+          "name": "Wissenschaft",
+          "url": "https://itunes.apple.com/de/genre/id1533"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/wenn-aus-lust-eine-bringschuld-wird/id1637836095?i=1000802155898"
+    }
+  ]
+}

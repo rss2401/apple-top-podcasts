@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 95,
+      "artistName": "UNICORN.inc",
+      "id": "1000801745093",
+      "name": "#147 また男に狂わされている",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/ef/a5/c0efa5d5-3e62-0957-ca7e-5e40e26e54c1/mza_8005130533709999819.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "個人ジャーナル"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/147-%E3%81%BE%E3%81%9F%E7%94%B7%E3%81%AB%E7%8B%82%E3%82%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B/id1728211655?i=1000801745093"
+    }
+  ]
+}

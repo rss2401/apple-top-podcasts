@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 29,
+      "artistName": "Goalhanger",
+      "id": "1000799215776",
+      "name": "Watergate: The Leak That Caught the CIA (Ep 3)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/d7/47/10d747dc-e22e-7e5d-9b59-1f52e5627b09/mza_8603735107932265681.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/watergate-the-leak-that-caught-the-cia-ep-3/id1780384916?i=1000799215776"
+    }
+  ]
+}

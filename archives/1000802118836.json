@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "くりらじ",
+      "id": "1000802118836",
+      "name": "Appleるんるん_20261116",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a9/eb/7e/a9eb7ee7-3a7c-933f-a312-7660956b681d/ps.dawjvbfk.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1318",
+          "name": "テクノロジー",
+          "url": "https://itunes.apple.com/jp/genre/id1318"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/apple%E3%82%8B%E3%82%93%E3%82%8B%E3%82%93-20261116/id297438519?i=1000802118836"
+    }
+  ]
+}

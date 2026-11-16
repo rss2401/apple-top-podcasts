@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 5,
+      "artistName": "WELT",
+      "id": "1000802174503",
+      "name": "Die Erben von Nvidia und der große Steuer-Schlussverkauf",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/6f/6f/386f6fa2-9a97-d8b8-e6bb-246faf136612/mza_2719314949081680895.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Geldanlage"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/die-erben-von-nvidia-und-der-gro%C3%9Fe-steuer-schlussverkauf/id1549709271?i=1000802174503"
+    }
+  ]
+}

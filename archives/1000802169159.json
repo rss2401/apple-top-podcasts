@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 1,
+      "artistName": "Paul Ronzheimer",
+      "id": "1000802169159",
+      "name": "Putin enthüllt sein wahres Ziel / Europa blamiert sich erneut",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/67/90/0567907b-b0ec-fa39-4f32-4415a36fc51c/mza_16937522316004632455.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politik"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/putin-enth%C3%BCllt-sein-wahres-ziel-europa-blamiert-sich/id1700432142?i=1000802169159"
+    }
+  ]
+}

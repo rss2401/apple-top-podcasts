@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 36,
+      "artistName": "SKOR North",
+      "id": "1000802144763",
+      "name": "VENT LINE: Minnesota Vikings win and DOMINATE the Green Bay Packers",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/de/f4/61def42f-a620-fe98-8739-9c45351f89e4/mza_9129949020203533662.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Football"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/vent-line-minnesota-vikings-win-and-dominate-the/id923544550?i=1000802144763"
+    }
+  ]
+}

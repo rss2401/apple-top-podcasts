@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 92,
+      "artistName": "Europe 1",
+      "id": "1000802173638",
+      "name": "Napoléon Bonaparte et la conquête de l'Égypte",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/ef/67/efef6741-d2f4-74f4-1b75-5e86047782aa/mza_10196716950766084125.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1487",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id1487"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/napol%C3%A9on-bonaparte-et-la-conqu%C3%AAte-de-l%C3%A9gypte/id423534806?i=1000802173638"
+    }
+  ]
+}

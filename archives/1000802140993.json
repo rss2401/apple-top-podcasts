@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 74,
+      "artistName": "Andreas Fröhlich & Kai Schwind",
+      "id": "1000802140993",
+      "name": "Der Bobcast und das brennende Schwert",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/df/01/34df0160-6112-3f28-2afb-d28bf53c446d/mza_5146221908036985631.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1305",
+          "name": "Kinder und Familie",
+          "url": "https://itunes.apple.com/de/genre/id1305"
+        }
+      ],
+      "url": "https://podcasts.apple.com/de/podcast/der-bobcast-und-das-brennende-schwert/id1611155640?i=1000802140993"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 87,
+      "artistName": "Rights to Ricky Sanchez",
+      "id": "1000802138962",
+      "name": "Sixers Keep Winning, Embiid Scoring Struggles, Bill Simmons Issue",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/2b/23/232b2334-2f3a-0063-7b15-a0784c966f19/mza_10794004542138053208.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Basketball"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/sixers-keep-winning-embiid-scoring-struggles-bill-simmons/id474529211?i=1000802138962"
+    }
+  ]
+}

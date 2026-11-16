@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 97,
+      "artistName": "硬核班长",
+      "id": "1000802051061",
+      "name": "后会友期：为何旧知己，在最后变不到老友？",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/42/3f/d5423f69-6556-e03f-82e4-fd93d7c6d724/mza_14388174308653570469.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1309",
+          "name": "电视与电影",
+          "url": "https://itunes.apple.com/cn/genre/id1309"
+        }
+      ],
+      "url": "https://podcasts.apple.com/cn/podcast/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F-%E4%B8%BA%E4%BD%95%E6%97%A7%E7%9F%A5%E5%B7%B1-%E5%9C%A8%E6%9C%80%E5%90%8E%E5%8F%98%E4%B8%8D%E5%88%B0%E8%80%81%E5%8F%8B/id1178583723?i=1000802051061"
+    }
+  ]
+}

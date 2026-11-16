@@ -1,0 +1,23 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 36,
+      "artistName": "Laurent Ruquier",
+      "id": "1000802156365",
+      "name": "LE MEILLEUR DE BOUVARD - Les blagues de Jean Yanne",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/46/51/57465153-d74e-2ec7-87a3-296ae29f0ce9/mza_15154078915371550890.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Actualité du divertissement"
+        }
+      ],
+      "url": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-bouvard-les-blagues-de-jean-yanne/id369369012?i=1000802156365"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 48,
+      "artistName": "上坂あゆ美 / 鵜飼ヨシキ",
+      "id": "1000802122052",
+      "name": "#237　全てのトークイベントは泥だんごこねた方がいい",
+      "kind": "podcast-episodes",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/a6/60/e8a66048-8438-25fe-085e-86187a68dd2b/mza_7259764250030976477.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1324",
+          "name": "社会／文化",
+          "url": "https://itunes.apple.com/jp/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/jp/podcast/237-%E5%85%A8%E3%81%A6%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AF%E6%B3%A5%E3%81%A0%E3%82%93%E3%81%94%E3%81%93%E3%81%AD%E3%81%9F%E6%96%B9%E3%81%8C%E3%81%84%E3%81%84/id1726626112?i=1000802122052"
+    }
+  ]
+}

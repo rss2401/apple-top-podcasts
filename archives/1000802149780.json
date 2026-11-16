@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-podcast-episodes",
+      "rank": 52,
+      "artistName": "Goalhanger",
+      "id": "1000802149780",
+      "name": "How to make a million in... Crypto - with Anthony Scaramucci (Part 1)",
+      "kind": "podcast-episodes",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/87/ba/a487ba10-5322-e680-ebbf-700810906517/mza_1048449418612094833.jpg/100x100bb.png",
+      "genres": [
+        {
+          "name": "Politics"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/how-to-make-a-million-in-crypto-with-anthony/id1703785141?i=1000802149780"
+    }
+  ]
+}
