@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1681009732,
+      "trackId": 1681009732,
+      "artistName": "TBS RADIO",
+      "collectionName": "爆笑問題の日曜サンデー",
+      "trackName": "爆笑問題の日曜サンデー",
+      "collectionCensoredName": "爆笑問題の日曜サンデー",
+      "trackCensoredName": "爆笑問題の日曜サンデー",
+      "collectionViewUrl": "https://podcasts.apple.com/jp/podcast/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%81%AE%E6%97%A5%E6%9B%9C%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC/id1681009732?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/TBS5884589508",
+      "trackViewUrl": "https://podcasts.apple.com/jp/podcast/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%81%AE%E6%97%A5%E6%9B%9C%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC/id1681009732?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/34/c9/7534c933-c277-0c54-882e-ae30d19b1f08/mza_8568160176698554961.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/34/c9/7534c933-c277-0c54-882e-ae30d19b1f08/mza_8568160176698554961.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/34/c9/7534c933-c277-0c54-882e-ae30d19b1f08/mza_8568160176698554961.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-15T08:42:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 357,
+      "trackTimeMillis": 1592,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "コメディ",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/34/c9/7534c933-c277-0c54-882e-ae30d19b1f08/mza_8568160176698554961.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1303",
+        "26",
+        "1324"
+      ],
+      "genres": [
+        "コメディ",
+        "ポッドキャスト",
+        "社会／文化"
+      ]
+    }
+  ]
+}

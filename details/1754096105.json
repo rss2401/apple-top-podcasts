@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1754096105,
+      "trackId": 1754096105,
+      "artistName": "WeMynd & Philipp Fleiter",
+      "collectionName": "Dieser eine Moment – Der Podcast mit Philipp Fleiter",
+      "trackName": "Dieser eine Moment – Der Podcast mit Philipp Fleiter",
+      "collectionCensoredName": "Dieser eine Moment – Der Podcast mit Philipp Fleiter",
+      "trackCensoredName": "Dieser eine Moment – Der Podcast mit Philipp Fleiter",
+      "collectionViewUrl": "https://podcasts.apple.com/de/podcast/dieser-eine-moment-der-podcast-mit-philipp-fleiter/id1754096105?uo=4",
+      "feedUrl": "https://cdn.audiorella.com/podcasts/1806-dieser-eine-moment-der-podcast-mit-philipp-fleiter/feed.rss",
+      "trackViewUrl": "https://podcasts.apple.com/de/podcast/dieser-eine-moment-der-podcast-mit-philipp-fleiter/id1754096105?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-15T23:01:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 67,
+      "trackTimeMillis": 5399,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Selbstverwirklichung",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/57/a8/c457a88e-2d9e-f442-6a90-d7613c2e5dc0/mza_313577054826220783.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1302"
+      ],
+      "genres": [
+        "Selbstverwirklichung",
+        "Podcasts",
+        "Bildung",
+        "Gesellschaft und Kultur",
+        "Tagebücher"
+      ]
+    }
+  ]
+}

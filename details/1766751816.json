@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1766751816,
+      "trackId": 1766751816,
+      "artistName": "Radio Nova",
+      "collectionName": "La chronique d'Aymeric Lompret",
+      "trackName": "La chronique d'Aymeric Lompret",
+      "collectionCensoredName": "La chronique d'Aymeric Lompret",
+      "trackCensoredName": "La chronique d'Aymeric Lompret",
+      "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/la-chronique-daymeric-lompret/id1766751816?uo=4",
+      "feedUrl": "https://feeds.audiomeans.fr/feed/d76ed85b-40cf-4634-998e-842f9cce9453.xml",
+      "trackViewUrl": "https://podcasts.apple.com/fr/podcast/la-chronique-daymeric-lompret/id1766751816?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/50/13/7b50135e-6e94-0544-3b02-b4897ed177e1/mza_12188788814565624732.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/50/13/7b50135e-6e94-0544-3b02-b4897ed177e1/mza_12188788814565624732.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/50/13/7b50135e-6e94-0544-3b02-b4897ed177e1/mza_12188788814565624732.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-15T22:16:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 89,
+      "trackTimeMillis": 322,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Humour",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/50/13/7b50135e-6e94-0544-3b02-b4897ed177e1/mza_12188788814565624732.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1303",
+        "26",
+        "1489"
+      ],
+      "genres": [
+        "Humour",
+        "Podcasts",
+        "Actualités"
+      ]
+    }
+  ]
+}

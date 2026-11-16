@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1663549381,
+      "trackId": 1663549381,
+      "artistName": "Crowd Network",
+      "collectionName": "For The Love Of Rugby",
+      "trackName": "For The Love Of Rugby",
+      "collectionCensoredName": "For The Love Of Rugby",
+      "trackCensoredName": "For The Love Of Rugby",
+      "collectionViewUrl": "https://podcasts.apple.com/gb/podcast/for-the-love-of-rugby/id1663549381?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/COMG8478352455",
+      "trackViewUrl": "https://podcasts.apple.com/gb/podcast/for-the-love-of-rugby/id1663549381?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/70/70/c9707063-df12-d0c7-898c-065ec54b8705/mza_14583960217106609809.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/70/70/c9707063-df12-d0c7-898c-065ec54b8705/mza_14583960217106609809.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/70/70/c9707063-df12-d0c7-898c-065ec54b8705/mza_14583960217106609809.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2026-11-16T04:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 360,
+      "trackTimeMillis": 5709,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Rugby",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/70/70/c9707063-df12-d0c7-898c-065ec54b8705/mza_14583960217106609809.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1552",
+        "26",
+        "1545"
+      ],
+      "genres": [
+        "Rugby",
+        "Podcasts",
+        "Sport"
+      ]
+    }
+  ]
+}

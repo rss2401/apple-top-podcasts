@@ -6,41 +6,39 @@
       "kind": "podcast",
       "collectionId": 1773924080,
       "trackId": 1773924080,
-      "artistName": "Europe1",
+      "artistName": "Europe 1",
       "collectionName": "Au Coeur du Crime",
       "trackName": "Au Coeur du Crime",
       "collectionCensoredName": "Au Coeur du Crime",
       "trackCensoredName": "Au Coeur du Crime",
       "collectionViewUrl": "https://podcasts.apple.com/fr/podcast/au-coeur-du-crime/id1773924080?uo=4",
-      "feedUrl": "https://feeds.audiomeans.fr/feed/0b81db9c-9ba5-4faa-921c-3ae8ab7d15e2.xml",
+      "feedUrl": "https://feeds.audiomeans.fr/feed/4f33779e-c78a-4475-b4c7-c19853ed6ac6.xml",
       "trackViewUrl": "https://podcasts.apple.com/fr/podcast/au-coeur-du-crime/id1773924080?uo=4",
-      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/30x30bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/100x100bb.jpg",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/1d/6e/6d1d6e0e-d42a-f813-f7cc-d55d1437686e/mza_15866504992261681769.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/1d/6e/6d1d6e0e-d42a-f813-f7cc-d55d1437686e/mza_15866504992261681769.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/1d/6e/6d1d6e0e-d42a-f813-f7cc-d55d1437686e/mza_15866504992261681769.jpg/100x100bb.jpg",
       "collectionPrice": 0,
       "trackPrice": 0,
       "collectionHdPrice": 0,
-      "releaseDate": "2026-11-09T04:01:00Z",
+      "releaseDate": "2026-11-16T04:01:00Z",
       "collectionExplicitness": "notExplicit",
       "trackExplicitness": "cleaned",
       "trackCount": 100,
-      "trackTimeMillis": 1211,
+      "trackTimeMillis": 1483,
       "country": "FRA",
       "currency": "EUR",
       "primaryGenreName": "Criminologie",
       "contentAdvisoryRating": "Clean",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/600x600bb.jpg",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/1d/6e/6d1d6e0e-d42a-f813-f7cc-d55d1437686e/mza_15866504992261681769.jpg/600x600bb.jpg",
       "genreIds": [
         "1488",
         "26",
-        "1483",
-        "1484"
+        "1483"
       ],
       "genres": [
         "Criminologie",
         "Podcasts",
-        "Romans et nouvelles",
-        "Drame"
+        "Romans et nouvelles"
       ]
     }
   ]
